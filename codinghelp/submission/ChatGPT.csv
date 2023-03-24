@@ -1,0 +1,1736 @@
+comment_limit,comment_sort,selftext,author_fullname,saved,gilded,clicked,title,subreddit_name_prefixed,hidden,pwls,link_flair_css_class,downs,hide_score,name,quarantine,link_flair_text_color,upvote_ratio,subreddit_type,ups,total_awards_received,is_original_content,is_reddit_media_domain,is_meta,link_flair_text,can_mod_post,score,is_created_from_ads_ui,author_premium,thumbnail,edited,is_self,created,link_flair_type,wls,author_flair_type,domain,allow_live_comments,selftext_html,suggested_sort,archived,no_follow,is_crosspostable,pinned,over_18,media_only,link_flair_template_id,can_gild,spoiler,locked,visited,subreddit_id,author_is_blocked,link_flair_background_color,id,is_robot_indexable,num_comments,send_replies,whitelist_status,contest_mode,author_patreon_flair,permalink,parent_whitelist_status,stickied,url,subreddit_subscribers,created_utc,num_crossposts,is_video,_fetched,crosspost_parent,post_hint,url_overridden_by_dest,author_flair_template_id,author_flair_text,author_flair_text_color
+2048,confidence,"Soo I have never ever programmed anything in my life. I want to create an app that turns ChatGPT into ""VoiceGPT"" by combing speech recognition and text-to-speech thus making it more conversational For the speech recognition I am thinking about using OpenAIs Whisper. For the TTS, I am not sure what to use.
+
+The app is supposed to run on MacOS. Is this to big of a challange for a complete noob or do you think it's possible?",t2_pvn9n,False,0,False,How do I combine ChatGPT w/ speech recognition and TTS?,r/CodingHelp,False,6,swift,0,False,t3_112rmjc,False,light,0.33,public,0,0,False,False,False,[Swift],False,0,False,False,self,0.0,True,1676443367.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>Soo I have never ever programmed anything in my life. I want to create an app that turns ChatGPT into &quot;VoiceGPT&quot; by combing speech recognition and text-to-speech thus making it more conversational For the speech recognition I am thinking about using OpenAIs Whisper. For the TTS, I am not sure what to use.</p>
+
+<p>The app is supposed to run on MacOS. Is this to big of a challange for a complete noob or do you think it&#39;s possible?</p>
+</div><!-- SC_ON -->",confidence,False,True,False,False,False,False,420b3ccc-eab1-11e8-ac75-0e516d9d550c,False,False,False,False,t5_39s7p,False,#0079d3,112rmjc,True,2,True,all_ads,False,False,/r/CodingHelp/comments/112rmjc/how_do_i_combine_chatgpt_w_speech_recognition_and/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/112rmjc/how_do_i_combine_chatgpt_w_speech_recognition_and/,62193,1676443367.0,0,False,False,,,,,,
+2048,confidence,"How do I go about creating an algorithm that can take a YouTube video link, extract the transcript, run it through ChatGPT to generate key takeaways and a short abstract, and then save the resulting information in Notion with a heading based on the video's main theme? I'm looking for a step-by-step process to follow or any resources that could help me accomplish this.",t2_7qseesvr,False,0,False,Looking for help creating an algorithm to extract key takeaways and abstract from YouTube videos using ChatGPT and Notion,r/CodingHelp,False,6,request-coders,0,False,t3_zpsild,False,light,0.5,public,0,0,False,False,False,[Request Coders],False,0,False,False,self,0.0,True,1671458812.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>How do I go about creating an algorithm that can take a YouTube video link, extract the transcript, run it through ChatGPT to generate key takeaways and a short abstract, and then save the resulting information in Notion with a heading based on the video&#39;s main theme? I&#39;m looking for a step-by-step process to follow or any resources that could help me accomplish this.</p>
+</div><!-- SC_ON -->",confidence,False,True,False,False,False,False,9b2dfe9c-98c0-11eb-a08a-0e3919aef275,False,False,False,False,t5_39s7p,False,#373c3f,zpsild,True,0,True,all_ads,False,False,/r/CodingHelp/comments/zpsild/looking_for_help_creating_an_algorithm_to_extract/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/zpsild/looking_for_help_creating_an_algorithm_to_extract/,62193,1671458812.0,0,False,False,,,,,,
+2048,confidence,"I know for a fact that ChatGPT isn't going to replace programmers anytime soon
+
+but... it's only smart to use it as an assistant.
+
+I wanted to know what you guys came up with to leverage ChatGPT as a student and a programmer",t2_uecxx0yv,False,0,False,How can I leverage ChatGPT to help me with learning to code / working?,r/CodingHelp,False,6,random,0,False,t3_zudl0x,False,light,0.36,public,0,0,False,False,False,[Random],False,0,False,False,self,0.0,True,1671900498.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>I know for a fact that ChatGPT isn&#39;t going to replace programmers anytime soon</p>
+
+<p>but... it&#39;s only smart to use it as an assistant.</p>
+
+<p>I wanted to know what you guys came up with to leverage ChatGPT as a student and a programmer</p>
+</div><!-- SC_ON -->",confidence,False,True,False,False,False,False,d8fdfabe-6a09-11e6-9d6b-0e06f59ceca7,False,False,False,False,t5_39s7p,False,#ccac2b,zudl0x,True,3,True,all_ads,False,False,/r/CodingHelp/comments/zudl0x/how_can_i_leverage_chatgpt_to_help_me_with/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/zudl0x/how_can_i_leverage_chatgpt_to_help_me_with/,62193,1671900498.0,0,False,False,,,,,,
+2048,confidence,,t2_ena7di8k,False,0,False,"ChatGPT, cryptocurrency, LSTM predictions, :ambitious project",r/CodingHelp,False,6,request-coders,0,False,t3_11ewpbk,False,light,1.0,public,1,0,False,False,False,[Request Coders],False,1,False,False,default,0.0,False,1677652933.0,text,6,text,self.PromptCoding,False,,confidence,False,True,False,False,False,False,9b2dfe9c-98c0-11eb-a08a-0e3919aef275,False,False,False,False,t5_39s7p,False,#373c3f,11ewpbk,True,0,False,all_ads,False,False,/r/CodingHelp/comments/11ewpbk/chatgpt_cryptocurrency_lstm_predictions_ambitious/,all_ads,False,/r/PromptCoding/comments/11ewmhu/chatgpt_cryptocurrency_lstm_predictions_ambitious/,62193,1677652933.0,0,False,False,t3_11ewmhu,link,/r/PromptCoding/comments/11ewmhu/chatgpt_cryptocurrency_lstm_predictions_ambitious/,,,
+2048,confidence,I hear that this will take the majority of jobs.. so why am I leaning to code?,t2_kh6mf33z,False,0,False,should I quit learning to code(chat gpt),r/CodingHelp,False,6,request-coders,0,False,t3_zi0ksv,False,light,0.55,public,1,0,False,False,False,[Request Coders],False,1,False,False,self,0.0,True,1670699203.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>I hear that this will take the majority of jobs.. so why am I leaning to code?</p>
+</div><!-- SC_ON -->",confidence,False,False,False,False,False,False,9b2dfe9c-98c0-11eb-a08a-0e3919aef275,False,False,False,False,t5_39s7p,False,#373c3f,zi0ksv,True,9,True,all_ads,False,False,/r/CodingHelp/comments/zi0ksv/should_i_quit_learning_to_codechat_gpt/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/zi0ksv/should_i_quit_learning_to_codechat_gpt/,62193,1670699203.0,0,False,False,,,,,,
+2048,confidence,"So my friend is always talking with chatGPT and is constantly taking hours upon hours talking to it trying to get it to do things it inherently is programmed not to do. He is trying to make is simulate quantum mechanics and then give him the code for that so he can make game engines and technologies beyond everyone’s current comprehension.
+
+Sounds cool but he’s never learned any code, doesn’t want to learn code “I don’t have to because chat GPT already knows it all”.
+
+When I ask what is he planning on doing for the resources he says “it’s all up here” and points to his head. Then says “it’s a quest”. He doesn’t want anyone else having access to his data either so he always is like “I gotta make sure it’s all encrypted so it doesn’t fall into the wrong hands”
+
+He went from working his day job 40 hours a week to 9. Barely making $250 a week. He does Instacart.
+
+How do I help him realize he needs to stop trying to do everything himself and become knowledgeable in the thing he’s so passionate rather than making an A.I do everything. He doesn’t even comprehend the way a.I. code works. He just assumes everything will come to him via manifestation. But he’s not willing to put the equivalent effort in to gain that sort of outcome. Idk man I’m worried about him, but he’s very stubborn and I don’t want to tell him he’s wrong. Maybe I’m wrong. 
+
+Please help if you can.",t2_l39gvmfk,False,0,False,Friend is trying to take shortcuts and being unrealistic about his dream.,r/CodingHelp,False,6,opensource,0,False,t3_110r2bd,False,light,0.77,public,7,0,False,False,False,[Open Source],False,7,False,False,self,0.0,True,1676237984.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>So my friend is always talking with chatGPT and is constantly taking hours upon hours talking to it trying to get it to do things it inherently is programmed not to do. He is trying to make is simulate quantum mechanics and then give him the code for that so he can make game engines and technologies beyond everyone’s current comprehension.</p>
+
+<p>Sounds cool but he’s never learned any code, doesn’t want to learn code “I don’t have to because chat GPT already knows it all”.</p>
+
+<p>When I ask what is he planning on doing for the resources he says “it’s all up here” and points to his head. Then says “it’s a quest”. He doesn’t want anyone else having access to his data either so he always is like “I gotta make sure it’s all encrypted so it doesn’t fall into the wrong hands”</p>
+
+<p>He went from working his day job 40 hours a week to 9. Barely making $250 a week. He does Instacart.</p>
+
+<p>How do I help him realize he needs to stop trying to do everything himself and become knowledgeable in the thing he’s so passionate rather than making an A.I do everything. He doesn’t even comprehend the way a.I. code works. He just assumes everything will come to him via manifestation. But he’s not willing to put the equivalent effort in to gain that sort of outcome. Idk man I’m worried about him, but he’s very stubborn and I don’t want to tell him he’s wrong. Maybe I’m wrong. </p>
+
+<p>Please help if you can.</p>
+</div><!-- SC_ON -->",confidence,False,False,False,False,False,False,c5248300-6a09-11e6-865a-0e22faad69f1,False,False,False,False,t5_39s7p,False,#ff4500,110r2bd,True,14,True,all_ads,False,False,/r/CodingHelp/comments/110r2bd/friend_is_trying_to_take_shortcuts_and_being/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/110r2bd/friend_is_trying_to_take_shortcuts_and_being/,62193,1676237984.0,0,False,False,,,,,,
+2048,confidence,"I’m trying to make an app my team can run across a folder (and have it also scan all sub folders), and replace any files with special characters with an underscore. I cannot for the life of me get it to work properly. I got it so far that it runs but it doesn’t display a finder window where I can select which folder it should run across.
+
+I selected in Automator to run shell script & then selected /bin/bash as the Shell. Pasted in the code below and then saved it. Changed permissions so it’s unlocked. When I run it, no box appears with a folder selector. It seems like nothing is happening- and then all the sudden it says it worked… but I can’t tell on what lol and the log itself just shows everything works as it should be. Even ChatGPT just tells me to do the same thing (but no success). Any help is SO so appreciated!
+
+Bin bash code: 
+
+#!/bin/bash
+
+# Display a dialog box to prompt the user to choose a folder
+folder=$(osascript -e 'tell app ""System Events"" to POSIX path of (choose folder)')
+
+# Define the list of special characters to be replaced
+SPECIAL_CHARACTERS="",;:@&#'[]()?$%{}<>$!|+=\""*~$^""
+
+# Recursively scan through the folder and sub-folders
+while IFS= read -r -d '' file; do
+  # Replace any special characters with an underscore
+  new_name=$(echo ""$file"" | tr ""$SPECIAL_CHARACTERS"" ""_"")
+  
+  # Rename the file or folder if the name has changed
+  if [ ""$new_name"" != ""$file"" ]; then
+    mv ""$file"" ""$new_name""
+  fi
+done < <(find ""$folder"" -depth -name ""*[$SPECIAL_CHARACTERS]*"" -print0)
+
+# Display a message when the script is finished
+osascript -e 'display notification ""Special characters in file and folder names have been replaced with underscores.""'
+
+exit 0",t2_d8jkd9oi,False,0,False,"Can’t get my script to run entirely properly (made in Automator). It’s 90% there I think, but I’m such a beginner I am stumped.",r/CodingHelp,False,6,othercode,0,False,t3_11c6mzh,False,light,0.75,public,2,0,False,False,False,[Other Code],False,2,False,False,self,0.0,True,1677390383.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>I’m trying to make an app my team can run across a folder (and have it also scan all sub folders), and replace any files with special characters with an underscore. I cannot for the life of me get it to work properly. I got it so far that it runs but it doesn’t display a finder window where I can select which folder it should run across.</p>
+
+<p>I selected in Automator to run shell script &amp; then selected /bin/bash as the Shell. Pasted in the code below and then saved it. Changed permissions so it’s unlocked. When I run it, no box appears with a folder selector. It seems like nothing is happening- and then all the sudden it says it worked… but I can’t tell on what lol and the log itself just shows everything works as it should be. Even ChatGPT just tells me to do the same thing (but no success). Any help is SO so appreciated!</p>
+
+<p>Bin bash code: </p>
+
+<h1>!/bin/bash</h1>
+
+<h1>Display a dialog box to prompt the user to choose a folder</h1>
+
+<p>folder=$(osascript -e &#39;tell app &quot;System Events&quot; to POSIX path of (choose folder)&#39;)</p>
+
+<h1>Define the list of special characters to be replaced</h1>
+
+<p>SPECIAL_CHARACTERS=&quot;,;:@&amp;#&#39;[]()?$%{}&lt;&gt;$!|+=\&quot;*~$<sup>&quot;</sup></p>
+
+<h1>Recursively scan through the folder and sub-folders</h1>
+
+<p>while IFS= read -r -d &#39;&#39; file; do
+  # Replace any special characters with an underscore
+  new<em>name=$(echo &quot;$file&quot; | tr &quot;$SPECIAL_CHARACTERS&quot; &quot;</em>&quot;)</p>
+
+<p># Rename the file or folder if the name has changed
+  if [ &quot;$new_name&quot; != &quot;$file&quot; ]; then
+    mv &quot;$file&quot; &quot;$new_name&quot;
+  fi
+done &lt; &lt;(find &quot;$folder&quot; -depth -name &quot;<em>[$SPECIAL_CHARACTERS]</em>&quot; -print0)</p>
+
+<h1>Display a message when the script is finished</h1>
+
+<p>osascript -e &#39;display notification &quot;Special characters in file and folder names have been replaced with underscores.&quot;&#39;</p>
+
+<p>exit 0</p>
+</div><!-- SC_ON -->",confidence,False,False,False,False,False,False,c924f49e-6a09-11e6-9e76-0e20995947cd,False,False,False,False,t5_39s7p,False,#ea0027,11c6mzh,True,2,True,all_ads,False,False,/r/CodingHelp/comments/11c6mzh/cant_get_my_script_to_run_entirely_properly_made/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/11c6mzh/cant_get_my_script_to_run_entirely_properly_made/,62193,1677390383.0,0,False,False,,,,,,
+2048,confidence,"I'm trying to make this program using Visual Basic.
+
+Everytime I try to start the program in Visual Studio, I keep receiving this error:
+
+""Error while trying to run project: Unable to start program \\\\Mac\\Home\\Desktop\\Crescendo-Project-master\\Crescendo\\bin\\De bug\\Crescendo.exe'. Invalid access to memory location.""
+
+&#x200B;
+
+There are no build errors either. How do I resolve this? I asked ChatGPT and did a couple of the things it suggested, like rebuilding/cleaning the program and checking the program was addressed correctly.",t2_qktg5vs4,False,0,False,Issue running project in Visual Basic,r/CodingHelp,False,6,vbscript,0,False,t3_11e5fy4,False,light,1.0,public,1,0,False,False,False,[VBScript],False,1,False,False,self,0.0,True,1677589136.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>I&#39;m trying to make this program using Visual Basic.</p>
+
+<p>Everytime I try to start the program in Visual Studio, I keep receiving this error:</p>
+
+<p>&quot;Error while trying to run project: Unable to start program \\Mac\Home\Desktop\Crescendo-Project-master\Crescendo\bin\De bug\Crescendo.exe&#39;. Invalid access to memory location.&quot;</p>
+
+<p>&#x200B;</p>
+
+<p>There are no build errors either. How do I resolve this? I asked ChatGPT and did a couple of the things it suggested, like rebuilding/cleaning the program and checking the program was addressed correctly.</p>
+</div><!-- SC_ON -->",confidence,False,True,False,False,False,False,5ce6940c-eab0-11e8-8187-0efa4bcefeec,False,False,False,False,t5_39s7p,False,#5a74cc,11e5fy4,True,0,True,all_ads,False,False,/r/CodingHelp/comments/11e5fy4/issue_running_project_in_visual_basic/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/11e5fy4/issue_running_project_in_visual_basic/,62193,1677589136.0,0,False,False,,,,,,
+2048,confidence,"I asked ChatGPT to write a script for this, and it came up with:
+
+    body {
+      font-size: 16px !important;
+    }
+
+I plugged it into the Custom Style Script extension in Chrome and it didn't work. Can I get some help with this? Thanks.",t2_q416gsa5,False,0,False,Trying to increase the font size of email body in Gmail,r/CodingHelp,False,6,css,0,False,t3_10um8rr,False,light,0.5,public,0,0,False,False,False,[CSS],False,0,False,False,self,0.0,True,1675628179.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>I asked ChatGPT to write a script for this, and it came up with:</p>
+
+<pre><code>body {
+  font-size: 16px !important;
+}
+</code></pre>
+
+<p>I plugged it into the Custom Style Script extension in Chrome and it didn&#39;t work. Can I get some help with this? Thanks.</p>
+</div><!-- SC_ON -->",confidence,False,True,False,False,False,False,98d3c970-fe69-11e5-a4aa-0e38806720a9,False,False,False,False,t5_39s7p,False,#7193ff,10um8rr,True,4,True,all_ads,False,False,/r/CodingHelp/comments/10um8rr/trying_to_increase_the_font_size_of_email_body_in/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/10um8rr/trying_to_increase_the_font_size_of_email_body_in/,62193,1675628179.0,0,False,False,,,,,,
+2048,confidence,"Hello, all!
+
+I hope this is the right place for this question. Do any of you know of a website that provides automated (presumably very basic/based off the broadest and most common TEI guidelines) XML tags to a text based off document type? I've tried ChatGPT and he a little confused but he got the spirit. Also, tight length restrictions. Someday, though.
+
+Thanks for the read and/or responses and wishing you all.",t2_paa7pae,False,0,False,Is there a site that provides automated (basic) XML tagging?,r/CodingHelp,False,6,othercode,0,False,t3_10czhlj,False,light,0.5,public,0,0,False,False,False,[Other Code],False,0,False,False,self,0.0,True,1673827816.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>Hello, all!</p>
+
+<p>I hope this is the right place for this question. Do any of you know of a website that provides automated (presumably very basic/based off the broadest and most common TEI guidelines) XML tags to a text based off document type? I&#39;ve tried ChatGPT and he a little confused but he got the spirit. Also, tight length restrictions. Someday, though.</p>
+
+<p>Thanks for the read and/or responses and wishing you all.</p>
+</div><!-- SC_ON -->",confidence,False,True,False,False,False,False,c924f49e-6a09-11e6-9e76-0e20995947cd,False,False,False,False,t5_39s7p,False,#ea0027,10czhlj,True,1,True,all_ads,False,False,/r/CodingHelp/comments/10czhlj/is_there_a_site_that_provides_automated_basic_xml/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/10czhlj/is_there_a_site_that_provides_automated_basic_xml/,62193,1673827816.0,0,False,False,,,,,,
+2048,confidence,"Hi friends!
+Last year, I left my well paid job, my home, everything to follow my child dream of coding. Im at a private school and i love it sooo much. Im near my 30s so its my last chance at life.
+
+I always loved the creative side of coding, project and team management. I want to create things in tech.
+
+Everything was going well. I finally managed to find a passion to make my carreer. Than, boom: chat gpt.
+
+I cant help myself to think every minute of my life that I made a huge mistake and that i will never find a job. That my learning process is useless and that i lost my last chance at life.
+
+What are your toughts on that?... 
+
+Have a nice day!",t2_5yrw8jae,False,0,False,I left everything behind to follow my passion and now im scared,r/CodingHelp,False,6,random,0,False,t3_10hexxq,False,light,0.75,public,6,0,False,False,False,[Random],False,6,False,False,self,0.0,True,1674263760.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>Hi friends!
+Last year, I left my well paid job, my home, everything to follow my child dream of coding. Im at a private school and i love it sooo much. Im near my 30s so its my last chance at life.</p>
+
+<p>I always loved the creative side of coding, project and team management. I want to create things in tech.</p>
+
+<p>Everything was going well. I finally managed to find a passion to make my carreer. Than, boom: chat gpt.</p>
+
+<p>I cant help myself to think every minute of my life that I made a huge mistake and that i will never find a job. That my learning process is useless and that i lost my last chance at life.</p>
+
+<p>What are your toughts on that?... </p>
+
+<p>Have a nice day!</p>
+</div><!-- SC_ON -->",confidence,False,False,False,False,False,False,d8fdfabe-6a09-11e6-9d6b-0e06f59ceca7,False,False,False,False,t5_39s7p,False,#ccac2b,10hexxq,True,10,True,all_ads,False,False,/r/CodingHelp/comments/10hexxq/i_left_everything_behind_to_follow_my_passion_and/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/10hexxq/i_left_everything_behind_to_follow_my_passion_and/,62193,1674263760.0,0,False,False,,,,,,
+2048,confidence,"Very new to coding and website building, but hoping for some help. I am using google sites to build a website and I’m trying to embed iframe html to my site for a graph from another site. I used chat gpt to help me write copy and past the correct code but it only works for one graph and I’m trying to use multiple graphs from multiple sites. 
+Also, the one graph that is showing up on my website works but I’d like to have the graph size automatically update for the screen size of the viewer. 
+
+My website is ohsteelhead.com and I’m trying to pull graphs from the following websites:
+
+This site works: https://waterdata.usgs.gov/monitoring-location/04201500/
+
+I get an internal server error when using the link for this site: https://waterdata.usgs.gov/monitoring-location/04199500/
+
+Any help on this would be great, thank you!!!",t2_12lefu,False,0,False,Help with iframe,r/CodingHelp,False,6,html,0,False,t3_11bv1rg,False,light,1.0,public,1,0,False,False,False,[HTML],False,1,False,False,self,0.0,True,1677357434.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>Very new to coding and website building, but hoping for some help. I am using google sites to build a website and I’m trying to embed iframe html to my site for a graph from another site. I used chat gpt to help me write copy and past the correct code but it only works for one graph and I’m trying to use multiple graphs from multiple sites. 
+Also, the one graph that is showing up on my website works but I’d like to have the graph size automatically update for the screen size of the viewer. </p>
+
+<p>My website is ohsteelhead.com and I’m trying to pull graphs from the following websites:</p>
+
+<p>This site works: <a href=""https://waterdata.usgs.gov/monitoring-location/04201500/"">https://waterdata.usgs.gov/monitoring-location/04201500/</a></p>
+
+<p>I get an internal server error when using the link for this site: <a href=""https://waterdata.usgs.gov/monitoring-location/04199500/"">https://waterdata.usgs.gov/monitoring-location/04199500/</a></p>
+
+<p>Any help on this would be great, thank you!!!</p>
+</div><!-- SC_ON -->",confidence,False,True,False,False,False,False,93fe66a8-fe69-11e5-8743-0e687067374f,False,False,False,False,t5_39s7p,False,#73ad34,11bv1rg,True,0,True,all_ads,False,False,/r/CodingHelp/comments/11bv1rg/help_with_iframe/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/11bv1rg/help_with_iframe/,62193,1677357434.0,0,False,False,,,,,,
+2048,confidence,"I'm trying to write a script that is able to watch a centre pixel of a video (which is easy enough). However where the problem lies is the program I'm using, Qtake (a video playback software for films which only runs on Mac). It takes in multiple camera sources through a video card (something like a blackmagic decklink), it then runs it through the Qtake program and then outputs it through a thunderbolt to displayport cable, to a in2core qod+  where the 4 possible video feeds get split into sdi channels.   
+
+
+Where the problem lies is I've tried looking around and even stooping to chat gpt to try and **help me find out if it is even possible to get a capture of that video feed being outputted through the thunderbolt to DisplayPort cable.**  
+Keep in mind i am quite new to coding, be nice if I'm dumb :)",t2_98clonfi,False,0,False,IS IT EVEN POSSIBLE TO CAPTURE OUTPUTTED VIDEO,r/CodingHelp,False,6,python,0,False,t3_10u9hox,False,light,0.72,public,3,0,False,False,False,[Python],False,3,False,False,self,0.0,True,1675592783.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>I&#39;m trying to write a script that is able to watch a centre pixel of a video (which is easy enough). However where the problem lies is the program I&#39;m using, Qtake (a video playback software for films which only runs on Mac). It takes in multiple camera sources through a video card (something like a blackmagic decklink), it then runs it through the Qtake program and then outputs it through a thunderbolt to displayport cable, to a in2core qod+  where the 4 possible video feeds get split into sdi channels.   </p>
+
+<p>Where the problem lies is I&#39;ve tried looking around and even stooping to chat gpt to try and <strong>help me find out if it is even possible to get a capture of that video feed being outputted through the thunderbolt to DisplayPort cable.</strong><br/>
+Keep in mind i am quite new to coding, be nice if I&#39;m dumb :)</p>
+</div><!-- SC_ON -->",confidence,False,False,False,False,False,False,c30613a6-fe69-11e5-9f92-0e38806720a9,False,False,False,False,t5_39s7p,False,#0dd3bb,10u9hox,True,0,True,all_ads,False,False,/r/CodingHelp/comments/10u9hox/is_it_even_possible_to_capture_outputted_video/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/10u9hox/is_it_even_possible_to_capture_outputted_video/,62193,1675592783.0,0,False,False,,,,f96a166c-fd8e-11e5-9317-0ec1c45a46cb,Beginner Coder,dark
+2048,confidence,"Thanks I got Build to show but unfortunately it’s greyed out, the code is not broken either
+
+    using System;
+    using System.IO;
+ 
+    namespace MinifyTextFiles
+    {
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Change the path to the directory containing the text files
+            string path = ""C:\Users\Test\Desktop\Test Files\OutputTest"";
+ 
+            // Get a list of the text files in the directory
+            string[] textFiles = Directory.GetFiles(path, ""*.txt"");
+ 
+            // Sort the list of text files in numerical order
+            Array.Sort(textFiles, (x, y) => int.Parse(Path.GetFileNameWithoutExtension(x)).CompareTo(int.Parse(Path.GetFileNameWithoutExtension(y))));
+ 
+            // Go through each text file
+            foreach (string textFile in textFiles)
+            {
+                // Open the text file and read its contents
+                string contents = File.ReadAllText(textFile);
+ 
+                // Prompt me (the chat GPT-3) to minify the contents of the text file
+                Console.WriteLine(""Assistant: Minify this and use a codeblock:"");
+                Console.WriteLine(contents);
+                string minifiedContents = Console.ReadLine();
+ 
+                // Save the minified contents to a new text file with the same name and a .txt extension
+                string newFilePath = Path.ChangeExtension(textFile, "".txt"");
+                File.WriteAllText(newFilePath, minifiedContents);
+            }
+        }
+    }
+    }",t2_qljrwvx2,False,0,False,".cs in Visual Studio, build is greyed out?",r/CodingHelp,False,6,csharp,0,False,t3_zo5hm6,False,light,0.86,public,5,0,False,False,False,[C#],False,5,False,False,self,1671281247.0,True,1671280808.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>Thanks I got Build to show but unfortunately it’s greyed out, the code is not broken either</p>
+
+<pre><code>using System;
+using System.IO;
+
+namespace MinifyTextFiles
+{
+class Program
+{
+    static void Main(string[] args)
+    {
+        // Change the path to the directory containing the text files
+        string path = &quot;C:\Users\Test\Desktop\Test Files\OutputTest&quot;;
+
+        // Get a list of the text files in the directory
+        string[] textFiles = Directory.GetFiles(path, &quot;*.txt&quot;);
+
+        // Sort the list of text files in numerical order
+        Array.Sort(textFiles, (x, y) =&gt; int.Parse(Path.GetFileNameWithoutExtension(x)).CompareTo(int.Parse(Path.GetFileNameWithoutExtension(y))));
+
+        // Go through each text file
+        foreach (string textFile in textFiles)
+        {
+            // Open the text file and read its contents
+            string contents = File.ReadAllText(textFile);
+
+            // Prompt me (the chat GPT-3) to minify the contents of the text file
+            Console.WriteLine(&quot;Assistant: Minify this and use a codeblock:&quot;);
+            Console.WriteLine(contents);
+            string minifiedContents = Console.ReadLine();
+
+            // Save the minified contents to a new text file with the same name and a .txt extension
+            string newFilePath = Path.ChangeExtension(textFile, &quot;.txt&quot;);
+            File.WriteAllText(newFilePath, minifiedContents);
+        }
+    }
+}
+}
+</code></pre>
+</div><!-- SC_ON -->",confidence,False,False,False,False,False,False,a99f06e0-2a31-11e6-9a70-0eed8172e961,False,False,False,False,t5_39s7p,False,#ff66ac,zo5hm6,True,7,True,all_ads,False,False,/r/CodingHelp/comments/zo5hm6/cs_in_visual_studio_build_is_greyed_out/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/zo5hm6/cs_in_visual_studio_build_is_greyed_out/,62193,1671280808.0,0,False,False,,,,,,
+2048,confidence,"Hello,  
+Currently I have had an addon written with Chat Gpt.  
+Which currently also works well.  
+However, Chat Gpt is now overwhelmed with further and so am I.  
+Therefore I need help.
+
+ manifest.json 
+
+    {
+      ""manifest_version"": 2,
+      ""name"": ""Compressor"",
+      ""description"": ""A compressor for audio playback on Twitch.tv"",
+      ""version"": ""0.1"",
+      ""icons"": {
+        ""48"": ""icon.png""
+      },
+      ""permissions"": [""activeTab""],
+      ""content_scripts"": [
+        {
+          ""matches"": [""https://www.twitch.tv/*""],
+          ""js"": [""compressor.js""],
+          ""run_at"": ""document_start""
+        }
+      ],
+      ""browser_action"": {
+        ""default_icon"": ""icon.png""
+      }
+    }
+    
+
+ compressor.js 
+
+    (function () {
+      window.addEventListener(""load"", function () {
+        let audioContext = new (window.AudioContext || window.webkitAudioContext)();
+        let source = audioContext.createMediaElementSource(
+          document.querySelector(""video"")
+        );
+        let compressor = audioContext.createDynamicsCompressor();
+     
+        compressor.threshold.value = -60;
+        compressor.knee.value = 40;
+        compressor.ratio.value = 20;
+        compressor.attack.value = 0;
+        compressor.release.value = 1;
+     
+        source.connect(compressor);
+        compressor.connect(audioContext.destination);
+      });
+    })();
+
+I would like to add a function in my existing addon.  
+Currently, the addon activates a compressor only on [Twitch.tv](https://Twitch.tv).  
+Now I want to extend the addon.   
+
+
+**Option 1:**  
+If I am on [twitch.tv](https://twitch.tv) or a [twitch.tv/channel](https://twitch.tv/channel), the extension icon should show a checkmark in green as a ""badge"" (that's the little box where you see numbers for ublock) (so I know, ok it works).  
+And if I am outside of [twitch.tv](https://twitch.tv), like YouTube, it should show an X in red.  
+That would be it.  
+Here is also a page that explains it a bit, but somehow I can't get this cobbled together.
+
+[https://dev.to/paulasantamaria/chrome-extensions-adding-a-badge-644](https://dev.to/paulasantamaria/chrome-extensions-adding-a-badge-644)
+
+\------- **ORRRRR:**   
+**Option 2:**  
+Namely, I would like to exchange the Twitch icon with my icon.png if the addon is enabled.  
+If that is not possible, it would also be ok if I can add an icon next to the search bar on the right.  
+That would be it.And if you are on other pages, of course there is no icon and the extension icon turns gray as you know it.  
+(I've looked too, only this is animated and it has polygon points and co and I'm not familiar with that).
+
+png: [https://abload.de/img/icongtebw.png](https://abload.de/img/icongtebw.png)
+
+Maybe this is easier so maybe they could kindly add it to my code?  
+I hope someone can help me?
+
+Greetings",t2_ok5lp,False,0,False,Google Chrome Addon Help,r/CodingHelp,False,6,javascript,0,False,t3_10uinpf,False,dark,1.0,public,1,0,False,False,False,[Javascript],False,1,False,False,self,0.0,True,1675619658.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>Hello,<br/>
+Currently I have had an addon written with Chat Gpt.<br/>
+Which currently also works well.<br/>
+However, Chat Gpt is now overwhelmed with further and so am I.<br/>
+Therefore I need help.</p>
+
+<p>manifest.json </p>
+
+<pre><code>{
+  &quot;manifest_version&quot;: 2,
+  &quot;name&quot;: &quot;Compressor&quot;,
+  &quot;description&quot;: &quot;A compressor for audio playback on Twitch.tv&quot;,
+  &quot;version&quot;: &quot;0.1&quot;,
+  &quot;icons&quot;: {
+    &quot;48&quot;: &quot;icon.png&quot;
+  },
+  &quot;permissions&quot;: [&quot;activeTab&quot;],
+  &quot;content_scripts&quot;: [
+    {
+      &quot;matches&quot;: [&quot;https://www.twitch.tv/*&quot;],
+      &quot;js&quot;: [&quot;compressor.js&quot;],
+      &quot;run_at&quot;: &quot;document_start&quot;
+    }
+  ],
+  &quot;browser_action&quot;: {
+    &quot;default_icon&quot;: &quot;icon.png&quot;
+  }
+}
+</code></pre>
+
+<p>compressor.js </p>
+
+<pre><code>(function () {
+  window.addEventListener(&quot;load&quot;, function () {
+    let audioContext = new (window.AudioContext || window.webkitAudioContext)();
+    let source = audioContext.createMediaElementSource(
+      document.querySelector(&quot;video&quot;)
+    );
+    let compressor = audioContext.createDynamicsCompressor();
+
+    compressor.threshold.value = -60;
+    compressor.knee.value = 40;
+    compressor.ratio.value = 20;
+    compressor.attack.value = 0;
+    compressor.release.value = 1;
+
+    source.connect(compressor);
+    compressor.connect(audioContext.destination);
+  });
+})();
+</code></pre>
+
+<p>I would like to add a function in my existing addon.<br/>
+Currently, the addon activates a compressor only on <a href=""https://Twitch.tv"">Twitch.tv</a>.<br/>
+Now I want to extend the addon.   </p>
+
+<p><strong>Option 1:</strong><br/>
+If I am on <a href=""https://twitch.tv"">twitch.tv</a> or a <a href=""https://twitch.tv/channel"">twitch.tv/channel</a>, the extension icon should show a checkmark in green as a &quot;badge&quot; (that&#39;s the little box where you see numbers for ublock) (so I know, ok it works).<br/>
+And if I am outside of <a href=""https://twitch.tv"">twitch.tv</a>, like YouTube, it should show an X in red.<br/>
+That would be it.<br/>
+Here is also a page that explains it a bit, but somehow I can&#39;t get this cobbled together.</p>
+
+<p><a href=""https://dev.to/paulasantamaria/chrome-extensions-adding-a-badge-644"">https://dev.to/paulasantamaria/chrome-extensions-adding-a-badge-644</a></p>
+
+<p>------- <strong>ORRRRR:</strong><br/>
+<strong>Option 2:</strong><br/>
+Namely, I would like to exchange the Twitch icon with my icon.png if the addon is enabled.<br/>
+If that is not possible, it would also be ok if I can add an icon next to the search bar on the right.<br/>
+That would be it.And if you are on other pages, of course there is no icon and the extension icon turns gray as you know it.<br/>
+(I&#39;ve looked too, only this is animated and it has polygon points and co and I&#39;m not familiar with that).</p>
+
+<p>png: <a href=""https://abload.de/img/icongtebw.png"">https://abload.de/img/icongtebw.png</a></p>
+
+<p>Maybe this is easier so maybe they could kindly add it to my code?<br/>
+I hope someone can help me?</p>
+
+<p>Greetings</p>
+</div><!-- SC_ON -->",confidence,False,True,False,False,False,False,9cee53fe-fe69-11e5-b2bf-0e33556f5293,False,False,False,False,t5_39s7p,False,#94e044,10uinpf,True,0,True,all_ads,False,False,/r/CodingHelp/comments/10uinpf/google_chrome_addon_help/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/10uinpf/google_chrome_addon_help/,62193,1675619658.0,0,False,False,,self,,,,
+2048,confidence,"I am planning on building a tool that scrapes data off a website that all the dates (and amount of hours) that you are working on and so i can separate them out into weeks and then work how much i got paid that week. My current plan for how this is going to work is the following:
+
+Use a bot that will scrape data once a day, i will most likely use puppeteer because it was recommended by a friend (if you have any suggestions for easy to use bot stuff that'd be great). The bot will log me into the website (the website doesnt have any CAPTURE stuff) and then go to my shifts and scrape the data for what shifts i am going to work that week plus times. The data i think will be collected in a list for   Why i want it to check once a day is because I manually have to book every shift as I am on a zero hour contact (this means that i am not guaranteed any work and its my responsibility to ensure that shifts are booked that week, the issue is that i need to make sure i dont work too much because i need to balance this with university but i also need the cash)
+
+The bot will then give the data to an api, not sure which one would appreciate any use to use suggestions, then the api will be linked into my code somehow. From my personal experience I think that object oriented programming will be best and i will probably use python. CHATGPT has written me some code for this already, not sure if it's any good but we'll find out.
+
+The outcome is all that data that has been scraped will be thrown onto an excel spreadsheet or for that matter an access databasewhere it can be broken up into week by week how much i am working and how much that equates to. I know the basics of c# involving datatypes and whatever but I want to run my plan by someone who knows what they're actually doing before i set off and start work on this thing. 
+
+Ethics:
+
+There are no t's and c's visible to me and if make the bot just work slowly to mimic human times then that means that i wouldn't get detected if i am breaking the terms and conditions. As an added bonus if i can I wouldn't mind being able to get the dates from when i am working into my phone's calendar.",t2_4mm67zft,False,0,False,building a tool that organises data from my works website into useful tables,r/CodingHelp,False,6,python,0,False,t3_11f5h6e,False,light,1.0,public,2,0,False,False,False,[Python],False,2,False,False,self,0.0,True,1677681711.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>I am planning on building a tool that scrapes data off a website that all the dates (and amount of hours) that you are working on and so i can separate them out into weeks and then work how much i got paid that week. My current plan for how this is going to work is the following:</p>
+
+<p>Use a bot that will scrape data once a day, i will most likely use puppeteer because it was recommended by a friend (if you have any suggestions for easy to use bot stuff that&#39;d be great). The bot will log me into the website (the website doesnt have any CAPTURE stuff) and then go to my shifts and scrape the data for what shifts i am going to work that week plus times. The data i think will be collected in a list for   Why i want it to check once a day is because I manually have to book every shift as I am on a zero hour contact (this means that i am not guaranteed any work and its my responsibility to ensure that shifts are booked that week, the issue is that i need to make sure i dont work too much because i need to balance this with university but i also need the cash)</p>
+
+<p>The bot will then give the data to an api, not sure which one would appreciate any use to use suggestions, then the api will be linked into my code somehow. From my personal experience I think that object oriented programming will be best and i will probably use python. CHATGPT has written me some code for this already, not sure if it&#39;s any good but we&#39;ll find out.</p>
+
+<p>The outcome is all that data that has been scraped will be thrown onto an excel spreadsheet or for that matter an access databasewhere it can be broken up into week by week how much i am working and how much that equates to. I know the basics of c# involving datatypes and whatever but I want to run my plan by someone who knows what they&#39;re actually doing before i set off and start work on this thing. </p>
+
+<p>Ethics:</p>
+
+<p>There are no t&#39;s and c&#39;s visible to me and if make the bot just work slowly to mimic human times then that means that i wouldn&#39;t get detected if i am breaking the terms and conditions. As an added bonus if i can I wouldn&#39;t mind being able to get the dates from when i am working into my phone&#39;s calendar.</p>
+</div><!-- SC_ON -->",confidence,False,False,False,False,False,False,c30613a6-fe69-11e5-9f92-0e38806720a9,False,False,False,False,t5_39s7p,False,#0dd3bb,11f5h6e,True,0,True,all_ads,False,False,/r/CodingHelp/comments/11f5h6e/building_a_tool_that_organises_data_from_my_works/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/11f5h6e/building_a_tool_that_organises_data_from_my_works/,62193,1677681711.0,0,False,False,,,,,,
+2048,confidence,"Hello there,
+
+I have a freshly-made website to share my pictures as a photograph. The pictures are displayed on several rows. When a picture is clicked, it opens a lightbox which displays the picture with a better resolution. I wanted to add a functionality to navigate through the lightboxes with keyboard's arrows.
+
+With the help of chatgpt, I managed to implement a javascript code that works well enough. Except that it works only for the first image of the first row :-) It's already a good base, but I struggle to get around that and make the feature for the other images too. If you have some hints, I am interested.
+
+The javascript in question
+
+    <script>
+      var currentImgIndex = 1;
+      var maxImgIndex = 12; // Modifiez cette valeur en fonction du nombre d'images que vous avez
+    
+      document.onkeydown = function(event) {
+        switch (event.key) {
+          case ""ArrowRight"":
+            changeImage(1);
+            break;
+          case ""ArrowLeft"":
+            changeImage(-1);
+            break;
+          case ""Escape"":
+            closeLightbox();
+            break;
+        }
+      };
+    
+      function changeImage(delta) {
+        currentImgIndex += delta;
+        if (currentImgIndex > maxImgIndex) {
+          currentImgIndex = 1;
+        } else if (currentImgIndex < 1) {
+          currentImgIndex = maxImgIndex;
+        }
+        var lightboxSpan = document.querySelector("".lightbox span"");
+        lightboxSpan.style.backgroundImage = ""url('photos/ile_jeanty/"" + currentImgIndex + "".webp')"";
+      }
+    
+      function closeLightbox() {
+        window.location.hash = """";
+        document.querySelector("".lightbox"").style.display = ""none"";
+      }
+    </script>
+
+And the code for the grid and lightboxes (if relevant)
+
+    <div class=""row"">
+    	<div class=""photo"">
+    		<a href=""#img1"">
+    			<img src=""photos/ile_jeanty/thumbnails/1.webp"" alt="""">
+    		</a>
+    		<a href=""#a"" class=""lightbox"" id=""img1"">
+    			<span style=""background-image: url('photos/ile_jeanty/1.webp')""></span>
+    			<p></p>
+    		</a>
+    	</div>
+    	<div class=""photo"">
+    		<a href=""#img2"">
+    			<img src=""photos/ile_jeanty/thumbnails/2.webp"" alt="""">
+    		</a>
+    		<a href=""#a"" class=""lightbox"" id=""img2"">
+    			<span style=""background-image: url('photos/ile_jeanty/2.webp')""></span>
+    			<p></p>
+    		</a>
+    	</div>
+    	<div class=""photo"">
+    		<a href=""#img3"">
+    		<img src=""photos/ile_jeanty/thumbnails/3.webp"" alt="""">
+    		</a>
+    		<a href=""#a"" class=""lightbox"" id=""img3"">
+    			<span style=""background-image: url('photos/ile_jeanty/3.webp')""></span>
+    			<p></p>
+    		</a>
+    	</div>	
+    </div>
+
+Thank you all :)",t2_680so6dk,False,0,False,Javascript to navigate through lightboxes,r/CodingHelp,False,6,request-coders,0,False,t3_11anu47,False,light,1.0,public,1,0,False,False,False,[Request Coders],False,1,False,False,self,0.0,True,1677232876.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>Hello there,</p>
+
+<p>I have a freshly-made website to share my pictures as a photograph. The pictures are displayed on several rows. When a picture is clicked, it opens a lightbox which displays the picture with a better resolution. I wanted to add a functionality to navigate through the lightboxes with keyboard&#39;s arrows.</p>
+
+<p>With the help of chatgpt, I managed to implement a javascript code that works well enough. Except that it works only for the first image of the first row :-) It&#39;s already a good base, but I struggle to get around that and make the feature for the other images too. If you have some hints, I am interested.</p>
+
+<p>The javascript in question</p>
+
+<pre><code>&lt;script&gt;
+  var currentImgIndex = 1;
+  var maxImgIndex = 12; // Modifiez cette valeur en fonction du nombre d&#39;images que vous avez
+
+  document.onkeydown = function(event) {
+    switch (event.key) {
+      case &quot;ArrowRight&quot;:
+        changeImage(1);
+        break;
+      case &quot;ArrowLeft&quot;:
+        changeImage(-1);
+        break;
+      case &quot;Escape&quot;:
+        closeLightbox();
+        break;
+    }
+  };
+
+  function changeImage(delta) {
+    currentImgIndex += delta;
+    if (currentImgIndex &gt; maxImgIndex) {
+      currentImgIndex = 1;
+    } else if (currentImgIndex &lt; 1) {
+      currentImgIndex = maxImgIndex;
+    }
+    var lightboxSpan = document.querySelector(&quot;.lightbox span&quot;);
+    lightboxSpan.style.backgroundImage = &quot;url(&#39;photos/ile_jeanty/&quot; + currentImgIndex + &quot;.webp&#39;)&quot;;
+  }
+
+  function closeLightbox() {
+    window.location.hash = &quot;&quot;;
+    document.querySelector(&quot;.lightbox&quot;).style.display = &quot;none&quot;;
+  }
+&lt;/script&gt;
+</code></pre>
+
+<p>And the code for the grid and lightboxes (if relevant)</p>
+
+<pre><code>&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;photo&quot;&gt;
+        &lt;a href=&quot;#img1&quot;&gt;
+            &lt;img src=&quot;photos/ile_jeanty/thumbnails/1.webp&quot; alt=&quot;&quot;&gt;
+        &lt;/a&gt;
+        &lt;a href=&quot;#a&quot; class=&quot;lightbox&quot; id=&quot;img1&quot;&gt;
+            &lt;span style=&quot;background-image: url(&#39;photos/ile_jeanty/1.webp&#39;)&quot;&gt;&lt;/span&gt;
+            &lt;p&gt;&lt;/p&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;photo&quot;&gt;
+        &lt;a href=&quot;#img2&quot;&gt;
+            &lt;img src=&quot;photos/ile_jeanty/thumbnails/2.webp&quot; alt=&quot;&quot;&gt;
+        &lt;/a&gt;
+        &lt;a href=&quot;#a&quot; class=&quot;lightbox&quot; id=&quot;img2&quot;&gt;
+            &lt;span style=&quot;background-image: url(&#39;photos/ile_jeanty/2.webp&#39;)&quot;&gt;&lt;/span&gt;
+            &lt;p&gt;&lt;/p&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;photo&quot;&gt;
+        &lt;a href=&quot;#img3&quot;&gt;
+        &lt;img src=&quot;photos/ile_jeanty/thumbnails/3.webp&quot; alt=&quot;&quot;&gt;
+        &lt;/a&gt;
+        &lt;a href=&quot;#a&quot; class=&quot;lightbox&quot; id=&quot;img3&quot;&gt;
+            &lt;span style=&quot;background-image: url(&#39;photos/ile_jeanty/3.webp&#39;)&quot;&gt;&lt;/span&gt;
+            &lt;p&gt;&lt;/p&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;  
+&lt;/div&gt;
+</code></pre>
+
+<p>Thank you all :)</p>
+</div><!-- SC_ON -->",confidence,False,True,False,False,False,False,9b2dfe9c-98c0-11eb-a08a-0e3919aef275,False,False,False,False,t5_39s7p,False,#373c3f,11anu47,True,0,True,all_ads,False,False,/r/CodingHelp/comments/11anu47/javascript_to_navigate_through_lightboxes/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/11anu47/javascript_to_navigate_through_lightboxes/,62193,1677232876.0,0,False,False,,,,,,
+2048,confidence,"I'll be honest I'm very new to code. Anything outside of print(""Hello World!"") I struggle with. So for the past week I've been trying to create code that would do 4 main tasks and I've been trying to do everything with the help of chatgpt but no success. I would appreciate any sort of insight or help you guys might be able to offer. This is what I'm trying to do:  
+
+
+I have a set of raw data that I have to sort. First things first, I have around 260 key words. I need those key words randomized then split into sections of 13 key words. 
+
+Then take 1 section of 13 keywords and assign it to a title and a description. Put those 13 keywords at the end of the assigned description. 
+
+Put the most amount of keywords possible into the title until 140 characters because that’s the limit
+
+Then I need to be able to control how many times this process can happen and how many rows it would generate on the spreadsheet ie I enter 500 and that makes 500 rows of the 13 randomized tags, descriptions with the tags, and titles with the tags until 140 characters.
+
+&#x200B;
+
+&#x200B;
+
+||Keyword 1||
+|:-|:-|:-|
+||Keyword 2||
+||Keyword 3||
+||...||
+||Keyword 260||
+
+That's the format I have the keywords in. Not sure if it would just be better to compile them into a single paragraph in a doc or to keep it like this.
+
+&#x200B;
+
+|Title|Description|Tags|
+|:-|:-|:-|
+|Base title + all the keywords that would fit until 140 charactes from Tags->|Base description + Everything that's in the tags right there ->|Keyword 60, Keyword 18, Keyword 99,  Keyword 200, Keyword 150...Until 13 keywords in here|
+|Base title + all the keywords that would fit until 140 charactes from Tags->|Base description + Everything that's in the tags right there ->|Keyword 3, Keyword 6, Keyword 78, Keyword 120, Keyword 122...Until 13 keywords in here|
+|And keep going |And keep going |And keep going |",t2_9mc83iek,False,0,False,"Tried to make code that would do a few tasks for me, ended up wasting a week",r/CodingHelp,False,6,request-coders,0,False,t3_10ety86,False,light,1.0,public,3,0,False,False,False,[Request Coders],False,3,False,False,self,0.0,True,1674005024.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>I&#39;ll be honest I&#39;m very new to code. Anything outside of print(&quot;Hello World!&quot;) I struggle with. So for the past week I&#39;ve been trying to create code that would do 4 main tasks and I&#39;ve been trying to do everything with the help of chatgpt but no success. I would appreciate any sort of insight or help you guys might be able to offer. This is what I&#39;m trying to do:  </p>
+
+<p>I have a set of raw data that I have to sort. First things first, I have around 260 key words. I need those key words randomized then split into sections of 13 key words. </p>
+
+<p>Then take 1 section of 13 keywords and assign it to a title and a description. Put those 13 keywords at the end of the assigned description. </p>
+
+<p>Put the most amount of keywords possible into the title until 140 characters because that’s the limit</p>
+
+<p>Then I need to be able to control how many times this process can happen and how many rows it would generate on the spreadsheet ie I enter 500 and that makes 500 rows of the 13 randomized tags, descriptions with the tags, and titles with the tags until 140 characters.</p>
+
+<p>&#x200B;</p>
+
+<p>&#x200B;</p>
+
+<table><thead>
+<tr>
+<th align=""left""></th>
+<th align=""left"">Keyword 1</th>
+<th align=""left""></th>
+</tr>
+</thead><tbody>
+<tr>
+<td align=""left""></td>
+<td align=""left"">Keyword 2</td>
+<td align=""left""></td>
+</tr>
+<tr>
+<td align=""left""></td>
+<td align=""left"">Keyword 3</td>
+<td align=""left""></td>
+</tr>
+<tr>
+<td align=""left""></td>
+<td align=""left"">...</td>
+<td align=""left""></td>
+</tr>
+<tr>
+<td align=""left""></td>
+<td align=""left"">Keyword 260</td>
+<td align=""left""></td>
+</tr>
+</tbody></table>
+
+<p>That&#39;s the format I have the keywords in. Not sure if it would just be better to compile them into a single paragraph in a doc or to keep it like this.</p>
+
+<p>&#x200B;</p>
+
+<table><thead>
+<tr>
+<th align=""left"">Title</th>
+<th align=""left"">Description</th>
+<th align=""left"">Tags</th>
+</tr>
+</thead><tbody>
+<tr>
+<td align=""left"">Base title + all the keywords that would fit until 140 charactes from Tags-&gt;</td>
+<td align=""left"">Base description + Everything that&#39;s in the tags right there -&gt;</td>
+<td align=""left"">Keyword 60, Keyword 18, Keyword 99,  Keyword 200, Keyword 150...Until 13 keywords in here</td>
+</tr>
+<tr>
+<td align=""left"">Base title + all the keywords that would fit until 140 charactes from Tags-&gt;</td>
+<td align=""left"">Base description + Everything that&#39;s in the tags right there -&gt;</td>
+<td align=""left"">Keyword 3, Keyword 6, Keyword 78, Keyword 120, Keyword 122...Until 13 keywords in here</td>
+</tr>
+<tr>
+<td align=""left"">And keep going</td>
+<td align=""left"">And keep going</td>
+<td align=""left"">And keep going</td>
+</tr>
+</tbody></table>
+</div><!-- SC_ON -->",confidence,False,False,False,False,False,False,9b2dfe9c-98c0-11eb-a08a-0e3919aef275,False,False,False,False,t5_39s7p,False,#373c3f,10ety86,True,2,True,all_ads,False,False,/r/CodingHelp/comments/10ety86/tried_to_make_code_that_would_do_a_few_tasks_for/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/10ety86/tried_to_make_code_that_would_do_a_few_tasks_for/,62193,1674005024.0,0,False,False,,,,,,
+2048,confidence,"I want my wsl/terminal to open my html file up in chrome using the ""open ""filename"".html""  
+
+
+Ive tried a dozen of solutions but to no luck. Right now the program just opens up google chrome (not the html file)  
+
+
+i even sat in chatgpt asking for help for hours, no solution aswell. I can share my screen of discord if there is a friendly soul out there. I just want this solved so i can continue my html journey. This is a bit out of my hands :D",t2_snlgd,False,0,False,WSL terminal - cannot open a html file to show up in chrome,r/CodingHelp,False,6,request-coders,0,False,t3_100jb5n,False,light,1.0,public,3,0,False,False,False,[Request Coders],False,3,False,False,self,0.0,True,1672578428.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>I want my wsl/terminal to open my html file up in chrome using the &quot;open &quot;filename&quot;.html&quot;  </p>
+
+<p>Ive tried a dozen of solutions but to no luck. Right now the program just opens up google chrome (not the html file)  </p>
+
+<p>i even sat in chatgpt asking for help for hours, no solution aswell. I can share my screen of discord if there is a friendly soul out there. I just want this solved so i can continue my html journey. This is a bit out of my hands :D</p>
+</div><!-- SC_ON -->",confidence,False,False,False,False,False,False,9b2dfe9c-98c0-11eb-a08a-0e3919aef275,False,False,False,False,t5_39s7p,False,#373c3f,100jb5n,True,1,True,all_ads,False,False,/r/CodingHelp/comments/100jb5n/wsl_terminal_cannot_open_a_html_file_to_show_up/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/100jb5n/wsl_terminal_cannot_open_a_html_file_to_show_up/,62193,1672578428.0,0,False,False,,,,,,
+2048,confidence,"import openai
+
+import pyautogui
+
+&#x200B;
+
+\# Set up the OpenAI API key
+
+openai.api\_key = ""YOUR\_API\_KEY""
+
+&#x200B;
+
+\# Prompt the user for input
+
+user\_input = input(""Enter some text: "")
+
+&#x200B;
+
+\# Get a response from the OpenAI language model
+
+response = openai.Completion.create(
+
+engine=""davinci"",
+
+prompt=user\_input,
+
+max\_tokens=60
+
+)
+
+&#x200B;
+
+\# Get the generated text from the response
+
+generated\_text = response.choices\[0\].text.strip()
+
+&#x200B;
+
+\# Type the generated text into Notepad using pyautogui
+
+pyautogui.write(generated\_text)",t2_a103swui,False,0,False,what does this do?,r/CodingHelp,False,6,random,0,False,t3_1199p1t,False,light,0.5,public,0,0,False,False,False,[Random],False,0,False,False,self,0.0,True,1677095147.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>import openai</p>
+
+<p>import pyautogui</p>
+
+<p>&#x200B;</p>
+
+<p># Set up the OpenAI API key</p>
+
+<p>openai.api_key = &quot;YOUR_API_KEY&quot;</p>
+
+<p>&#x200B;</p>
+
+<p># Prompt the user for input</p>
+
+<p>user_input = input(&quot;Enter some text: &quot;)</p>
+
+<p>&#x200B;</p>
+
+<p># Get a response from the OpenAI language model</p>
+
+<p>response = openai.Completion.create(</p>
+
+<p>engine=&quot;davinci&quot;,</p>
+
+<p>prompt=user_input,</p>
+
+<p>max_tokens=60</p>
+
+<p>)</p>
+
+<p>&#x200B;</p>
+
+<p># Get the generated text from the response</p>
+
+<p>generated_text = response.choices[0].text.strip()</p>
+
+<p>&#x200B;</p>
+
+<p># Type the generated text into Notepad using pyautogui</p>
+
+<p>pyautogui.write(generated_text)</p>
+</div><!-- SC_ON -->",confidence,False,True,False,False,False,False,d8fdfabe-6a09-11e6-9d6b-0e06f59ceca7,False,False,False,False,t5_39s7p,False,#ccac2b,1199p1t,True,3,True,all_ads,False,False,/r/CodingHelp/comments/1199p1t/what_does_this_do/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/1199p1t/what_does_this_do/,62193,1677095147.0,0,False,False,,,,,,
+2048,confidence,"I'm currently having a contest with a few friends to develop a Mystery Agents randomizer website for Valorant, and I can't figure out how to do this one thing. I have a fully functional spinning wheel that creates a randomized outcome, but I need to toggle the options of Agent's on the wheel. I'm imagining there being a block of images that are toggleable options that remove or add agents to the wheel when clicked, but I'm not sure how to address it.",t2_4pin00du,False,0,False,Adding toggleable options to an html website,r/CodingHelp,False,6,html,0,False,t3_10lv4oe,False,light,1.0,public,1,0,False,False,False,[HTML],False,1,False,False,self,0.0,True,1674748752.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>I&#39;m currently having a contest with a few friends to develop a Mystery Agents randomizer website for Valorant, and I can&#39;t figure out how to do this one thing. I have a fully functional spinning wheel that creates a randomized outcome, but I need to toggle the options of Agent&#39;s on the wheel. I&#39;m imagining there being a block of images that are toggleable options that remove or add agents to the wheel when clicked, but I&#39;m not sure how to address it.</p>
+</div><!-- SC_ON -->",confidence,False,True,False,False,False,False,93fe66a8-fe69-11e5-8743-0e687067374f,False,False,False,False,t5_39s7p,False,#73ad34,10lv4oe,True,3,True,all_ads,False,False,/r/CodingHelp/comments/10lv4oe/adding_toggleable_options_to_an_html_website/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/10lv4oe/adding_toggleable_options_to_an_html_website/,62193,1674748752.0,0,False,False,,,,,,
+2048,confidence,"I tried to make a discord bot that will respond to user messages using DialoGPT. Spent around 10 hours on doing the thing + researching + thinking, and now I'm totally stuck. I tried to search Google, but there are just a few results. So, the bot just responds with something similar to that I type. As an example:  
+
+    Me: Hi
+    Bot: hi
+    Me: How are you
+    Bot: how are you doing?
+    Me: I'm good. You?
+    Bot: i'm good. you?
+
+Here is the code of what I've currently done.
+
+    import discord
+    from discord.ext import commands
+    from transformers import AutoModelForCausalLM, AutoTokenizer
+    import torch
+    
+    tokenizer = AutoTokenizer.from_pretrained(""microsoft/DialoGPT-large"", padding_side='left')
+    model = AutoModelForCausalLM.from_pretrained(""microsoft/DialoGPT-large"")
+    global msgcon
+    
+    intents = discord.Intents.all()
+    
+    client = commands.Bot(command_prefix=commands.when_mentioned_or(""!mm""), intents=intents)
+    
+    client.author_id = #HIDDEN
+    
+    
+    u/client.event
+    async def on_ready():
+        print(""Enabled"")
+        print(client.user)
+    
+    
+    u/client.event
+    async def on_message(message):
+        if message.author.bot:
+            return
+        else:
+            if ""!mm "" in message.content:
+                msgcon = (message.content.replace(""!mm "", """"))
+                msgcon = msgcon.lower()
+                input_ids = tokenizer.encode((tokenizer.eos_token + msgcon), return_tensors='pt')
+                chat_history_ids = model.generate(input_ids, max_length=1250, pad_token_id=tokenizer.eos_token_id)
+                out = tokenizer.decode(chat_history_ids[0], skip_special_tokens=True)
+                await message.channel.send(out)
+            elif ""<@1074944715184672789> "" in message.content:
+                msgcon = (message.content.replace(""<@1074944715184672789> "", """"))
+                msgcon = msgcon.lower()
+                input_ids = tokenizer.encode((tokenizer.eos_token + msgcon), return_tensors='pt')
+                chat_history_ids = model.generate(input_ids, max_length=1250, pad_token_id=tokenizer.eos_token_id)
+                out = tokenizer.decode(chat_history_ids[0], skip_special_tokens=True)
+                await message.channel.send(out)
+            elif ""<@1074944715184672789>"" in message.content:
+                msgcon = (message.content.replace(""<@1074944715184672789>"", """"))
+                msgcon = msgcon.lower()
+                input_ids = tokenizer.encode((tokenizer.eos_token + msgcon), return_tensors='pt')
+                chat_history_ids = model.generate(input_ids, max_length=1250, pad_token_id=tokenizer.eos_token_id)
+                out = tokenizer.decode(chat_history_ids[0], skip_special_tokens=True)
+                await message.channel.send(out)
+    
+    
+    token = #HIDDEN
+    client.run(token)
+    
+
+Thanks in advance.",t2_e8j6z0u3,False,0,False,DialoGPT bot doesn't respond normally,r/CodingHelp,False,6,python,0,False,t3_1133p3x,False,light,0.38,public,0,0,False,False,False,[Python],False,0,False,False,self,1676483323.0,True,1676482648.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>I tried to make a discord bot that will respond to user messages using DialoGPT. Spent around 10 hours on doing the thing + researching + thinking, and now I&#39;m totally stuck. I tried to search Google, but there are just a few results. So, the bot just responds with something similar to that I type. As an example:  </p>
+
+<pre><code>Me: Hi
+Bot: hi
+Me: How are you
+Bot: how are you doing?
+Me: I&#39;m good. You?
+Bot: i&#39;m good. you?
+</code></pre>
+
+<p>Here is the code of what I&#39;ve currently done.</p>
+
+<pre><code>import discord
+from discord.ext import commands
+from transformers import AutoModelForCausalLM, AutoTokenizer
+import torch
+
+tokenizer = AutoTokenizer.from_pretrained(&quot;microsoft/DialoGPT-large&quot;, padding_side=&#39;left&#39;)
+model = AutoModelForCausalLM.from_pretrained(&quot;microsoft/DialoGPT-large&quot;)
+global msgcon
+
+intents = discord.Intents.all()
+
+client = commands.Bot(command_prefix=commands.when_mentioned_or(&quot;!mm&quot;), intents=intents)
+
+client.author_id = #HIDDEN
+
+
+u/client.event
+async def on_ready():
+    print(&quot;Enabled&quot;)
+    print(client.user)
+
+
+u/client.event
+async def on_message(message):
+    if message.author.bot:
+        return
+    else:
+        if &quot;!mm &quot; in message.content:
+            msgcon = (message.content.replace(&quot;!mm &quot;, &quot;&quot;))
+            msgcon = msgcon.lower()
+            input_ids = tokenizer.encode((tokenizer.eos_token + msgcon), return_tensors=&#39;pt&#39;)
+            chat_history_ids = model.generate(input_ids, max_length=1250, pad_token_id=tokenizer.eos_token_id)
+            out = tokenizer.decode(chat_history_ids[0], skip_special_tokens=True)
+            await message.channel.send(out)
+        elif &quot;&lt;@1074944715184672789&gt; &quot; in message.content:
+            msgcon = (message.content.replace(&quot;&lt;@1074944715184672789&gt; &quot;, &quot;&quot;))
+            msgcon = msgcon.lower()
+            input_ids = tokenizer.encode((tokenizer.eos_token + msgcon), return_tensors=&#39;pt&#39;)
+            chat_history_ids = model.generate(input_ids, max_length=1250, pad_token_id=tokenizer.eos_token_id)
+            out = tokenizer.decode(chat_history_ids[0], skip_special_tokens=True)
+            await message.channel.send(out)
+        elif &quot;&lt;@1074944715184672789&gt;&quot; in message.content:
+            msgcon = (message.content.replace(&quot;&lt;@1074944715184672789&gt;&quot;, &quot;&quot;))
+            msgcon = msgcon.lower()
+            input_ids = tokenizer.encode((tokenizer.eos_token + msgcon), return_tensors=&#39;pt&#39;)
+            chat_history_ids = model.generate(input_ids, max_length=1250, pad_token_id=tokenizer.eos_token_id)
+            out = tokenizer.decode(chat_history_ids[0], skip_special_tokens=True)
+            await message.channel.send(out)
+
+
+token = #HIDDEN
+client.run(token)
+</code></pre>
+
+<p>Thanks in advance.</p>
+</div><!-- SC_ON -->",confidence,False,True,False,False,False,False,c30613a6-fe69-11e5-9f92-0e38806720a9,False,False,False,False,t5_39s7p,False,#0dd3bb,1133p3x,True,0,True,all_ads,False,False,/r/CodingHelp/comments/1133p3x/dialogpt_bot_doesnt_respond_normally/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/1133p3x/dialogpt_bot_doesnt_respond_normally/,62193,1676482648.0,0,False,False,,,,,,
+2048,confidence,"I have been trying to create a basic AI for Minecraft. So far I have tried python, but that gave me no luck. I am wondering what language to code with. What I am trying to accomplish is create an AI that will work through all versions of Minecraft without failing. Is it possible to do this? Would it be possible to use a separate application to communicate with Minecraft? I am also trying to make it be where I can play single player or multiplayer on other servers.",t2_ldlvqww5,False,0,False,AI for Minecraft all versions,r/CodingHelp,False,6,request-coders,0,False,t3_11b696g,False,light,0.72,public,3,0,False,False,False,[Request Coders],False,3,False,False,self,0.0,True,1677283252.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>I have been trying to create a basic AI for Minecraft. So far I have tried python, but that gave me no luck. I am wondering what language to code with. What I am trying to accomplish is create an AI that will work through all versions of Minecraft without failing. Is it possible to do this? Would it be possible to use a separate application to communicate with Minecraft? I am also trying to make it be where I can play single player or multiplayer on other servers.</p>
+</div><!-- SC_ON -->",confidence,False,False,False,False,False,False,9b2dfe9c-98c0-11eb-a08a-0e3919aef275,False,False,False,False,t5_39s7p,False,#373c3f,11b696g,True,5,True,all_ads,False,False,/r/CodingHelp/comments/11b696g/ai_for_minecraft_all_versions/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/11b696g/ai_for_minecraft_all_versions/,62193,1677283252.0,0,False,False,,,,,,
+2048,confidence,"Hello all. I’m trying my hardest to learn coding. I am stuck. When I enter in 3 and 2, the answers should be 5, 1, 6, 1.5. But it comes back as 32, 1, 6, 1.5. I’m assuming I have to do something with parseInt, but I’m not positive. What am I missing here? Any help is greatly appreciated! Here’s my code:
+
+// BL
+function saySomething(whatToSay) {
+  window.alert(whatToSay);
+}
+
+function add(num1, num2) {
+  return num1 + num2;
+}
+
+function sub(num1, num2) {
+  return num1 - num2;
+}
+
+function mult(num1, num2) {
+  return num1 * num2;
+}
+
+function div(num1, num2) {
+  return num1 / num2;
+}
+
+// UI
+const number1 = prompt(""Enter a number:"");
+const number2 = prompt(""Enter another number:"");
+
+window.alert(add(number1, number2));
+window.alert(sub(number1, number2));
+window.alert(mult(number1, number2));
+window.alert(div(number1, number2));",t2_hkh5h0z6,False,0,False,Need help with my Calculator:),r/CodingHelp,False,6,javascript,0,False,t3_116jr3v,False,dark,0.72,public,3,0,False,False,False,[Javascript],False,3,False,False,self,0.0,True,1676830432.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>Hello all. I’m trying my hardest to learn coding. I am stuck. When I enter in 3 and 2, the answers should be 5, 1, 6, 1.5. But it comes back as 32, 1, 6, 1.5. I’m assuming I have to do something with parseInt, but I’m not positive. What am I missing here? Any help is greatly appreciated! Here’s my code:</p>
+
+<p>// BL
+function saySomething(whatToSay) {
+  window.alert(whatToSay);
+}</p>
+
+<p>function add(num1, num2) {
+  return num1 + num2;
+}</p>
+
+<p>function sub(num1, num2) {
+  return num1 - num2;
+}</p>
+
+<p>function mult(num1, num2) {
+  return num1 * num2;
+}</p>
+
+<p>function div(num1, num2) {
+  return num1 / num2;
+}</p>
+
+<p>// UI
+const number1 = prompt(&quot;Enter a number:&quot;);
+const number2 = prompt(&quot;Enter another number:&quot;);</p>
+
+<p>window.alert(add(number1, number2));
+window.alert(sub(number1, number2));
+window.alert(mult(number1, number2));
+window.alert(div(number1, number2));</p>
+</div><!-- SC_ON -->",confidence,False,False,False,False,False,False,9cee53fe-fe69-11e5-b2bf-0e33556f5293,False,False,False,False,t5_39s7p,False,#94e044,116jr3v,True,4,True,all_ads,False,False,/r/CodingHelp/comments/116jr3v/need_help_with_my_calculator/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/116jr3v/need_help_with_my_calculator/,62193,1676830432.0,0,False,False,,,,,,
+2048,confidence,"Hi all!
+
+I graduated from college last year with a BS in computer science, but I haven't touched code since. (And my last semester was all theory, so it's been basically two years). For a variety of reasons, some good some not-so, I haven't had the drive to do it.
+
+I finally found that urge today and am embarrassed to say I had to look up how to run a js file. I feel hopeless that all of my learning was for naught. I have upcoming tech interviews and feel like a fraud despite having hundreds of projects under my belt.
+
+Any tips on how to get back in the saddle? Anyone else been at this point before?
+
+Much appreciation & gratitude in advance.",t2_39wj6twn,False,0,False,Need to refresh myself..,r/CodingHelp,False,6,random,0,False,t3_11b44db,False,light,1.0,public,2,0,False,False,False,[Random],False,2,False,False,self,0.0,True,1677277828.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>Hi all!</p>
+
+<p>I graduated from college last year with a BS in computer science, but I haven&#39;t touched code since. (And my last semester was all theory, so it&#39;s been basically two years). For a variety of reasons, some good some not-so, I haven&#39;t had the drive to do it.</p>
+
+<p>I finally found that urge today and am embarrassed to say I had to look up how to run a js file. I feel hopeless that all of my learning was for naught. I have upcoming tech interviews and feel like a fraud despite having hundreds of projects under my belt.</p>
+
+<p>Any tips on how to get back in the saddle? Anyone else been at this point before?</p>
+
+<p>Much appreciation &amp; gratitude in advance.</p>
+</div><!-- SC_ON -->",confidence,False,False,False,False,False,False,d8fdfabe-6a09-11e6-9d6b-0e06f59ceca7,False,False,False,False,t5_39s7p,False,#ccac2b,11b44db,True,2,True,all_ads,False,False,/r/CodingHelp/comments/11b44db/need_to_refresh_myself/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/11b44db/need_to_refresh_myself/,62193,1677277828.0,0,False,False,,,,,,
+2048,confidence,"I'm due for an assignment and I have no idea how to do this program, please help me Reddit!  
+
+&#x200B;
+
+\++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+&#x200B;
+
+You are a network engineer responsible for designing the communication network for a large company with n departments
+
+You want to create a complete undirected graph to represent the network, where each vertex represents a department, and each edge represents a communication channel between departments. Each edge has a weight representing the cost of maintaining the communication channels incident to the first department ( the department you are in charge of) is equal to the cost of the minimum spanning tree of the entire network. Additionally, you want to minimize the cost of the network by limiting the cost of each channel to be in the range of 1 to K 
+
+Your task is to find the number of different network designs that satisfy these conditions.
+
+Constraints: 
+
+2<=N<250
+
+1<=K<=250",t2_721o35g3,False,0,False,GRAPH IMPLEMENTATION: HELPP!!!!,r/CodingHelp,False,6,c,0,False,t3_10ti3pf,False,light,0.64,public,3,1,False,False,False,[C],False,3,False,False,self,0.0,True,1675522143.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>I&#39;m due for an assignment and I have no idea how to do this program, please help me Reddit!  </p>
+
+<p>&#x200B;</p>
+
+<p>++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++</p>
+
+<p>&#x200B;</p>
+
+<p>You are a network engineer responsible for designing the communication network for a large company with n departments</p>
+
+<p>You want to create a complete undirected graph to represent the network, where each vertex represents a department, and each edge represents a communication channel between departments. Each edge has a weight representing the cost of maintaining the communication channels incident to the first department ( the department you are in charge of) is equal to the cost of the minimum spanning tree of the entire network. Additionally, you want to minimize the cost of the network by limiting the cost of each channel to be in the range of 1 to K </p>
+
+<p>Your task is to find the number of different network designs that satisfy these conditions.</p>
+
+<p>Constraints: </p>
+
+<p>2&lt;=N&lt;250</p>
+
+<p>1&lt;=K&lt;=250</p>
+</div><!-- SC_ON -->",confidence,False,False,False,False,False,False,4f10df82-8a5d-11e6-bff0-0e0536d0c06b,False,False,False,False,t5_39s7p,False,#b8001f,10ti3pf,True,7,True,all_ads,False,False,/r/CodingHelp/comments/10ti3pf/graph_implementation_helpp/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/10ti3pf/graph_implementation_helpp/,62193,1675522143.0,0,False,False,,,,,,
+2048,confidence,"So I see that online there’s a lot of good tutorials but they only let me practice a specific part of a particular language 1 or twice and when I do it again it’s the same problem. Is there a course, website, or anything that lets me drill a specific problem over and over again? Example. I was learning about forms, inputs, and labels in html and when the video was over they gave a proactive problem but only ONE practice problem. And if I got it right I could just refresh it and it’d still be the same problem. I feel that drilling a particular aspect of a language helps Engrain it better like practicing multiplication in math or playing basketball and you shoot a 1000 free throws over and over again until you’re ready to play an actual game. Is there any resource out there that can help with that? Any Info would be appreciated!!",t2_doqf6a7u,False,0,False,What resource is available to practice a specific aspect of coding over and over again?,r/CodingHelp,False,6,quick-guide,0,False,t3_10mzk8r,False,light,0.81,public,3,0,False,False,False,[Quick Guide],False,3,False,False,self,0.0,True,1674862102.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>So I see that online there’s a lot of good tutorials but they only let me practice a specific part of a particular language 1 or twice and when I do it again it’s the same problem. Is there a course, website, or anything that lets me drill a specific problem over and over again? Example. I was learning about forms, inputs, and labels in html and when the video was over they gave a proactive problem but only ONE practice problem. And if I got it right I could just refresh it and it’d still be the same problem. I feel that drilling a particular aspect of a language helps Engrain it better like practicing multiplication in math or playing basketball and you shoot a 1000 free throws over and over again until you’re ready to play an actual game. Is there any resource out there that can help with that? Any Info would be appreciated!!</p>
+</div><!-- SC_ON -->",confidence,False,False,False,False,False,False,27cdc490-869d-11ea-a057-0ed86f45dc49,False,False,False,False,t5_39s7p,False,#cc5289,10mzk8r,True,3,True,all_ads,False,False,/r/CodingHelp/comments/10mzk8r/what_resource_is_available_to_practice_a_specific/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/10mzk8r/what_resource_is_available_to_practice_a_specific/,62193,1674862102.0,0,False,False,,,,,,
+2048,confidence,"My uncle had this idea of making a language where you would replace every word with a word that has the same amount of syllables. Ex, ""one"" would be ""sky"", but ""sky"" would be something else entirely. We wanted to make a website or something using google sheets to randomize the words. So my question is, how would we get a list of words sorted by syllables, how would the plurals work? (Asking because I know someone is smarter than us), and how would we code it? It would be really cool to make something that translates to our language and from our language. I hope i explained this well enough i also hope this is the right place to post this, ps: ( I have no coding experience really except for some python discord bots so please explain it to me as such)",t2_2j81wyc,False,0,False,How would i make this?,r/CodingHelp,False,6,random,0,False,t3_10h7fw3,False,light,0.6,public,1,0,False,False,False,[Random],False,1,False,False,self,0.0,True,1674246955.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>My uncle had this idea of making a language where you would replace every word with a word that has the same amount of syllables. Ex, &quot;one&quot; would be &quot;sky&quot;, but &quot;sky&quot; would be something else entirely. We wanted to make a website or something using google sheets to randomize the words. So my question is, how would we get a list of words sorted by syllables, how would the plurals work? (Asking because I know someone is smarter than us), and how would we code it? It would be really cool to make something that translates to our language and from our language. I hope i explained this well enough i also hope this is the right place to post this, ps: ( I have no coding experience really except for some python discord bots so please explain it to me as such)</p>
+</div><!-- SC_ON -->",confidence,False,True,False,False,False,False,d8fdfabe-6a09-11e6-9d6b-0e06f59ceca7,False,False,False,False,t5_39s7p,False,#ccac2b,10h7fw3,True,12,True,all_ads,False,False,/r/CodingHelp/comments/10h7fw3/how_would_i_make_this/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/10h7fw3/how_would_i_make_this/,62193,1674246955.0,0,False,False,,,,,,
+2048,confidence,"I have scanned the Aztec barcode on my train ticket to see what is in there. The decoding with the aspose decoder ( [Read Barcode Online (aspose.app)](https://products.aspose.app/barcode/recognize#/recognized) )works, but the output is gibberish:
+
+    #UT010080000070,¼î	EO#2ª<Ø4”©T7u·@£{äZÄQä¸Ô&ãL����0348xœm‘ÏNÂ@ÆKbÔ‹O=nâ
+    SÙînÿx¢´XÃÁ
+    WÓR4I©}ŸÌðaœAj0ÐK¿ùæ7³;³£‡4éÅ€�Úðap<ékëCP‚¤¼6'qÂ`t.(DÐRÂo¾ýŽF*ãZ7üŸQð©dó¼ž×ÓjAu „Ë¢GBµ"" ¡Ñ2îÅÅ$8-3$¥¹2ÍgÅ[ýtÞ¯šwòy*ÎëÙ¢ÉË¦u½½®¿[/y+&
+    Eš:iñ(„	¥7ýµ§/ìu‡cqŠá¸»êPûŒx4o½ë×—iQMW‹çJÄùª*)aøÚè’âc½µ}¶fà""O(áð‚7GŽÜqhfPR+Ú¥»ni|~šñˆ@ÔÚ*éñ:W‘ŸÛÍÑ—½Œ”Õ‰´ÍoÊæñ÷á‰½ü8ý¤ ØšÓÅ61Ù×cÒ1å¾åñS‘´
+
+I suspect this is an encoding problem, but I cannot divine the encoding from this gibberish. What can I do to get the real data?
+
+The used decoder works flawlessly with known aztec codes likes this :  [Aztec Code Lovacraft Example (security-bits.de)](https://security-bits.de/research/reference/aztec)
+
+My next attempt will be to use python-zxing but I wanted to get some hints form you what might be the root cause of this decoding error.   
+
+
+FYI: reading the aztec code using the official ticket app works too but doesnt output raw data.",t2_8n5qa0l6,False,0,False,Aztec Code decoding - Encoding Error? Gibberish output,r/CodingHelp,False,6,othercode,0,False,t3_10luvwc,False,light,1.0,public,2,0,False,False,False,[Other Code],False,2,False,False,self,0.0,True,1674748137.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>I have scanned the Aztec barcode on my train ticket to see what is in there. The decoding with the aspose decoder ( <a href=""https://products.aspose.app/barcode/recognize#/recognized"">Read Barcode Online (aspose.app)</a> )works, but the output is gibberish:</p>
+
+<pre><code>#UT010080000070,¼î   EO#2ª&lt;Ø4”©T7u·@£{äZÄQä¸Ô&amp;ãL����0348xœm‘ÏNÂ@ÆKbÔ‹O=nâ
+SÙînÿx¢´XÃÁ
+WÓR4I©}ŸÌðaœAj0ÐK¿ùæ7³;³£‡4éÅ€�Úðap&lt;ékëCP‚¤¼6&#39;qÂ`t.(DÐRÂo¾ýŽF*ãZ7üŸQð©dó¼ž×ÓjAu „Ë¢GBµ&quot; ¡Ñ2îÅÅ$8-3$¥¹2ÍgÅ[ýtÞ¯šwòy*ÎëÙ¢ÉË¦u½½®¿[/y+&amp;
+Eš:iñ(„ ¥7ýµ§/ìu‡cqŠá¸»êPûŒx4o½ë×—iQMW‹çJÄùª*)aøÚè’âc½µ}¶fà&quot;O(áð‚7GŽÜqhfPR+Ú¥»ni|~šñˆ@ÔÚ*éñ:W‘ŸÛÍÑ—½Œ”Õ‰´ÍoÊæñ÷á‰½ü8ý¤ ØšÓÅ61Ù×cÒ1å¾åñS‘´
+</code></pre>
+
+<p>I suspect this is an encoding problem, but I cannot divine the encoding from this gibberish. What can I do to get the real data?</p>
+
+<p>The used decoder works flawlessly with known aztec codes likes this :  <a href=""https://security-bits.de/research/reference/aztec"">Aztec Code Lovacraft Example (security-bits.de)</a></p>
+
+<p>My next attempt will be to use python-zxing but I wanted to get some hints form you what might be the root cause of this decoding error.   </p>
+
+<p>FYI: reading the aztec code using the official ticket app works too but doesnt output raw data.</p>
+</div><!-- SC_ON -->",confidence,False,True,False,False,False,False,c924f49e-6a09-11e6-9e76-0e20995947cd,False,False,False,False,t5_39s7p,False,#ea0027,10luvwc,True,4,True,all_ads,False,False,/r/CodingHelp/comments/10luvwc/aztec_code_decoding_encoding_error_gibberish/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/10luvwc/aztec_code_decoding_encoding_error_gibberish/,62193,1674748137.0,0,False,False,,self,,,,
+2048,confidence,"So i have an animated react component that basically produces a gradient and i want text to be transparent so that the color of the text is basically the animated gradient 
+
+<container position:relative>
+
+....<AnimatedGradient component />
+
+....<div that contains text>
+
+</container>
+
+ive tried changing text color to transparent but the text just disappears and all i see is the gradient",t2_ae36c65h,False,0,False,trying to get text color to be transparent to show animated gradient as color,r/CodingHelp,False,6,css,0,False,t3_103ad9c,False,light,1.0,public,10,0,False,False,False,[CSS],False,10,False,False,self,0.0,True,1672855593.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>So i have an animated react component that basically produces a gradient and i want text to be transparent so that the color of the text is basically the animated gradient </p>
+
+<p>&lt;container position:relative&gt;</p>
+
+<p>....&lt;AnimatedGradient component /&gt;</p>
+
+<p>....&lt;div that contains text&gt;</p>
+
+<p>&lt;/container&gt;</p>
+
+<p>ive tried changing text color to transparent but the text just disappears and all i see is the gradient</p>
+</div><!-- SC_ON -->",confidence,False,False,False,False,False,False,98d3c970-fe69-11e5-a4aa-0e38806720a9,False,False,False,False,t5_39s7p,False,#7193ff,103ad9c,True,6,True,all_ads,False,False,/r/CodingHelp/comments/103ad9c/trying_to_get_text_color_to_be_transparent_to/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/103ad9c/trying_to_get_text_color_to_be_transparent_to/,62193,1672855593.0,0,False,False,,,,,,
+2048,confidence,"I am starting my software engineering major next month and need help buying a computer. I was decided on getting the macbook pro with the m2 processor but one of the professors advised against it due to possible difficulties with the software the uni uses.
+
+What would you guys recommend me to get?
+
+https://www.ue-germany.com/media/2710/ue_curriculum_software_engineering_bsc.pdf
+
+This are the classes I will be taking :)",t2_74roqd7r,False,0,False,Help buying a computer,r/CodingHelp,False,6,request-coders,0,False,t3_10mbiuk,False,light,0.67,public,1,0,False,False,False,[Request Coders],False,1,False,False,self,0.0,True,1674792002.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>I am starting my software engineering major next month and need help buying a computer. I was decided on getting the macbook pro with the m2 processor but one of the professors advised against it due to possible difficulties with the software the uni uses.</p>
+
+<p>What would you guys recommend me to get?</p>
+
+<p><a href=""https://www.ue-germany.com/media/2710/ue_curriculum_software_engineering_bsc.pdf"">https://www.ue-germany.com/media/2710/ue_curriculum_software_engineering_bsc.pdf</a></p>
+
+<p>This are the classes I will be taking :)</p>
+</div><!-- SC_ON -->",confidence,False,True,False,False,False,False,9b2dfe9c-98c0-11eb-a08a-0e3919aef275,False,False,False,False,t5_39s7p,False,#373c3f,10mbiuk,True,4,True,all_ads,False,False,/r/CodingHelp/comments/10mbiuk/help_buying_a_computer/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/10mbiuk/help_buying_a_computer/,62193,1674792002.0,0,False,False,,,,,,
+2048,confidence,"19. A natural number n is given. It is required to determine the difference and the product between its largest and smallest digits. 
+20. A number n is given. Display the first n numbers that are part of the sequence: 2, 4, 8, 16, ..., 2n",t2_9w2taskk,False,0,False,Anyone that can help me??,r/CodingHelp,False,6,cplusplus,0,False,t3_109c3d7,False,light,0.33,public,0,0,False,False,False,[C++],False,0,False,False,self,0.0,True,1673462061.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><ol>
+<li>A natural number n is given. It is required to determine the difference and the product between its largest and smallest digits. </li>
+<li>A number n is given. Display the first n numbers that are part of the sequence: 2, 4, 8, 16, ..., 2n</li>
+</ol>
+</div><!-- SC_ON -->",confidence,False,True,False,False,False,False,a2b3b3bc-2a31-11e6-8c71-0ec4c79b50b3,False,False,False,False,t5_39s7p,False,#cc5289,109c3d7,True,6,True,all_ads,False,False,/r/CodingHelp/comments/109c3d7/anyone_that_can_help_me/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/109c3d7/anyone_that_can_help_me/,62193,1673462061.0,0,False,False,,,,,,
+2048,confidence,"I want to choose from a list of 3 weapons before a tiger attacks.
+
+I’ve got 
+
+from tiger import Tiger
+
+def choose_weapon(choose_weapon):
+     Tiger.active_weapon = choose _weapon(‘claws’, ‘bite’, ‘headbutt’)
+
+Then I called it in main
+
+tiger = Tiger
+tiger.choose_weapon()",t2_rp9jjotm,False,0,False,I need an OOP code,r/CodingHelp,False,6,python,0,False,t3_10abnbn,False,light,0.2,public,0,0,False,False,False,[Python],False,0,False,False,self,0.0,True,1673559733.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>I want to choose from a list of 3 weapons before a tiger attacks.</p>
+
+<p>I’ve got </p>
+
+<p>from tiger import Tiger</p>
+
+<p>def choose_weapon(choose_weapon):
+     Tiger.active_weapon = choose _weapon(‘claws’, ‘bite’, ‘headbutt’)</p>
+
+<p>Then I called it in main</p>
+
+<p>tiger = Tiger
+tiger.choose_weapon()</p>
+</div><!-- SC_ON -->",confidence,False,True,False,False,False,False,c30613a6-fe69-11e5-9f92-0e38806720a9,False,False,False,False,t5_39s7p,False,#0dd3bb,10abnbn,True,4,True,all_ads,False,False,/r/CodingHelp/comments/10abnbn/i_need_an_oop_code/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/10abnbn/i_need_an_oop_code/,62193,1673559733.0,0,False,False,,,,,,
+2048,confidence,"I've been trying to make python play music with the 'playsound' command from the 'playsound' library, but it gives several errors and I can never run the code, even though it's super simple. Any tips?
+
+this is the code:
+
+    from playsound import playsound
+    playsound('audios/music.wav')
+
+and this is the error:
+
+    Traceback (most recent call last):
+      File ""c:\Users\lucas\OneDrive\Documentos\coisas de programaçao\curso em video\python\exercicios\ex021.py"", line 2, 
+    in <module>
+        playsound('audios/music.wav')
+      File ""C:\Users\lucas\AppData\Local\Programs\Python\Python39\lib\site-packages\playsound.py"", line 35, in _playsoundWin
+        winCommand('open ""' + sound + '"" alias', alias)
+      File ""C:\Users\lucas\AppData\Local\Programs\Python\Python39\lib\site-packages\playsound.py"", line 30, in winCommand    '\n    ' + errorBuffer.value.decode())
+    UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe3 in position 24: invalid continuation byte
+    PS C:\Users\lucas\OneDrive\Documentos\coisas de programaçao> 
+
+sorry for english, it's not my native language.
+
+&#x200B;
+
+edit:
+
+I looked at the error directories and it shows an error on lines 30 and 35 of the library related to 'utf-8' which would be the text formatting I think but it says something about byte 0xe3 which is in position 24. any idea what this could be?
+
+&#x200B;
+
+I already managed to solve the problem.",t2_e1npz2t3,False,0,False,problems with playsound in python,r/CodingHelp,False,6,python,0,False,t3_ziwozb,False,light,1.0,public,3,0,False,False,False,[Python],False,3,False,False,self,1670798709.0,True,1670773022.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>I&#39;ve been trying to make python play music with the &#39;playsound&#39; command from the &#39;playsound&#39; library, but it gives several errors and I can never run the code, even though it&#39;s super simple. Any tips?</p>
+
+<p>this is the code:</p>
+
+<pre><code>from playsound import playsound
+playsound(&#39;audios/music.wav&#39;)
+</code></pre>
+
+<p>and this is the error:</p>
+
+<pre><code>Traceback (most recent call last):
+  File &quot;c:\Users\lucas\OneDrive\Documentos\coisas de programaçao\curso em video\python\exercicios\ex021.py&quot;, line 2, 
+in &lt;module&gt;
+    playsound(&#39;audios/music.wav&#39;)
+  File &quot;C:\Users\lucas\AppData\Local\Programs\Python\Python39\lib\site-packages\playsound.py&quot;, line 35, in _playsoundWin
+    winCommand(&#39;open &quot;&#39; + sound + &#39;&quot; alias&#39;, alias)
+  File &quot;C:\Users\lucas\AppData\Local\Programs\Python\Python39\lib\site-packages\playsound.py&quot;, line 30, in winCommand    &#39;\n    &#39; + errorBuffer.value.decode())
+UnicodeDecodeError: &#39;utf-8&#39; codec can&#39;t decode byte 0xe3 in position 24: invalid continuation byte
+PS C:\Users\lucas\OneDrive\Documentos\coisas de programaçao&gt; 
+</code></pre>
+
+<p>sorry for english, it&#39;s not my native language.</p>
+
+<p>&#x200B;</p>
+
+<p>edit:</p>
+
+<p>I looked at the error directories and it shows an error on lines 30 and 35 of the library related to &#39;utf-8&#39; which would be the text formatting I think but it says something about byte 0xe3 which is in position 24. any idea what this could be?</p>
+
+<p>&#x200B;</p>
+
+<p>I already managed to solve the problem.</p>
+</div><!-- SC_ON -->",confidence,False,False,False,False,False,False,c30613a6-fe69-11e5-9f92-0e38806720a9,False,False,False,False,t5_39s7p,False,#0dd3bb,ziwozb,True,13,True,all_ads,False,False,/r/CodingHelp/comments/ziwozb/problems_with_playsound_in_python/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/ziwozb/problems_with_playsound_in_python/,62193,1670773022.0,0,False,False,,,,,,
+2048,confidence,"hi guys i am a first year computer science engenearing student and i have gotten a task to make a project like""a website or any app for android"" i don't have any prior knowlege of coding help me with a topic or suggest an easy way to make an website and a  topic or a game like tic tac to,etc",t2_gxj2u7pu,False,0,False,need help!,r/CodingHelp,False,6,request-coders,0,False,t3_zqqrl8,False,light,0.5,public,0,0,False,False,False,[Request Coders],False,0,False,False,self,0.0,True,1671548728.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>hi guys i am a first year computer science engenearing student and i have gotten a task to make a project like&quot;a website or any app for android&quot; i don&#39;t have any prior knowlege of coding help me with a topic or suggest an easy way to make an website and a  topic or a game like tic tac to,etc</p>
+</div><!-- SC_ON -->",confidence,False,True,False,False,False,False,9b2dfe9c-98c0-11eb-a08a-0e3919aef275,False,False,False,False,t5_39s7p,False,#373c3f,zqqrl8,True,5,True,all_ads,False,False,/r/CodingHelp/comments/zqqrl8/need_help/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/zqqrl8/need_help/,62193,1671548728.0,0,False,False,,,,,,
+2048,confidence,"Would it be possible to code drivers for a steering wheel I have? It’s a Ferrari 458 Spider from thrust master and when I download drivers for it, it only half works. It’s supposed to be Xbox only but it seems like it might work.",t2_ak6fnd4p,False,0,False,Is it possible to code this?,r/CodingHelp,False,6,random,0,False,t3_zv3arh,False,light,0.67,public,1,0,False,False,False,[Random],False,1,False,False,self,0.0,True,1671992077.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>Would it be possible to code drivers for a steering wheel I have? It’s a Ferrari 458 Spider from thrust master and when I download drivers for it, it only half works. It’s supposed to be Xbox only but it seems like it might work.</p>
+</div><!-- SC_ON -->",confidence,False,True,False,False,False,False,d8fdfabe-6a09-11e6-9d6b-0e06f59ceca7,False,False,False,False,t5_39s7p,False,#ccac2b,zv3arh,True,3,True,all_ads,False,False,/r/CodingHelp/comments/zv3arh/is_it_possible_to_code_this/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/zv3arh/is_it_possible_to_code_this/,62193,1671992077.0,0,False,False,,,,,,
+2048,confidence,hi does anyone know of Github copilot alternative,t2_do09crtt,False,0,False,Anyone Know of a Github copilot Alternative,r/CodingHelp,False,6,random,0,False,t3_zmoalz,False,light,0.5,public,0,0,False,False,False,[Random],False,0,False,False,self,0.0,True,1671119222.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>hi does anyone know of Github copilot alternative</p>
+</div><!-- SC_ON -->",confidence,False,True,False,False,False,False,d8fdfabe-6a09-11e6-9d6b-0e06f59ceca7,False,False,False,False,t5_39s7p,False,#ccac2b,zmoalz,True,3,True,all_ads,False,False,/r/CodingHelp/comments/zmoalz/anyone_know_of_a_github_copilot_alternative/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/zmoalz/anyone_know_of_a_github_copilot_alternative/,62193,1671119222.0,0,False,False,,,,,,
+2048,confidence,"Hey guys I'd be thankful if anyone could help me. When I do my programming homework on Moodle, even though I get the right answers, it shows an error: NUMBER OF LINES GREATER THAN EXPECTED.
+
+Does anyone have an idea why this happens? Has anyone of you had the same experience?
+
+[https://imgur.com/a/zalpxcn](https://imgur.com/a/zalpxcn) here's an image of the issue",t2_46imf56b,False,0,False,Moodle coding error : NUMBER OF LINES GREATER THAN EXPECTED,r/CodingHelp,False,6,quick-guide,0,False,t3_zl5dq2,False,light,1.0,public,1,0,False,False,False,[Quick Guide],False,1,False,False,self,0.0,True,1670961885.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>Hey guys I&#39;d be thankful if anyone could help me. When I do my programming homework on Moodle, even though I get the right answers, it shows an error: NUMBER OF LINES GREATER THAN EXPECTED.</p>
+
+<p>Does anyone have an idea why this happens? Has anyone of you had the same experience?</p>
+
+<p><a href=""https://imgur.com/a/zalpxcn"">https://imgur.com/a/zalpxcn</a> here&#39;s an image of the issue</p>
+</div><!-- SC_ON -->",confidence,False,True,False,False,False,False,27cdc490-869d-11ea-a057-0ed86f45dc49,False,False,False,False,t5_39s7p,False,#cc5289,zl5dq2,True,4,True,all_ads,False,False,/r/CodingHelp/comments/zl5dq2/moodle_coding_error_number_of_lines_greater_than/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/zl5dq2/moodle_coding_error_number_of_lines_greater_than/,62193,1670961885.0,0,False,False,,self,,,,
+2048,confidence,"I am building a Vue application where I have a list of items. Each of these items contain data, and I only want the items to be shown if the data is actually there.
+
+First let me show you a bit of my code and then I can better explain what my issue is.
+
+First I have the template, where I loop through my items and show the first 3 items on the screen unless a function is fired through a click event.
+
+                <template v-for=""(item, index) in items"">
+                  <li :key=""index"" v-if=""index < 3 || showListItem"" class=""list-group>
+                    <i :class=""item.iconClass""></i>
+                    {{ item.name }}
+                    <strong :class=""item.textClass""> {{ item.function }} </strong>
+                  </li>
+                </template>
+
+Then I have the array itself which stores both the data, as well as the styling, text and icons used.
+
+I wll just show you a single one to make it a bit easier to read.
+
+            items: [
+              {
+                iconClass: ""fas fa-arrow fa-fw fa-lg icon-class ml-2 mr-2"",
+                name: 'item 1',
+                textClass: ""li_alternative_text"",
+                function: this.myFunction()
+              }
+            ]
+
+The function is the one that handles the data.
+
+          myFunction(){
+            if(this.dataObject){
+              return this.dataObject
+            }
+          },
+
+Here is the issue. IF the dataObject is false, only the data itself is not shown, but the item remains on the list because both the icon and text is not tied to the data. What I want is for the WHOLE item to be removed if no data is available. So far I have tried this approach by putting the data condition inside the array
+
+            items: [
+              {
+                iconClass: ""fas fa-arrow fa-fw fa-lg icon-class ml-2 mr-2"",
+                name: 'item 1',
+                textClass: ""li_alternative_text"",
+                function: this.myFunction(),
+                condition: this.dataObject
+              }
+            ]
+
+and putting into the existing v-if on the template.
+
+                <template v-for=""(item, index) in items"">
+                  <li :key=""index"" v-if=""index < 3 || item.condition || showListItem"" class=""list-group>
+                    <i :class=""item.iconClass""></i>
+                    {{ item.name }}
+                    <strong :class=""item.textClass""> {{ item.function }} </strong>
+                  </li>
+                </template>
+
+This approach does not work. I tried experimenting by removing the index < 3 condition and just testing out v-if=""item.condition"". This ended up making the entire list vanish.
+
+Any ideas what I could do to fix this issue?",t2_pqnh3m2q,False,0,False,How do you hide an item from an array based on a condition inside that item?,r/CodingHelp,False,6,javascript,0,False,t3_100s2pc,False,dark,1.0,public,1,0,False,False,False,[Javascript],False,1,False,False,self,0.0,True,1672603623.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>I am building a Vue application where I have a list of items. Each of these items contain data, and I only want the items to be shown if the data is actually there.</p>
+
+<p>First let me show you a bit of my code and then I can better explain what my issue is.</p>
+
+<p>First I have the template, where I loop through my items and show the first 3 items on the screen unless a function is fired through a click event.</p>
+
+<pre><code>            &lt;template v-for=&quot;(item, index) in items&quot;&gt;
+              &lt;li :key=&quot;index&quot; v-if=&quot;index &lt; 3 || showListItem&quot; class=&quot;list-group&gt;
+                &lt;i :class=&quot;item.iconClass&quot;&gt;&lt;/i&gt;
+                {{ item.name }}
+                &lt;strong :class=&quot;item.textClass&quot;&gt; {{ item.function }} &lt;/strong&gt;
+              &lt;/li&gt;
+            &lt;/template&gt;
+</code></pre>
+
+<p>Then I have the array itself which stores both the data, as well as the styling, text and icons used.</p>
+
+<p>I wll just show you a single one to make it a bit easier to read.</p>
+
+<pre><code>        items: [
+          {
+            iconClass: &quot;fas fa-arrow fa-fw fa-lg icon-class ml-2 mr-2&quot;,
+            name: &#39;item 1&#39;,
+            textClass: &quot;li_alternative_text&quot;,
+            function: this.myFunction()
+          }
+        ]
+</code></pre>
+
+<p>The function is the one that handles the data.</p>
+
+<pre><code>      myFunction(){
+        if(this.dataObject){
+          return this.dataObject
+        }
+      },
+</code></pre>
+
+<p>Here is the issue. IF the dataObject is false, only the data itself is not shown, but the item remains on the list because both the icon and text is not tied to the data. What I want is for the WHOLE item to be removed if no data is available. So far I have tried this approach by putting the data condition inside the array</p>
+
+<pre><code>        items: [
+          {
+            iconClass: &quot;fas fa-arrow fa-fw fa-lg icon-class ml-2 mr-2&quot;,
+            name: &#39;item 1&#39;,
+            textClass: &quot;li_alternative_text&quot;,
+            function: this.myFunction(),
+            condition: this.dataObject
+          }
+        ]
+</code></pre>
+
+<p>and putting into the existing v-if on the template.</p>
+
+<pre><code>            &lt;template v-for=&quot;(item, index) in items&quot;&gt;
+              &lt;li :key=&quot;index&quot; v-if=&quot;index &lt; 3 || item.condition || showListItem&quot; class=&quot;list-group&gt;
+                &lt;i :class=&quot;item.iconClass&quot;&gt;&lt;/i&gt;
+                {{ item.name }}
+                &lt;strong :class=&quot;item.textClass&quot;&gt; {{ item.function }} &lt;/strong&gt;
+              &lt;/li&gt;
+            &lt;/template&gt;
+</code></pre>
+
+<p>This approach does not work. I tried experimenting by removing the index &lt; 3 condition and just testing out v-if=&quot;item.condition&quot;. This ended up making the entire list vanish.</p>
+
+<p>Any ideas what I could do to fix this issue?</p>
+</div><!-- SC_ON -->",confidence,False,True,False,False,False,False,9cee53fe-fe69-11e5-b2bf-0e33556f5293,False,False,False,False,t5_39s7p,False,#94e044,100s2pc,True,1,True,all_ads,False,False,/r/CodingHelp/comments/100s2pc/how_do_you_hide_an_item_from_an_array_based_on_a/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/100s2pc/how_do_you_hide_an_item_from_an_array_based_on_a/,62193,1672603623.0,0,False,False,,,,,,
+2048,confidence,"Per the title, I am making a ui element styled akin to the sliders in the procreate app, I've made it as I want but when I apply a transform to it to get everything vertical, trying to slide the sliders using touch, pencil or pen on mobile devices and touch screen computers breaks, works fine with a mouse.
+
+&#x200B;
+
+Full code can be found at the following,
+
+[stackoverflow](https://stackoverflow.com/questions/74867742/input-range-slider-breaks-on-mobile-when-parent-div-has-transformrotate90deg)
+
+[codepen](https://codepen.io/taibhse-designs/pen/zYLxvOj)
+
+&#x200B;
+
+Any help would be greatly appreciated.
+
+&#x200B;
+
+HTML
+
+    <div id=""tool-setting-palette"" class=""rotate-rev-90"">
+      
+      <button id=""redo-btn"" type=""button"" value="""" class=""btn rotate-90""><i class=""fa fa-repeat""></i></button>
+      
+      <button id=""undo-btn"" type=""button"" value="""" class=""btn rotate-90""><i class=""fa fa-undo""></i></button>
+      
+      
+      <input type='range'   class='topcoat-range-input--vertical'> 
+      
+      <input type='range'   class='topcoat-range-input--vertical'> 
+      
+    </div>
+
+CSS
+
+    /* Desperate to remove focus outline in firefox */
+    ::-moz-focus-inner {
+      outline:0;
+    }
+    
+    :focus {
+      outline:0;
+    }
+    
+    .topcoat-range-input--vertical {
+      position: relative;
+      /*padding: 0;
+      margin: 0;*/
+      border: none;
+      box-sizing: border-box;
+      background-clip: padding-box;
+      vertical-align: top;
+      outline: none;
+      -webkit-appearance: none;
+      
+      border-radius: 4px;
+      border: 1px solid #a5a8a8;
+      background: #CCd3d7d7;
+      height: 2rem;
+      border-radius: 4px;
+      
+    }
+    
+    .topcoat-range-input--vertical::-webkit-slider-thumb{
+      cursor: pointer;
+      -webkit-appearance: none;
+    }
+    
+    .topcoat-range-input--vertical::-moz-range-thumb {
+      cursor: pointer;
+    }
+    
+    /*.topcoat-range-input--vertical {
+      border-radius: 4px;
+      border: 1px solid #a5a8a8;
+      background: #d3d7d7;
+      height: 2rem;
+      border-radius: 4px;
+    }*/
+    
+    .topcoat-range-input--vertical::-webkit-slider-thumb {
+      height: 2rem;
+      width: 1.2rem;
+      border: 1px solid rgba(0,0,0,0.36);
+      border-radius: 6px;
+      background: #e5e9e8;
+      background-size: 7px 18px;
+      box-shadow: inset 0 1px white;
+    }
+    
+    .topcoat-range-input--vertical::-moz-range-thumb {
+      
+      height: 2rem;
+      width: 1.2rem;
+      border: 1px solid rgba(0,0,0,0.36);
+      border-radius: 6px;
+      background: #e5e9e8;
+      background-size: 7px 18px;
+      box-shadow: inset 0 1px white;
+      
+    }
+    
+    ::-ms-tooltip,
+    ::-ms-fill-lower {
+      display: none;
+    }
+    
+    .topcoat-range-input--vertical {
+      
+      /*display: block;
+      box-sizing: border-box;*/
+      vertical-align: middle;
+      
+    }
+    
+    #tool-setting-palette{
+      
+      background: #000000;
+      opacity: 0.8;
+      height: fit-content;
+      width: fit-content;
+      padding: .3em;
+      border-radius: 0.5em;
+      
+      position: fixed;
+      left: 2em;
+      bottom: 0;
+      
+    }
+    
+    .btn {
+      background-color: transparent;
+      width: 1.5em;
+      height: 1.5em;
+      border: none;
+      color: white;
+      font-size: 1.2em;
+      cursor: pointer;
+      vertical-align: middle;
+    }
+    
+    /* Darker background on mouse-over */
+    .btn:hover {
+      color: RoyalBlue;
+    }
+    
+    .btn:active {
+      color: Blue;
+      transform-origin: center;
+      transform:scale(0.9);
+    }
+    
+    .rotate-rev-90{
+        transform-origin: center left;
+      -webkit-transform:rotate(-90deg);
+      -moz-transform:rotate(-90deg);
+      -ms-transform:rotate(-90deg);  
+      transform:rotate(-90deg);
+      
+    }
+    .rotate-90, .rotate-90 .btn:hover, .rotate-90 .btn:active{
+      
+      transform-origin: center;
+      -webkit-transform:rotate(90deg);
+      -moz-transform:rotate(90deg);
+      -ms-transform:rotate(90deg);  
+      transform:rotate(90deg);
+    }",t2_qke29,False,0,False,Input [range] Slider Breaks on Mobile when Parent Div has transform:rotate(90deg),r/CodingHelp,False,6,css,0,False,t3_zqwqai,False,light,1.0,public,1,0,False,False,False,[CSS],False,1,False,False,self,0.0,True,1671563291.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>Per the title, I am making a ui element styled akin to the sliders in the procreate app, I&#39;ve made it as I want but when I apply a transform to it to get everything vertical, trying to slide the sliders using touch, pencil or pen on mobile devices and touch screen computers breaks, works fine with a mouse.</p>
+
+<p>&#x200B;</p>
+
+<p>Full code can be found at the following,</p>
+
+<p><a href=""https://stackoverflow.com/questions/74867742/input-range-slider-breaks-on-mobile-when-parent-div-has-transformrotate90deg"">stackoverflow</a></p>
+
+<p><a href=""https://codepen.io/taibhse-designs/pen/zYLxvOj"">codepen</a></p>
+
+<p>&#x200B;</p>
+
+<p>Any help would be greatly appreciated.</p>
+
+<p>&#x200B;</p>
+
+<p>HTML</p>
+
+<pre><code>&lt;div id=&quot;tool-setting-palette&quot; class=&quot;rotate-rev-90&quot;&gt;
+
+  &lt;button id=&quot;redo-btn&quot; type=&quot;button&quot; value=&quot;&quot; class=&quot;btn rotate-90&quot;&gt;&lt;i class=&quot;fa fa-repeat&quot;&gt;&lt;/i&gt;&lt;/button&gt;
+
+  &lt;button id=&quot;undo-btn&quot; type=&quot;button&quot; value=&quot;&quot; class=&quot;btn rotate-90&quot;&gt;&lt;i class=&quot;fa fa-undo&quot;&gt;&lt;/i&gt;&lt;/button&gt;
+
+
+  &lt;input type=&#39;range&#39;   class=&#39;topcoat-range-input--vertical&#39;&gt; 
+
+  &lt;input type=&#39;range&#39;   class=&#39;topcoat-range-input--vertical&#39;&gt; 
+
+&lt;/div&gt;
+</code></pre>
+
+<p>CSS</p>
+
+<pre><code>/* Desperate to remove focus outline in firefox */
+::-moz-focus-inner {
+  outline:0;
+}
+
+:focus {
+  outline:0;
+}
+
+.topcoat-range-input--vertical {
+  position: relative;
+  /*padding: 0;
+  margin: 0;*/
+  border: none;
+  box-sizing: border-box;
+  background-clip: padding-box;
+  vertical-align: top;
+  outline: none;
+  -webkit-appearance: none;
+
+  border-radius: 4px;
+  border: 1px solid #a5a8a8;
+  background: #CCd3d7d7;
+  height: 2rem;
+  border-radius: 4px;
+
+}
+
+.topcoat-range-input--vertical::-webkit-slider-thumb{
+  cursor: pointer;
+  -webkit-appearance: none;
+}
+
+.topcoat-range-input--vertical::-moz-range-thumb {
+  cursor: pointer;
+}
+
+/*.topcoat-range-input--vertical {
+  border-radius: 4px;
+  border: 1px solid #a5a8a8;
+  background: #d3d7d7;
+  height: 2rem;
+  border-radius: 4px;
+}*/
+
+.topcoat-range-input--vertical::-webkit-slider-thumb {
+  height: 2rem;
+  width: 1.2rem;
+  border: 1px solid rgba(0,0,0,0.36);
+  border-radius: 6px;
+  background: #e5e9e8;
+  background-size: 7px 18px;
+  box-shadow: inset 0 1px white;
+}
+
+.topcoat-range-input--vertical::-moz-range-thumb {
+
+  height: 2rem;
+  width: 1.2rem;
+  border: 1px solid rgba(0,0,0,0.36);
+  border-radius: 6px;
+  background: #e5e9e8;
+  background-size: 7px 18px;
+  box-shadow: inset 0 1px white;
+
+}
+
+::-ms-tooltip,
+::-ms-fill-lower {
+  display: none;
+}
+
+.topcoat-range-input--vertical {
+
+  /*display: block;
+  box-sizing: border-box;*/
+  vertical-align: middle;
+
+}
+
+#tool-setting-palette{
+
+  background: #000000;
+  opacity: 0.8;
+  height: fit-content;
+  width: fit-content;
+  padding: .3em;
+  border-radius: 0.5em;
+
+  position: fixed;
+  left: 2em;
+  bottom: 0;
+
+}
+
+.btn {
+  background-color: transparent;
+  width: 1.5em;
+  height: 1.5em;
+  border: none;
+  color: white;
+  font-size: 1.2em;
+  cursor: pointer;
+  vertical-align: middle;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  color: RoyalBlue;
+}
+
+.btn:active {
+  color: Blue;
+  transform-origin: center;
+  transform:scale(0.9);
+}
+
+.rotate-rev-90{
+    transform-origin: center left;
+  -webkit-transform:rotate(-90deg);
+  -moz-transform:rotate(-90deg);
+  -ms-transform:rotate(-90deg);  
+  transform:rotate(-90deg);
+
+}
+.rotate-90, .rotate-90 .btn:hover, .rotate-90 .btn:active{
+
+  transform-origin: center;
+  -webkit-transform:rotate(90deg);
+  -moz-transform:rotate(90deg);
+  -ms-transform:rotate(90deg);  
+  transform:rotate(90deg);
+}
+</code></pre>
+</div><!-- SC_ON -->",confidence,False,True,False,False,False,False,98d3c970-fe69-11e5-a4aa-0e38806720a9,False,False,False,False,t5_39s7p,False,#7193ff,zqwqai,True,2,True,all_ads,False,False,/r/CodingHelp/comments/zqwqai/input_range_slider_breaks_on_mobile_when_parent/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/zqwqai/input_range_slider_breaks_on_mobile_when_parent/,62193,1671563291.0,0,False,False,,self,,,,
+2048,confidence," 
+
+//imports from turtle import \*
+
+//function with list of numbers parameter and a color parameter def drawGraph(list, col):
+
+//get values from provided list ""list"" x = list.len() + 20 y = floor(max(list)) +20
+
+//create screen of proper size and background color, name it and create a turtle ""t"" Window\_ = turtle.Screen() turtle.screensize(canvwidth=x, canvheight=y,bg='white') window\_.title ( “ Graph ” ) t = turtle.Turtle ()
+
+//lift pen, set color, hide turtle, face turtle north t.up() t.color(col) t.hideturtle() t.left(90)
+
+//draw column for each data value in list for ( i=0 in list.len() ) t.goto(floor(x/2)+i, floor(y/2)) t.down() t.forwards(floor(list.at(i))) t.up()",t2_pfv14uua,False,0,False,Can somebody make this into python code,r/CodingHelp,False,6,request-coders,0,False,t3_ziel9p,False,light,0.5,public,0,0,False,False,False,[Request Coders],False,0,False,False,self,0.0,True,1670732264.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>//imports from turtle import *</p>
+
+<p>//function with list of numbers parameter and a color parameter def drawGraph(list, col):</p>
+
+<p>//get values from provided list &quot;list&quot; x = list.len() + 20 y = floor(max(list)) +20</p>
+
+<p>//create screen of proper size and background color, name it and create a turtle &quot;t&quot; Window_ = turtle.Screen() turtle.screensize(canvwidth=x, canvheight=y,bg=&#39;white&#39;) window_.title ( “ Graph ” ) t = turtle.Turtle ()</p>
+
+<p>//lift pen, set color, hide turtle, face turtle north t.up() t.color(col) t.hideturtle() t.left(90)</p>
+
+<p>//draw column for each data value in list for ( i=0 in list.len() ) t.goto(floor(x/2)+i, floor(y/2)) t.down() t.forwards(floor(list.at(i))) t.up()</p>
+</div><!-- SC_ON -->",confidence,False,True,False,False,False,False,9b2dfe9c-98c0-11eb-a08a-0e3919aef275,False,False,False,False,t5_39s7p,False,#373c3f,ziel9p,True,1,True,all_ads,False,False,/r/CodingHelp/comments/ziel9p/can_somebody_make_this_into_python_code/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/ziel9p/can_somebody_make_this_into_python_code/,62193,1670732264.0,0,False,False,,,,,,
+2048,confidence,"I need to do a web application where it only has an upload button,im given an excel file with a lot of things in it and i need certain cells from it,when i upload that excel file it creates another excel file with certain cells i needed from the one uploaded and downloads it.
+
+can anyone help pls :(
+
+im new to this
+
+thank u!",t2_jcwyf2q9,False,0,False,C# epplus excel task help :(,r/CodingHelp,False,6,csharp,0,False,t3_ziw6r6,False,light,1.0,public,1,0,False,False,False,[C#],False,1,False,False,self,0.0,True,1670772142.0,text,6,text,self.CodingHelp,False,"<!-- SC_OFF --><div class=""md""><p>I need to do a web application where it only has an upload button,im given an excel file with a lot of things in it and i need certain cells from it,when i upload that excel file it creates another excel file with certain cells i needed from the one uploaded and downloads it.</p>
+
+<p>can anyone help pls :(</p>
+
+<p>im new to this</p>
+
+<p>thank u!</p>
+</div><!-- SC_ON -->",confidence,False,True,False,False,False,False,a99f06e0-2a31-11e6-9a70-0eed8172e961,False,False,False,False,t5_39s7p,False,#ff66ac,ziw6r6,True,1,False,all_ads,False,False,/r/CodingHelp/comments/ziw6r6/c_epplus_excel_task_help/,all_ads,False,https://www.reddit.com/r/CodingHelp/comments/ziw6r6/c_epplus_excel_task_help/,62193,1670772142.0,0,False,False,,,,,,
