@@ -1,0 +1,861 @@
+subreddit_id,author_is_blocked,author_flair_type,total_awards_received,saved,id,gilded,archived,no_follow,can_mod_post,created_utc,send_replies,parent_id,score,author_fullname,collapsed,body,edited,name,is_submitter,downs,author_patreon_flair,body_html,stickied,author_premium,can_gild,score_hidden,permalink,subreddit_type,locked,created,link_id,subreddit_name_prefixed,controversiality,depth,ups,_fetched,submission_id,collapsed_reason,collapsed_reason_code,author_flair_background_color,author_flair_text_color,author_flair_text,author_flair_template_id
+t5_2qj8o,False,text,0,False,iz71nqg,0,False,False,False,1670368133.0,True,t3_ze21bp,36,t2_8i7j823b,False,"> If a triangle has three sides of length 3, what is the length of the fourth side?
+
+> It is impossible to determine the length of the fourth side of the triangle with only three sides of length 3.  A triangle must have three sides of different lengths to be valid.
+
+> Can a triangle with 3 sides of length 3 exist?
+
+> No, a triangle with three sides of length 3 cannot exist.  A triangle must have three sides of different lengths to be valid.
+
+I think how easy it is to poison its knowledge shows that it doesn’t really understand, it is just good at *sounding like it understands*, especially because it sometimes answers expert level questions correctly.",0.0,t1_iz71nqg,False,0,False,"<div class=""md""><blockquote>
+<p>If a triangle has three sides of length 3, what is the length of the fourth side?</p>
+
+<p>It is impossible to determine the length of the fourth side of the triangle with only three sides of length 3.  A triangle must have three sides of different lengths to be valid.</p>
+
+<p>Can a triangle with 3 sides of length 3 exist?</p>
+
+<p>No, a triangle with three sides of length 3 cannot exist.  A triangle must have three sides of different lengths to be valid.</p>
+</blockquote>
+
+<p>I think how easy it is to poison its knowledge shows that it doesn’t really understand, it is just good at <em>sounding like it understands</em>, especially because it sometimes answers expert level questions correctly.</p>
+</div>",False,False,True,False,/r/computerscience/comments/ze21bp/how_does_openais_chatgpt_seem_to_understand_things/iz71nqg/,public,False,1670368133.0,t3_ze21bp,r/computerscience,0,0,36,True,ze21bp,,,,,,
+t5_2qj8o,False,text,0,False,iz49y1h,0,False,False,False,1670323701.0,True,t3_ze21bp,30,t2_3qkbqq4,False,"don't ask me where I get this from
+
+&#x200B;
+
+OpenAI's ChatGPT is a large language model that has been trained to process and generate human-like text. It uses a type of artificial intelligence called deep learning, which involves training a neural network on a large dataset of text.The neural network consists of multiple layers of interconnected nodes, which process and analyze the input data. As the neural network processes the input data, it learns to identify patterns and relationships in the data, and uses this knowledge to generate responses that are similar to human-like text.The ChatGPT model is able to ""understand"" things to a certain extent because it has been trained on a large dataset of text, which includes a wide range of topics and styles of language. This allows the model to generate responses that are relevant to the input text and that use appropriate language and style.However, it is important to note that the ChatGPT model does not have a true understanding of the meaning of the input text or the responses that it generates. It is simply a machine learning model that has been trained to process and generate text based on the patterns and relationships it has learned from its training data. It does not have the ability to think or have true understanding in the same way that a human does.",0.0,t1_iz49y1h,False,0,False,"<div class=""md""><p>don&#39;t ask me where I get this from</p>
+
+<p>&#x200B;</p>
+
+<p>OpenAI&#39;s ChatGPT is a large language model that has been trained to process and generate human-like text. It uses a type of artificial intelligence called deep learning, which involves training a neural network on a large dataset of text.The neural network consists of multiple layers of interconnected nodes, which process and analyze the input data. As the neural network processes the input data, it learns to identify patterns and relationships in the data, and uses this knowledge to generate responses that are similar to human-like text.The ChatGPT model is able to &quot;understand&quot; things to a certain extent because it has been trained on a large dataset of text, which includes a wide range of topics and styles of language. This allows the model to generate responses that are relevant to the input text and that use appropriate language and style.However, it is important to note that the ChatGPT model does not have a true understanding of the meaning of the input text or the responses that it generates. It is simply a machine learning model that has been trained to process and generate text based on the patterns and relationships it has learned from its training data. It does not have the ability to think or have true understanding in the same way that a human does.</p>
+</div>",False,False,True,False,/r/computerscience/comments/ze21bp/how_does_openais_chatgpt_seem_to_understand_things/iz49y1h/,public,False,1670323701.0,t3_ze21bp,r/computerscience,0,0,30,True,ze21bp,,,,,,
+t5_2qj8o,False,text,0,False,iz7yd09,0,False,True,False,1670382964.0,True,t3_ze21bp,2,t2_49e73em8,False,"A guess. Chat GPT is likely several models strung together. It probably has a model which determines the request type. The the request is routed to the proper model. The model that does summarization of text is different then the one that builds code. There were already models in existence that exhibited chat functionality and Q&A capabilities. This is just a breakthrough in fidelity.
+
+As far as ""understanding"". AI is basically a giant network of weighted associations. Each word is a token that is associated with other words. For example the order in which words are usually typed is an association. Nouns from the same topic and appear together like ""computer"" and ""wifi"" is also an association. You build models using engineered dataset to do specific tasks. For example technically Q&A and summarization of text would be considered two different tasks. Early model development would focus on one task. Open AI found a way to daisy chain these processes together.
+
+I would not say that the model does not ""understand"". It does to a degree understand. But that understanding is incomplete. When I see the word dog. I know how it feels, what it sounds like, what it's looks like, the emotions associated with the interactions. An AI algorithm may know what it looks like in 2D and find a description but it doesn't know all the other stuff. This is not to say AI are sentient. They are mathematical/mechanical processes meant to emulate certain aspects of cognition.",1670384005.0,t1_iz7yd09,False,0,False,"<div class=""md""><p>A guess. Chat GPT is likely several models strung together. It probably has a model which determines the request type. The the request is routed to the proper model. The model that does summarization of text is different then the one that builds code. There were already models in existence that exhibited chat functionality and Q&amp;A capabilities. This is just a breakthrough in fidelity.</p>
+
+<p>As far as &quot;understanding&quot;. AI is basically a giant network of weighted associations. Each word is a token that is associated with other words. For example the order in which words are usually typed is an association. Nouns from the same topic and appear together like &quot;computer&quot; and &quot;wifi&quot; is also an association. You build models using engineered dataset to do specific tasks. For example technically Q&amp;A and summarization of text would be considered two different tasks. Early model development would focus on one task. Open AI found a way to daisy chain these processes together.</p>
+
+<p>I would not say that the model does not &quot;understand&quot;. It does to a degree understand. But that understanding is incomplete. When I see the word dog. I know how it feels, what it sounds like, what it&#39;s looks like, the emotions associated with the interactions. An AI algorithm may know what it looks like in 2D and find a description but it doesn&#39;t know all the other stuff. This is not to say AI are sentient. They are mathematical/mechanical processes meant to emulate certain aspects of cognition.</p>
+</div>",False,False,True,False,/r/computerscience/comments/ze21bp/how_does_openais_chatgpt_seem_to_understand_things/iz7yd09/,public,False,1670382964.0,t3_ze21bp,r/computerscience,0,0,2,True,ze21bp,,,,,,
+t5_2qj8o,False,text,0,False,iz7z10n,0,False,True,False,1670383291.0,True,t3_ze21bp,2,t2_8i6ru7ea,False,"It is amazing, isn't it?
+
+It can do this by being trained on a huge number of examples. It's been trained on essentially the whole Internet.
+
+Then it answers one question over and over: Given this text, what is the most likely next word? Turns out if you start with a question, very often the sequence of most likely next words is the answer to the question.
+
+It can only do this if you can get the answer by generalizing a pattern from text found on the Internet. But it is astonishingly good at that generalization, in a way that gives the illusion of understanding.
+
+Scott Aaronson has written about it in his blog here:
+
+https://scottaaronson.blog/?p=6823
+
+and you can read about the algorithm here:
+
+https://en.m.wikipedia.org/wiki/Transformer_(machine_learning_model)
+
+To me it shows how much it is possible to do without understanding. It makes me wonder how much my students are answering questions by finding patterns in the examples and repeating them without understanding what they are doing.",0.0,t1_iz7z10n,False,0,False,"<div class=""md""><p>It is amazing, isn&#39;t it?</p>
+
+<p>It can do this by being trained on a huge number of examples. It&#39;s been trained on essentially the whole Internet.</p>
+
+<p>Then it answers one question over and over: Given this text, what is the most likely next word? Turns out if you start with a question, very often the sequence of most likely next words is the answer to the question.</p>
+
+<p>It can only do this if you can get the answer by generalizing a pattern from text found on the Internet. But it is astonishingly good at that generalization, in a way that gives the illusion of understanding.</p>
+
+<p>Scott Aaronson has written about it in his blog here:</p>
+
+<p><a href=""https://scottaaronson.blog/?p=6823"">https://scottaaronson.blog/?p=6823</a></p>
+
+<p>and you can read about the algorithm here:</p>
+
+<p><a href=""https://en.m.wikipedia.org/wiki/Transformer_(machine_learning_model)"">https://en.m.wikipedia.org/wiki/Transformer_(machine_learning_model)</a></p>
+
+<p>To me it shows how much it is possible to do without understanding. It makes me wonder how much my students are answering questions by finding patterns in the examples and repeating them without understanding what they are doing.</p>
+</div>",False,False,True,False,/r/computerscience/comments/ze21bp/how_does_openais_chatgpt_seem_to_understand_things/iz7z10n/,public,False,1670383291.0,t3_ze21bp,r/computerscience,0,0,2,True,ze21bp,,,,,,
+t5_2qj8o,False,text,0,False,iz8b444,0,False,True,False,1670389723.0,True,t3_ze21bp,2,t2_rwznq,False,"ChatGPT, GPT-3, Hugging Face, BERT, and others are all based on a new type of deep learning neural net called a transformer. Transformers are 5 years old and are rapidly maturing (as we've seen this year and last) and have some key benefits over prior deep learning neural nets including recurrent neural networks (RNNs).
+
+These transformers maintain additional context about word order or pixel location in processing the images and so are able to provide more information to the hidden layers of the neural network. This allows the networks to find multiple dimensions of meaning in the input text and generate complex outputs. Additionally, transformers can be trained over a massive amount of content without losing their effectiveness.
+
+All of this is still really early on and only going to improve over time as it addresses its weaknesses. Significantly, it can be hard to tell how a transformer generated the things it generated, they can be hard to tweak and control, and there are significant ethical concerns in the training of most transformer models about the source materials.",0.0,t1_iz8b444,False,0,False,"<div class=""md""><p>ChatGPT, GPT-3, Hugging Face, BERT, and others are all based on a new type of deep learning neural net called a transformer. Transformers are 5 years old and are rapidly maturing (as we&#39;ve seen this year and last) and have some key benefits over prior deep learning neural nets including recurrent neural networks (RNNs).</p>
+
+<p>These transformers maintain additional context about word order or pixel location in processing the images and so are able to provide more information to the hidden layers of the neural network. This allows the networks to find multiple dimensions of meaning in the input text and generate complex outputs. Additionally, transformers can be trained over a massive amount of content without losing their effectiveness.</p>
+
+<p>All of this is still really early on and only going to improve over time as it addresses its weaknesses. Significantly, it can be hard to tell how a transformer generated the things it generated, they can be hard to tweak and control, and there are significant ethical concerns in the training of most transformer models about the source materials.</p>
+</div>",False,False,True,False,/r/computerscience/comments/ze21bp/how_does_openais_chatgpt_seem_to_understand_things/iz8b444/,public,False,1670389723.0,t3_ze21bp,r/computerscience,0,0,2,True,ze21bp,,,,,,
+t5_2qj8o,False,text,0,False,iz49wif,0,False,True,False,1670323665.0,True,t3_ze21bp,0,t2_8es0ii52,False,ur looking at a 6page postgraduate level report and a few reference book for the bare minimum,0.0,t1_iz49wif,False,0,False,"<div class=""md""><p>ur looking at a 6page postgraduate level report and a few reference book for the bare minimum</p>
+</div>",False,False,True,False,/r/computerscience/comments/ze21bp/how_does_openais_chatgpt_seem_to_understand_things/iz49wif/,public,False,1670323665.0,t3_ze21bp,r/computerscience,1,0,0,True,ze21bp,,,,,,
+t5_2qj8o,False,text,0,False,iz5hps4,0,False,True,False,1670346330.0,True,t3_ze21bp,0,t2_i4ayseg,False,ask to chatgpt,0.0,t1_iz5hps4,False,0,False,"<div class=""md""><p>ask to chatgpt</p>
+</div>",False,False,True,False,/r/computerscience/comments/ze21bp/how_does_openais_chatgpt_seem_to_understand_things/iz5hps4/,public,False,1670346330.0,t3_ze21bp,r/computerscience,0,0,0,True,ze21bp,,,,,,
+t5_2qj8o,False,text,0,False,iz8f4wj,0,False,True,False,1670392254.0,True,t3_ze21bp,1,t2_oqa4we2,False,I broke it by asking if it knew about tensorflow 2.11 lol,0.0,t1_iz8f4wj,False,0,False,"<div class=""md""><p>I broke it by asking if it knew about tensorflow 2.11 lol</p>
+</div>",False,False,True,False,/r/computerscience/comments/ze21bp/how_does_openais_chatgpt_seem_to_understand_things/iz8f4wj/,public,False,1670392254.0,t3_ze21bp,r/computerscience,0,0,1,True,ze21bp,,,,,,
+t5_2qj8o,False,text,0,False,iz7vxfo,0,False,True,False,1670381798.0,True,t3_ze21bp,-18,t2_e5t3kbfb,True,The bot keeps trying to convince me 5 does not equal 5 when I ask it for simple proofs. It is spitting out past information.,0.0,t1_iz7vxfo,False,0,False,"<div class=""md""><p>The bot keeps trying to convince me 5 does not equal 5 when I ask it for simple proofs. It is spitting out past information.</p>
+</div>",False,False,True,False,/r/computerscience/comments/ze21bp/how_does_openais_chatgpt_seem_to_understand_things/iz7vxfo/,public,False,1670381798.0,t3_ze21bp,r/computerscience,0,0,-18,True,ze21bp,comment score below threshold,LOW_SCORE,,,,
+t5_2qj8o,False,,0,False,iz7al0r,0,False,False,False,1670372031.0,True,t1_iz71nqg,15,,False,"I want to second the ""sounding like it understands"" point.  Earlier today I was playing around with it and as a first test I asked the questions. 
+
+""Write a function in python that takes another function as an input, and evaluates the input at 5"". 
+
+It gave some code and explanation, and it did it well, just like most humans who program would do.  
+
+Then I gave it the real test: 
+
+""Write a function in python that takes another function as an input, and tells me if the input halts"".
+
+ Any person knowledgeable about the field would of course recognizes that this is impossible, and tells you as such.  ChatGPT on the other hand just processes until it times out and returns an error.",0.0,t1_iz7al0r,False,0,,"<div class=""md""><p>I want to second the &quot;sounding like it understands&quot; point.  Earlier today I was playing around with it and as a first test I asked the questions. </p>
+
+<p>&quot;Write a function in python that takes another function as an input, and evaluates the input at 5&quot;. </p>
+
+<p>It gave some code and explanation, and it did it well, just like most humans who program would do.  </p>
+
+<p>Then I gave it the real test: </p>
+
+<p>&quot;Write a function in python that takes another function as an input, and tells me if the input halts&quot;.</p>
+
+<p>Any person knowledgeable about the field would of course recognizes that this is impossible, and tells you as such.  ChatGPT on the other hand just processes until it times out and returns an error.</p>
+</div>",False,,False,False,/r/computerscience/comments/ze21bp/how_does_openais_chatgpt_seem_to_understand_things/iz7al0r/,public,False,1670372031.0,t3_ze21bp,r/computerscience,0,1,15,True,ze21bp,,,,dark,,
+t5_2qj8o,False,text,0,False,iz5z7w0,0,False,False,False,1670352964.0,True,t1_iz49y1h,20,t2_8ytyf,False,Let me guess: you asked ChatGPT,0.0,t1_iz5z7w0,False,0,False,"<div class=""md""><p>Let me guess: you asked ChatGPT</p>
+</div>",False,True,True,False,/r/computerscience/comments/ze21bp/how_does_openais_chatgpt_seem_to_understand_things/iz5z7w0/,public,False,1670352964.0,t3_ze21bp,r/computerscience,0,1,20,True,ze21bp,,,,,,
+t5_2qj8o,False,text,0,False,iz4kd61,0,False,True,False,1670331236.0,True,t1_iz49y1h,-4,t2_3a9n2peu,False,You.com?,0.0,t1_iz4kd61,False,0,False,"<div class=""md""><p>You.com?</p>
+</div>",False,False,True,False,/r/computerscience/comments/ze21bp/how_does_openais_chatgpt_seem_to_understand_things/iz4kd61/,public,False,1670331236.0,t3_ze21bp,r/computerscience,0,1,-4,True,ze21bp,,,,,,
+t5_2qj8o,False,text,0,False,iz741p0,0,False,False,False,1670369161.0,True,t1_iz49wif,4,t2_bh3oq9jt,False,i think thats what hes asking for.,0.0,t1_iz741p0,False,0,False,"<div class=""md""><p>i think thats what hes asking for.</p>
+</div>",False,False,True,False,/r/computerscience/comments/ze21bp/how_does_openais_chatgpt_seem_to_understand_things/iz741p0/,public,False,1670369161.0,t3_ze21bp,r/computerscience,0,1,4,True,ze21bp,,,,,,
+t5_2qj8o,False,text,0,False,iz69kcv,0,False,True,False,1670356953.0,True,t1_iz49wif,1,t2_2iefgld2,False,Then link it?,0.0,t1_iz69kcv,False,0,False,"<div class=""md""><p>Then link it?</p>
+</div>",False,False,True,False,/r/computerscience/comments/ze21bp/how_does_openais_chatgpt_seem_to_understand_things/iz69kcv/,public,False,1670356953.0,t3_ze21bp,r/computerscience,1,1,1,True,ze21bp,,,,,,
+t5_2qj8o,False,text,0,False,iz8h6bk,0,False,True,False,1670393645.0,True,t1_iz69kcv,1,t2_63rknqip,False,It’s proprietary lol,0.0,t1_iz8h6bk,False,0,False,"<div class=""md""><p>It’s proprietary lol</p>
+</div>",False,False,True,False,/r/computerscience/comments/ze21bp/how_does_openais_chatgpt_seem_to_understand_things/iz8h6bk/,public,False,1670393645.0,t3_ze21bp,r/computerscience,0,2,1,True,ze21bp,,,,,,
+t5_2qj8o,False,text,0,False,j3wj1nv,0,False,False,False,1673451627.0,True,t3_108v1k0,7,t2_ix9qfiys,False,"Very nice, but this is primarily for legacy systems with northbridge and southbridge chipsets IIRC. With northbridge chipsets being entirely integrated on the CPU, and southbridge chipsets acting merely as hubs, things have changed considerably especially with the advent of Intel Management Engine (legacy was integrated into the northbridge) and AMD Secure Technology.",1673805022.0,t1_j3wj1nv,False,0,False,"<div class=""md""><p>Very nice, but this is primarily for legacy systems with northbridge and southbridge chipsets IIRC. With northbridge chipsets being entirely integrated on the CPU, and southbridge chipsets acting merely as hubs, things have changed considerably especially with the advent of Intel Management Engine (legacy was integrated into the northbridge) and AMD Secure Technology.</p>
+</div>",False,False,True,False,/r/computerscience/comments/108v1k0/what_happens_when_a_cpu_starts/j3wj1nv/,public,False,1673451627.0,t3_108v1k0,r/computerscience,0,0,7,True,108v1k0,,,,dark,,
+t5_2qj8o,False,text,0,False,j3xmd25,0,False,True,False,1673465995.0,True,t3_108v1k0,3,t2_e0bst,False,Was this written by chat gpt? jesus christ,0.0,t1_j3xmd25,False,0,False,"<div class=""md""><p>Was this written by chat gpt? jesus christ</p>
+</div>",False,False,True,False,/r/computerscience/comments/108v1k0/what_happens_when_a_cpu_starts/j3xmd25/,public,False,1673465995.0,t3_108v1k0,r/computerscience,0,0,3,True,108v1k0,,,,,,
+t5_2qj8o,False,,0,False,j3uwxh3,0,False,True,False,1673415750.0,True,t3_108v1k0,-6,,True,[deleted],0.0,t1_j3uwxh3,False,0,,"<div class=""md""><p>[deleted]</p>
+</div>",False,,True,False,/r/computerscience/comments/108v1k0/what_happens_when_a_cpu_starts/j3uwxh3/,public,False,1673415750.0,t3_108v1k0,r/computerscience,0,0,-6,True,108v1k0,comment score below threshold,LOW_SCORE,,dark,,
+t5_2qj8o,False,text,0,False,j3xwxqg,0,False,False,False,1673469930.0,True,t1_j3xmd25,5,t2_ysqnx,False,"Wouldn’t be surprised.
+
+I’ve talked to a few people who are now using it for everything as though it’s some kind of oracle.
+
+It’s like, bro, if you didn’t know how to do or write something before, then how can you trust its output when you lack the ability to verify it yourself…",0.0,t1_j3xwxqg,False,0,False,"<div class=""md""><p>Wouldn’t be surprised.</p>
+
+<p>I’ve talked to a few people who are now using it for everything as though it’s some kind of oracle.</p>
+
+<p>It’s like, bro, if you didn’t know how to do or write something before, then how can you trust its output when you lack the ability to verify it yourself…</p>
+</div>",False,False,True,False,/r/computerscience/comments/108v1k0/what_happens_when_a_cpu_starts/j3xwxqg/,public,False,1673469930.0,t3_108v1k0,r/computerscience,0,1,5,True,108v1k0,,,,,,
+t5_2qj8o,False,text,0,False,j3vfukv,0,False,False,False,1673429603.0,True,t1_j3uwxh3,8,t2_103opj,False,Funny thing is x86 starts at FFFF:0000 in real mode (FFFF0 calculated address),0.0,t1_j3vfukv,False,0,False,"<div class=""md""><p>Funny thing is x86 starts at FFFF:0000 in real mode (FFFF0 calculated address)</p>
+</div>",False,False,True,False,/r/computerscience/comments/108v1k0/what_happens_when_a_cpu_starts/j3vfukv/,public,False,1673429603.0,t3_108v1k0,r/computerscience,0,1,8,True,108v1k0,,,,,,
+t5_2qj8o,False,text,0,False,j3wddyh,0,False,True,False,1673449411.0,True,t1_j3uwxh3,1,t2_ix9qfiys,False,Bro what?,0.0,t1_j3wddyh,False,0,False,"<div class=""md""><p>Bro what?</p>
+</div>",False,False,True,False,/r/computerscience/comments/108v1k0/what_happens_when_a_cpu_starts/j3wddyh/,public,False,1673449411.0,t3_108v1k0,r/computerscience,0,1,1,True,108v1k0,,,,dark,,
+t5_2qj8o,False,text,0,False,j3w8qsm,0,False,False,False,1673447497.0,True,t1_j3vfukv,6,t2_8ytyf,False,"Or the 6502 that first fetches 0xfffc and executes from the address contained there. 6809 at the address contained in 0xfffe. 68000 starts from 0x000004.
+
+The Z80 starts a 0x0000, though.
+
+Amazing that someone would responds quickly with a confidently wrong answer to something that wasn't a question and that is answered in the linked article.",0.0,t1_j3w8qsm,False,0,False,"<div class=""md""><p>Or the 6502 that first fetches 0xfffc and executes from the address contained there. 6809 at the address contained in 0xfffe. 68000 starts from 0x000004.</p>
+
+<p>The Z80 starts a 0x0000, though.</p>
+
+<p>Amazing that someone would responds quickly with a confidently wrong answer to something that wasn&#39;t a question and that is answered in the linked article.</p>
+</div>",False,True,True,False,/r/computerscience/comments/108v1k0/what_happens_when_a_cpu_starts/j3w8qsm/,public,False,1673447497.0,t3_108v1k0,r/computerscience,0,2,6,True,108v1k0,,,,,,
+t5_2qj8o,False,text,0,False,j42ufwy,0,False,True,False,1673554186.0,True,t1_j3vfukv,2,t2_613ga2pu,False,"Only 8086 though. They changed the restart address in 286, and then changed it again in 386. It is currently FFFFFFF0.
+
+How can CPU start in real mode from the address, that's impossible in real mode? It actually starts in ""unreal"" mode: the current mode is real, but CS segment is loaded with protected mode value. This protected segment persists until CS is reloaded.
+
+They also changed CS:IP to F000:FFF0 - to give BIOS code a 64k room before it has to change CS.",1673597240.0,t1_j42ufwy,False,0,False,"<div class=""md""><p>Only 8086 though. They changed the restart address in 286, and then changed it again in 386. It is currently FFFFFFF0.</p>
+
+<p>How can CPU start in real mode from the address, that&#39;s impossible in real mode? It actually starts in &quot;unreal&quot; mode: the current mode is real, but CS segment is loaded with protected mode value. This protected segment persists until CS is reloaded.</p>
+
+<p>They also changed CS:IP to F000:FFF0 - to give BIOS code a 64k room before it has to change CS.</p>
+</div>",False,False,True,False,/r/computerscience/comments/108v1k0/what_happens_when_a_cpu_starts/j42ufwy/,public,False,1673554186.0,t3_108v1k0,r/computerscience,0,2,2,True,108v1k0,,,,,,
+t5_2qj8o,False,text,0,False,j404sth,0,False,True,False,1673504734.0,True,t1_j3wddyh,1,t2_oudpsz8z,False,What'd he say,0.0,t1_j404sth,False,0,False,"<div class=""md""><p>What&#39;d he say</p>
+</div>",False,False,True,False,/r/computerscience/comments/108v1k0/what_happens_when_a_cpu_starts/j404sth/,public,False,1673504734.0,t3_108v1k0,r/computerscience,0,2,1,True,108v1k0,,,,,,
+t5_2qj8o,False,text,0,False,j3wfd70,0,False,True,False,1673450202.0,True,t1_j3w8qsm,3,t2_103opj,False,To be fair the nand2tetris CPU (I'm doing that course now) does have 0 as reset PC value.,0.0,t1_j3wfd70,False,0,False,"<div class=""md""><p>To be fair the nand2tetris CPU (I&#39;m doing that course now) does have 0 as reset PC value.</p>
+</div>",False,False,True,False,/r/computerscience/comments/108v1k0/what_happens_when_a_cpu_starts/j3wfd70/,public,False,1673450202.0,t3_108v1k0,r/computerscience,0,3,3,True,108v1k0,,,,,,
+t5_2qj8o,False,text,0,False,j8ji25v,0,False,False,False,1676403571.0,True,t3_112bmbn,31,t2_14r9qu,False,Lol this reads like a LinkedIn post,0.0,t1_j8ji25v,False,0,False,"<div class=""md""><p>Lol this reads like a LinkedIn post</p>
+</div>",False,False,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j8ji25v/,public,False,1676403571.0,t3_112bmbn,r/computerscience,0,0,31,True,112bmbn,,,,,,
+t5_2qj8o,False,richtext,0,False,j8j4th3,0,False,False,False,1676398439.0,True,t3_112bmbn,23,t2_3bhl4,False,"I learned programming in college in the 70s on mainframes with punchcards. I first used the Arpanet (precursor to the internet) on a teletype in 1976. I had an IMSAI 8080. I built an IBM PC clone from a bare PCB that I soldered the parts onto. Each step along the way seemed magical and exciting. I also see a troubling trend in software as management tries to hire cheaper and less experienced programmers to use buggy, poorly documented ""black box"" frameworks to quickly and cheaply churn out barely functional code
+
+I have absolutely no nostalgia for the past, and a bit of concern about the future. In software, complexity is cancer and it seems to be growing. I am, however, optimistic that the upcoming AI tools will help us tame the beast of complexity",0.0,t1_j8j4th3,False,0,False,"<div class=""md""><p>I learned programming in college in the 70s on mainframes with punchcards. I first used the Arpanet (precursor to the internet) on a teletype in 1976. I had an IMSAI 8080. I built an IBM PC clone from a bare PCB that I soldered the parts onto. Each step along the way seemed magical and exciting. I also see a troubling trend in software as management tries to hire cheaper and less experienced programmers to use buggy, poorly documented &quot;black box&quot; frameworks to quickly and cheaply churn out barely functional code</p>
+
+<p>I have absolutely no nostalgia for the past, and a bit of concern about the future. In software, complexity is cancer and it seems to be growing. I am, however, optimistic that the upcoming AI tools will help us tame the beast of complexity</p>
+</div>",False,True,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j8j4th3/,public,False,1676398439.0,t3_112bmbn,r/computerscience,0,0,23,True,112bmbn,,,,dark,Software engineer since the 70s,f9dad94c-ac9a-11e4-882e-22000b368e90
+t5_2qj8o,False,text,0,False,j8j5dom,0,False,False,False,1676398659.0,True,t3_112bmbn,10,t2_ut5f65dh,False,For sure! Old hardware is a physical record of our technological progress and how the field has evolved. A material witness to the value of ingenuity and innovation.,0.0,t1_j8j5dom,False,0,False,"<div class=""md""><p>For sure! Old hardware is a physical record of our technological progress and how the field has evolved. A material witness to the value of ingenuity and innovation.</p>
+</div>",False,False,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j8j5dom/,public,False,1676398659.0,t3_112bmbn,r/computerscience,0,0,10,True,112bmbn,,,,,,
+t5_2qj8o,False,text,0,False,j8jkab7,0,False,False,False,1676404437.0,True,t3_112bmbn,8,t2_321ka,False,"I went even further back. I read [Code: The Hidden Language of Computer Hardware and Software](http://charlespetzold.com/code), Took the [Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)](https://www.coursera.org/learn/build-a-computer), and [Build an 8-bit computer from scratch](https://eater.net/8bit) using breadboards (you can also follow his [Youtube Channel](https://youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)",0.0,t1_j8jkab7,False,0,False,"<div class=""md""><p>I went even further back. I read <a href=""http://charlespetzold.com/code"">Code: The Hidden Language of Computer Hardware and Software</a>, Took the <a href=""https://www.coursera.org/learn/build-a-computer"">Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)</a>, and <a href=""https://eater.net/8bit"">Build an 8-bit computer from scratch</a> using breadboards (you can also follow his <a href=""https://youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU"">Youtube Channel</a></p>
+</div>",False,False,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j8jkab7/,public,False,1676404437.0,t3_112bmbn,r/computerscience,0,0,8,True,112bmbn,,,,,,
+t5_2qj8o,False,,0,False,j8jj0l0,0,False,False,False,1676403936.0,True,t3_112bmbn,6,,False,[deleted],0.0,t1_j8jj0l0,False,0,,"<div class=""md""><p>[deleted]</p>
+</div>",False,,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j8jj0l0/,public,False,1676403936.0,t3_112bmbn,r/computerscience,0,0,6,True,112bmbn,,,,dark,,
+t5_2qj8o,False,text,0,False,j8jioiu,0,False,False,False,1676403806.0,True,t3_112bmbn,4,t2_10z3v,False,Have you been to /r/retrocomputing yet?,0.0,t1_j8jioiu,False,0,False,"<div class=""md""><p>Have you been to <a href=""/r/retrocomputing"">/r/retrocomputing</a> yet?</p>
+</div>",False,False,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j8jioiu/,public,False,1676403806.0,t3_112bmbn,r/computerscience,0,0,4,True,112bmbn,,,,,,
+t5_2qj8o,False,text,0,False,j8jtslc,0,False,False,False,1676408124.0,True,t3_112bmbn,3,t2_4i5ji,False,"""Even though I am only 14 years old"" up to this point I was assuming you were 35 or older. 
+
+Having had a computer 20 years ago, I don't really miss any of the hardware. Any of the old software I can run in emulation. I think that being in the workforce also has me so focused on how to get the magic dust out of the magical box that I don't worry too much about the hardware stuff that I was into as a kid. It's kind of sad how life can change your focus like that.",0.0,t1_j8jtslc,False,0,False,"<div class=""md""><p>&quot;Even though I am only 14 years old&quot; up to this point I was assuming you were 35 or older. </p>
+
+<p>Having had a computer 20 years ago, I don&#39;t really miss any of the hardware. Any of the old software I can run in emulation. I think that being in the workforce also has me so focused on how to get the magic dust out of the magical box that I don&#39;t worry too much about the hardware stuff that I was into as a kid. It&#39;s kind of sad how life can change your focus like that.</p>
+</div>",False,False,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j8jtslc/,public,False,1676408124.0,t3_112bmbn,r/computerscience,0,0,3,True,112bmbn,,,,,,
+t5_2qj8o,False,text,0,False,j8jgs01,0,False,True,False,1676403074.0,True,t3_112bmbn,3,t2_4ui6ba9f,False,"As a 16-year-old, I only wished I was born in times like the 80s or 90's the tech within them times seem so interesting and cool. Like, dial-up Internet, weird in my eyes but so interesting. You're lucky you lived in them times.",0.0,t1_j8jgs01,False,0,False,"<div class=""md""><p>As a 16-year-old, I only wished I was born in times like the 80s or 90&#39;s the tech within them times seem so interesting and cool. Like, dial-up Internet, weird in my eyes but so interesting. You&#39;re lucky you lived in them times.</p>
+</div>",False,False,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j8jgs01/,public,False,1676403074.0,t3_112bmbn,r/computerscience,0,0,3,True,112bmbn,,,,,,
+t5_2qj8o,False,text,0,False,j8jpqp8,0,False,True,False,1676406570.0,True,t3_112bmbn,3,t2_72jv5p3g,False,"Thank you for sharing your personal experience and perspective on the evolution of computers, hardware, and software. It's fascinating to see how technology has progressed and how it has impacted our lives.
+
+  
+I can understand your sentiment towards the nostalgia of old hardware and the sense of satisfaction in understanding how it worked. It's great that you had the opportunity to experience bare metal hardware and appreciate the sounds, smells, and overall experience of computing back then. It's also heartwarming to hear that your dad felt nostalgic and happy seeing the old IBM startup logo and using the DOS operating system.
+
+  
+While it's true that many people nowadays focus more on the software side of things, there are still many who appreciate the hardware and its inner workings. Some people even collect and preserve old hardware and software as a way of honoring its contribution to the history of computing.
+
+  
+Personally, I think it's important to appreciate both the hardware and software side of things. The advances in hardware have made it possible for software to become more complex and powerful. On the other hand, software has allowed us to fully utilize the capabilities of modern hardware.
+
+  
+Overall, I think it's great that you have a passion for computers and its history, and I hope you continue to explore and learn more about it.",0.0,t1_j8jpqp8,False,0,False,"<div class=""md""><p>Thank you for sharing your personal experience and perspective on the evolution of computers, hardware, and software. It&#39;s fascinating to see how technology has progressed and how it has impacted our lives.</p>
+
+<p>I can understand your sentiment towards the nostalgia of old hardware and the sense of satisfaction in understanding how it worked. It&#39;s great that you had the opportunity to experience bare metal hardware and appreciate the sounds, smells, and overall experience of computing back then. It&#39;s also heartwarming to hear that your dad felt nostalgic and happy seeing the old IBM startup logo and using the DOS operating system.</p>
+
+<p>While it&#39;s true that many people nowadays focus more on the software side of things, there are still many who appreciate the hardware and its inner workings. Some people even collect and preserve old hardware and software as a way of honoring its contribution to the history of computing.</p>
+
+<p>Personally, I think it&#39;s important to appreciate both the hardware and software side of things. The advances in hardware have made it possible for software to become more complex and powerful. On the other hand, software has allowed us to fully utilize the capabilities of modern hardware.</p>
+
+<p>Overall, I think it&#39;s great that you have a passion for computers and its history, and I hope you continue to explore and learn more about it.</p>
+</div>",False,False,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j8jpqp8/,public,False,1676406570.0,t3_112bmbn,r/computerscience,0,0,3,True,112bmbn,,,,,,
+t5_2qj8o,False,text,0,False,j8jx7zo,0,False,True,False,1676409431.0,True,t3_112bmbn,1,t2_7ae93wsl,False,I feel that at least two of posts here has been generated using an LLM :D,0.0,t1_j8jx7zo,False,0,False,"<div class=""md""><p>I feel that at least two of posts here has been generated using an LLM :D</p>
+</div>",False,False,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j8jx7zo/,public,False,1676409431.0,t3_112bmbn,r/computerscience,0,0,1,True,112bmbn,,,,,,
+t5_2qj8o,False,text,0,False,j8knegh,0,False,True,False,1676420394.0,True,t3_112bmbn,1,t2_utq2123m,False,"Same soup, just reheated",0.0,t1_j8knegh,False,0,False,"<div class=""md""><p>Same soup, just reheated</p>
+</div>",False,False,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j8knegh/,public,False,1676420394.0,t3_112bmbn,r/computerscience,0,0,1,True,112bmbn,,,,,,
+t5_2qj8o,False,text,0,False,j8lgqwd,0,False,True,False,1676434550.0,True,t3_112bmbn,1,t2_lscgd,False,"I think the feelings one gets from vintage computers depends a lot on what era and community they grew up with.
+
+For example, when I was a teenager in in my 20s in the late 90s and 00s, I was very interested in old computers that were different from what I had as a child in the 80s and 90s. So I sought out Unix workstations and servers, Amigas, Ataris, Macs, etc, anything weird, because they were somewhat exotic to me. I still like them. So I got one set of excitement and discovery out that. It was really cool to see computers so different from what I was used to.
+
+Now that I'm a bit older (late 30s), I'm really into the computers I had as a kid, which were mostly IBM-PC clones running DOS. So I'm learning the ins and outs and hardware more deeply than I ever could back in the day. It's a different set of nostalgic feelings, very comfortable. Takes me back.
+
+Edit: You ought to check out /r/retrobattlestations and /r/vintagecomputing",0.0,t1_j8lgqwd,False,0,False,"<div class=""md""><p>I think the feelings one gets from vintage computers depends a lot on what era and community they grew up with.</p>
+
+<p>For example, when I was a teenager in in my 20s in the late 90s and 00s, I was very interested in old computers that were different from what I had as a child in the 80s and 90s. So I sought out Unix workstations and servers, Amigas, Ataris, Macs, etc, anything weird, because they were somewhat exotic to me. I still like them. So I got one set of excitement and discovery out that. It was really cool to see computers so different from what I was used to.</p>
+
+<p>Now that I&#39;m a bit older (late 30s), I&#39;m really into the computers I had as a kid, which were mostly IBM-PC clones running DOS. So I&#39;m learning the ins and outs and hardware more deeply than I ever could back in the day. It&#39;s a different set of nostalgic feelings, very comfortable. Takes me back.</p>
+
+<p>Edit: You ought to check out <a href=""/r/retrobattlestations"">/r/retrobattlestations</a> and <a href=""/r/vintagecomputing"">/r/vintagecomputing</a></p>
+</div>",False,False,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j8lgqwd/,public,False,1676434550.0,t3_112bmbn,r/computerscience,0,0,1,True,112bmbn,,,,,,
+t5_2qj8o,False,text,0,False,j8lr4iu,0,False,True,False,1676441013.0,True,t3_112bmbn,1,t2_144vpc,False,"Old hardware love? Count me in, bruv. I always dreamed of having to at least touch old computers. Sad to say, my area doesn't really have any interest in keeping old electronics.",0.0,t1_j8lr4iu,False,0,False,"<div class=""md""><p>Old hardware love? Count me in, bruv. I always dreamed of having to at least touch old computers. Sad to say, my area doesn&#39;t really have any interest in keeping old electronics.</p>
+</div>",False,False,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j8lr4iu/,public,False,1676441013.0,t3_112bmbn,r/computerscience,0,0,1,True,112bmbn,,,,,,
+t5_2qj8o,False,text,0,False,j9095ft,0,False,True,False,1676700281.0,True,t3_112bmbn,1,t2_ub2qol9l,False,"You're still in a revolutionary era right now. Quantum computers are on the rise, from a hardware perspective. From the software perspective, neural network is showing a lot of promises, but still poorly understood. And then there are all sorts of stuff to do with cybernetic implants, which is the part of hardware that also requires you to know biology.",0.0,t1_j9095ft,False,0,False,"<div class=""md""><p>You&#39;re still in a revolutionary era right now. Quantum computers are on the rise, from a hardware perspective. From the software perspective, neural network is showing a lot of promises, but still poorly understood. And then there are all sorts of stuff to do with cybernetic implants, which is the part of hardware that also requires you to know biology.</p>
+</div>",False,False,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j9095ft/,public,False,1676700281.0,t3_112bmbn,r/computerscience,0,0,1,True,112bmbn,,,,,,
+t5_2qj8o,False,text,0,False,j8jyxqn,0,False,False,False,1676410092.0,True,t1_j8j4th3,6,t2_16habr,False,"If you don’t mind me asking, what was it like using the ARPANET? What could you do on it back then?",0.0,t1_j8jyxqn,False,0,False,"<div class=""md""><p>If you don’t mind me asking, what was it like using the ARPANET? What could you do on it back then?</p>
+</div>",False,False,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j8jyxqn/,public,False,1676410092.0,t3_112bmbn,r/computerscience,0,1,6,True,112bmbn,,,,,,
+t5_2qj8o,False,text,0,False,j8jyo2o,0,False,True,False,1676409990.0,True,t1_j8j4th3,0,t2_nzbe2s89,False,">and a bit of concern about the future. In software, complexity is cancer and it seems to be growing
+
+I agree. The entry level for making real-world software today is quite significant. I do believe that AI will be a helping \*tool\*, but I am not sure yet if they can replace people.",0.0,t1_j8jyo2o,True,0,False,"<div class=""md""><blockquote>
+<p>and a bit of concern about the future. In software, complexity is cancer and it seems to be growing</p>
+</blockquote>
+
+<p>I agree. The entry level for making real-world software today is quite significant. I do believe that AI will be a helping *tool*, but I am not sure yet if they can replace people.</p>
+</div>",False,False,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j8jyo2o/,public,False,1676409990.0,t3_112bmbn,r/computerscience,1,1,0,True,112bmbn,,,,,,
+t5_2qj8o,False,text,0,False,j8jzhwr,0,False,True,False,1676410312.0,True,t1_j8jj0l0,0,t2_nzbe2s89,False,">Why would a computer from 2004 use DOS? 
+
+The purpose for getting the computer was for personal experiments. 
+
+>Just seeing the old icons, the old colour scheme, the old design language, and the atrocious menu layout... And the Netscape Navigator logo! Back then, using the computer and the internet were both very different experiences to what they have become today.
+
+I have not tried out the software yet, I bet it'll be as good as you say it is : )",0.0,t1_j8jzhwr,True,0,False,"<div class=""md""><blockquote>
+<p>Why would a computer from 2004 use DOS? </p>
+</blockquote>
+
+<p>The purpose for getting the computer was for personal experiments. </p>
+
+<blockquote>
+<p>Just seeing the old icons, the old colour scheme, the old design language, and the atrocious menu layout... And the Netscape Navigator logo! Back then, using the computer and the internet were both very different experiences to what they have become today.</p>
+</blockquote>
+
+<p>I have not tried out the software yet, I bet it&#39;ll be as good as you say it is : )</p>
+</div>",False,False,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j8jzhwr/,public,False,1676410312.0,t3_112bmbn,r/computerscience,0,1,0,True,112bmbn,,,,,,
+t5_2qj8o,False,text,0,False,j8k08r4,0,False,True,False,1676410601.0,True,t1_j8jtslc,2,t2_nzbe2s89,False,">that I don't worry too much about the hardware stuff that I was into as a kid
+
+Yeah, I can see that. Worrying about that stuff would be a useless ""un-abstraction"" in your setting.
+
+&#x200B;
+
+> It's kind of sad how life can change your focus like that.
+
+I am scared the same thing will happen to me. That in getting some corporate job and working for other people I will end up losing all my passion for learning and exploring on my own. Too bad we don't have a choice",0.0,t1_j8k08r4,True,0,False,"<div class=""md""><blockquote>
+<p>that I don&#39;t worry too much about the hardware stuff that I was into as a kid</p>
+</blockquote>
+
+<p>Yeah, I can see that. Worrying about that stuff would be a useless &quot;un-abstraction&quot; in your setting.</p>
+
+<p>&#x200B;</p>
+
+<blockquote>
+<p>It&#39;s kind of sad how life can change your focus like that.</p>
+</blockquote>
+
+<p>I am scared the same thing will happen to me. That in getting some corporate job and working for other people I will end up losing all my passion for learning and exploring on my own. Too bad we don&#39;t have a choice</p>
+</div>",False,False,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j8k08r4/,public,False,1676410601.0,t3_112bmbn,r/computerscience,0,1,2,True,112bmbn,,,,,,
+t5_2qj8o,False,text,0,False,j8jxtps,0,False,True,False,1676409664.0,True,t1_j8jtslc,1,t2_7ae93wsl,False,"I'm pretty amazed by the fat agnus on old amigas. They were very far ahead in terms of graphics capabilities when compared to PCs at the time. This was before the era of graphics cards as we know them today.
+For someone who are beginning computer science these are things you can actually get a pretty decent understanding of.
+https://en.m.wikipedia.org/wiki/Original_Chip_Set",0.0,t1_j8jxtps,False,0,False,"<div class=""md""><p>I&#39;m pretty amazed by the fat agnus on old amigas. They were very far ahead in terms of graphics capabilities when compared to PCs at the time. This was before the era of graphics cards as we know them today.
+For someone who are beginning computer science these are things you can actually get a pretty decent understanding of.
+<a href=""https://en.m.wikipedia.org/wiki/Original_Chip_Set"">https://en.m.wikipedia.org/wiki/Original_Chip_Set</a></p>
+</div>",False,False,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j8jxtps/,public,False,1676409664.0,t3_112bmbn,r/computerscience,0,1,1,True,112bmbn,,,,,,
+t5_2qj8o,False,text,0,False,j8jwy62,0,False,True,False,1676409325.0,True,t1_j8jgs01,1,t2_7ae93wsl,False,Read up about DECnet and x25. It's quite amazing that Internet exists as it does today,0.0,t1_j8jwy62,False,0,False,"<div class=""md""><p>Read up about DECnet and x25. It&#39;s quite amazing that Internet exists as it does today</p>
+</div>",False,False,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j8jwy62/,public,False,1676409325.0,t3_112bmbn,r/computerscience,0,1,1,True,112bmbn,,,,,,
+t5_2qj8o,False,text,0,False,j8jyyrq,0,False,True,False,1676410103.0,True,t1_j8jgs01,1,t2_nzbe2s89,False,">seem so interesting and cool.
+
+Yes, that is why I wish I was born in those times too. What an interesting world we would have lived in.
+
+> You're lucky you lived in them times.
+
+I wasn't born in those times? I just have technology from them.",0.0,t1_j8jyyrq,True,0,False,"<div class=""md""><blockquote>
+<p>seem so interesting and cool.</p>
+</blockquote>
+
+<p>Yes, that is why I wish I was born in those times too. What an interesting world we would have lived in.</p>
+
+<blockquote>
+<p>You&#39;re lucky you lived in them times.</p>
+</blockquote>
+
+<p>I wasn&#39;t born in those times? I just have technology from them.</p>
+</div>",False,False,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j8jyyrq/,public,False,1676410103.0,t3_112bmbn,r/computerscience,0,1,1,True,112bmbn,,,,,,
+t5_2qj8o,False,text,0,False,j8jyfxh,0,False,True,False,1676409903.0,True,t1_j8jx7zo,1,t2_nzbe2s89,False,I am a human with real feelings lol,0.0,t1_j8jyfxh,True,0,False,"<div class=""md""><p>I am a human with real feelings lol</p>
+</div>",False,False,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j8jyfxh/,public,False,1676409903.0,t3_112bmbn,r/computerscience,0,1,1,True,112bmbn,,,,,,
+t5_2qj8o,False,text,0,False,j8m227j,0,False,True,False,1676449655.0,True,t1_j8jyo2o,1,t2_lt8sdem6,False,"Well, and I would hazard a guess that a lot of it ends-up coming from the arms-race for information security. More and more businesses and malicious actors want more information from end users, and they work hard to find ways to obtain it both lawfully and otherwise. Needless to say, this keeps security researchers busy patching and updating software on both sides of the battle. 
+
+Another thing is how a lot of open-source projects work--the mentality is that there's no need to re-invent a wheel, so if someone else has provided some usable code, you just import their work into your project, and go from there.
+
+While this is great for small independent developers who don't have access to an entire office suite of well-salaried software engineers, it also creates massively long chains of dependencies that (as we've learned time, and time again) can be huge security risks--and also cause a bunch of ""breaking changes"" that you have to handle as both a developer and an end-user who may work on a *slightly different* platform that generates weird runtime errors. 
+
+To add to the mess, there's this obsession with doing everything as objects, and while there's a lot of value to object-oriented design, I think one of the instructors I had explained my opinion very well: ""there's literally no need to overload the bit-shift operators from C to handle iostreams in C++, it just makes the code harder to read--*and the whole point of high-level software languages is to make code easy to read*."" Unfortunately, when you have 10-20 different ways you can call the same function--err, sorry, instantiate an object, you should probably consider writing a different class instead of just overloading it again.
+
+**Anyway**, I'm studying hardware, and to answer your original question, we are doing some amazing and incredible things with hardware. From new semiconductor architectures, to optical computation, there's a lot of work being done ""at the bare metal"", and we're constantly inventing new ways and new architectures that better distribute caching and memory right on-chip with the processing and compute modules. 
+
+If you really like that bare metal vibe, I'd highly recommend studying computer architecture and logic--if nothing else, it will improve how you think about writing software, and at best you might invent the next breakthrough technology for AI computation. *A great way to get started is by picking up a cheap FPGA from Arduino, and learning Verilog.*",0.0,t1_j8m227j,False,0,False,"<div class=""md""><p>Well, and I would hazard a guess that a lot of it ends-up coming from the arms-race for information security. More and more businesses and malicious actors want more information from end users, and they work hard to find ways to obtain it both lawfully and otherwise. Needless to say, this keeps security researchers busy patching and updating software on both sides of the battle. </p>
+
+<p>Another thing is how a lot of open-source projects work--the mentality is that there&#39;s no need to re-invent a wheel, so if someone else has provided some usable code, you just import their work into your project, and go from there.</p>
+
+<p>While this is great for small independent developers who don&#39;t have access to an entire office suite of well-salaried software engineers, it also creates massively long chains of dependencies that (as we&#39;ve learned time, and time again) can be huge security risks--and also cause a bunch of &quot;breaking changes&quot; that you have to handle as both a developer and an end-user who may work on a <em>slightly different</em> platform that generates weird runtime errors. </p>
+
+<p>To add to the mess, there&#39;s this obsession with doing everything as objects, and while there&#39;s a lot of value to object-oriented design, I think one of the instructors I had explained my opinion very well: &quot;there&#39;s literally no need to overload the bit-shift operators from C to handle iostreams in C++, it just makes the code harder to read--<em>and the whole point of high-level software languages is to make code easy to read</em>.&quot; Unfortunately, when you have 10-20 different ways you can call the same function--err, sorry, instantiate an object, you should probably consider writing a different class instead of just overloading it again.</p>
+
+<p><strong>Anyway</strong>, I&#39;m studying hardware, and to answer your original question, we are doing some amazing and incredible things with hardware. From new semiconductor architectures, to optical computation, there&#39;s a lot of work being done &quot;at the bare metal&quot;, and we&#39;re constantly inventing new ways and new architectures that better distribute caching and memory right on-chip with the processing and compute modules. </p>
+
+<p>If you really like that bare metal vibe, I&#39;d highly recommend studying computer architecture and logic--if nothing else, it will improve how you think about writing software, and at best you might invent the next breakthrough technology for AI computation. <em>A great way to get started is by picking up a cheap FPGA from Arduino, and learning Verilog.</em></p>
+</div>",False,False,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j8m227j/,public,False,1676449655.0,t3_112bmbn,r/computerscience,0,2,1,True,112bmbn,,,,,,
+t5_2qj8o,False,text,0,False,j8k4ztb,0,False,True,False,1676412452.0,True,t1_j8k08r4,2,t2_4i5ji,False,"You have a choice. It's a really hard choice. You can aim for cushy corporate gig and let your soul get sucked out or you can try to start your own business and work 10 times as hard at the beginning. Might end up a million times more successful this way or like many of my friends you might end up earning a comparable wage but with freedom and independence that the corporate people don't get. 
+
+I took the corporate route and I've been trying to launch successful side gigs my whole adult life. I haven't quite figured out how to do one that is successful enough to replace corporate employment though. But that doesn't mean that you can't figure it out. 
+
+Perhaps the most valuable skill today is getting comfortable in front of a camera. If you can talk about your passions for technology in front of a camera and put it on social media that can open all sorts of doors you never realized were available. I didn't start using social media until this week and I think it would have helped my side hustles if I had learned it.",0.0,t1_j8k4ztb,False,0,False,"<div class=""md""><p>You have a choice. It&#39;s a really hard choice. You can aim for cushy corporate gig and let your soul get sucked out or you can try to start your own business and work 10 times as hard at the beginning. Might end up a million times more successful this way or like many of my friends you might end up earning a comparable wage but with freedom and independence that the corporate people don&#39;t get. </p>
+
+<p>I took the corporate route and I&#39;ve been trying to launch successful side gigs my whole adult life. I haven&#39;t quite figured out how to do one that is successful enough to replace corporate employment though. But that doesn&#39;t mean that you can&#39;t figure it out. </p>
+
+<p>Perhaps the most valuable skill today is getting comfortable in front of a camera. If you can talk about your passions for technology in front of a camera and put it on social media that can open all sorts of doors you never realized were available. I didn&#39;t start using social media until this week and I think it would have helped my side hustles if I had learned it.</p>
+</div>",False,False,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j8k4ztb/,public,False,1676412452.0,t3_112bmbn,r/computerscience,0,2,2,True,112bmbn,,,,,,
+t5_2qj8o,False,text,0,False,j8k0wau,0,False,True,False,1676410852.0,True,t1_j8jyyrq,1,t2_4ui6ba9f,False,"Oh, I may of misread lol, I thought you mentioned nostalgia like you grew up with it.",0.0,t1_j8k0wau,False,0,False,"<div class=""md""><p>Oh, I may of misread lol, I thought you mentioned nostalgia like you grew up with it.</p>
+</div>",False,False,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j8k0wau/,public,False,1676410852.0,t3_112bmbn,r/computerscience,0,2,1,True,112bmbn,,,,,,
+t5_2qj8o,False,text,0,False,j8jzhfq,0,False,True,False,1676410307.0,True,t1_j8jyfxh,1,t2_7ae93wsl,False,"I CAN'T TRUST THE INTERNET ANYMORE! But I feel the nostalgia. I remember when everything was just people on their homepages and the coolest guy owned an SGI Octane. 
+Oh, and forget about flatrate Internet",0.0,t1_j8jzhfq,False,0,False,"<div class=""md""><p>I CAN&#39;T TRUST THE INTERNET ANYMORE! But I feel the nostalgia. I remember when everything was just people on their homepages and the coolest guy owned an SGI Octane. 
+Oh, and forget about flatrate Internet</p>
+</div>",False,False,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j8jzhfq/,public,False,1676410307.0,t3_112bmbn,r/computerscience,0,2,1,True,112bmbn,,,,,,
+t5_2qj8o,False,text,0,False,j8kym55,0,False,True,False,1676425643.0,True,t1_j8k4ztb,2,t2_nzbe2s89,False,">You have a choice. It's a really hard choice.
+
+So hard in fact that it is a one-way ticket to financial death. I just wish the choice was easier. All I want to do in life at the moment is learn, but college costs money. Money that like me and everyone else will end up spending most of their lives to pay for.
+
+Even now I have started thinking of business Ideas. The very last thing I want to do in my life is be a slave to a corporate job. No offense to anyone with that job of course, just how life is.
+
+And I had never thought about social media, never interested me. But now that I think about it, most of the world is ran on it. Actually a great starting idea.",0.0,t1_j8kym55,True,0,False,"<div class=""md""><blockquote>
+<p>You have a choice. It&#39;s a really hard choice.</p>
+</blockquote>
+
+<p>So hard in fact that it is a one-way ticket to financial death. I just wish the choice was easier. All I want to do in life at the moment is learn, but college costs money. Money that like me and everyone else will end up spending most of their lives to pay for.</p>
+
+<p>Even now I have started thinking of business Ideas. The very last thing I want to do in my life is be a slave to a corporate job. No offense to anyone with that job of course, just how life is.</p>
+
+<p>And I had never thought about social media, never interested me. But now that I think about it, most of the world is ran on it. Actually a great starting idea.</p>
+</div>",False,False,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j8kym55/,public,False,1676425643.0,t3_112bmbn,r/computerscience,0,3,2,True,112bmbn,,,,,,
+t5_2qj8o,False,text,0,False,j8k1ii7,0,False,True,False,1676411089.0,True,t1_j8k0wau,1,t2_nzbe2s89,False,I did grow up with old tech since my parents were not the richest back then.,0.0,t1_j8k1ii7,True,0,False,"<div class=""md""><p>I did grow up with old tech since my parents were not the richest back then.</p>
+</div>",False,False,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j8k1ii7/,public,False,1676411089.0,t3_112bmbn,r/computerscience,0,3,1,True,112bmbn,,,,,,
+t5_2qj8o,False,text,0,False,j8k0hql,0,False,True,False,1676410696.0,True,t1_j8jzhfq,1,t2_nzbe2s89,False,"> SGI Octane.
+
+First time I have heard that in my life. I though you were talking about Rocket LEague before I search it up.",0.0,t1_j8k0hql,True,0,False,"<div class=""md""><blockquote>
+<p>SGI Octane.</p>
+</blockquote>
+
+<p>First time I have heard that in my life. I though you were talking about Rocket LEague before I search it up.</p>
+</div>",False,False,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j8k0hql/,public,False,1676410696.0,t3_112bmbn,r/computerscience,0,3,1,True,112bmbn,,,,,,
+t5_2qj8o,False,text,0,False,j8lliec,0,False,True,False,1676437289.0,True,t1_j8kym55,1,t2_4i5ji,False,Best of luck to ya!,0.0,t1_j8lliec,False,0,False,"<div class=""md""><p>Best of luck to ya!</p>
+</div>",False,False,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j8lliec/,public,False,1676437289.0,t3_112bmbn,r/computerscience,0,4,1,True,112bmbn,,,,,,
+t5_2qj8o,False,text,0,False,j8k2qly,0,False,True,False,1676411559.0,True,t1_j8k1ii7,1,t2_4ui6ba9f,False,"Ah I see. Well, at least you got to experience them never the less.",0.0,t1_j8k2qly,False,0,False,"<div class=""md""><p>Ah I see. Well, at least you got to experience them never the less.</p>
+</div>",False,False,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j8k2qly/,public,False,1676411559.0,t3_112bmbn,r/computerscience,0,4,1,True,112bmbn,,,,,,
+t5_2qj8o,False,text,0,False,j8lz9jp,0,False,True,False,1676447320.0,True,t1_j8k1ii7,1,t2_iqrt6,False,"Technology can be weird like that. I’m 26, and I grew up playing Super Nintendo. But then other people my age talk about the GameCube as a retro console they played as a kid, whereas I still kind of see it as the cool new thing.
+
+Or if I needed to use the internet for something, I would go to work with my dad and use his computer there, but it was dialup, so if a customer called I had to disconnect. But then I hear people 10-20 years older than me talk about growing up with internet at home before I was born. 
+
+We did eventually get internet at home though, because I remember in middle school sitting down at the family computer and logging onto AIM, or waiting for what felt like hours for RuneScape to load.
+
+It’s crazy to think that in just a couple years the internet for me went from being something I went somewhere else to access and try to efficiently get what I needed from it in the limited time I had, to having my own laptop and playing Minecraft, which I feel like still has a reputation among adults for being that new thing kids are playing, even though I first played it 13 years ago.
+
+Now excuse me while I have an existential crisis about the fact that the distance between now and when I started playing Minecraft is longer than the distance between then and when the N64 came out.",0.0,t1_j8lz9jp,False,0,False,"<div class=""md""><p>Technology can be weird like that. I’m 26, and I grew up playing Super Nintendo. But then other people my age talk about the GameCube as a retro console they played as a kid, whereas I still kind of see it as the cool new thing.</p>
+
+<p>Or if I needed to use the internet for something, I would go to work with my dad and use his computer there, but it was dialup, so if a customer called I had to disconnect. But then I hear people 10-20 years older than me talk about growing up with internet at home before I was born. </p>
+
+<p>We did eventually get internet at home though, because I remember in middle school sitting down at the family computer and logging onto AIM, or waiting for what felt like hours for RuneScape to load.</p>
+
+<p>It’s crazy to think that in just a couple years the internet for me went from being something I went somewhere else to access and try to efficiently get what I needed from it in the limited time I had, to having my own laptop and playing Minecraft, which I feel like still has a reputation among adults for being that new thing kids are playing, even though I first played it 13 years ago.</p>
+
+<p>Now excuse me while I have an existential crisis about the fact that the distance between now and when I started playing Minecraft is longer than the distance between then and when the N64 came out.</p>
+</div>",False,False,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j8lz9jp/,public,False,1676447320.0,t3_112bmbn,r/computerscience,0,4,1,True,112bmbn,,,,,,
+t5_2qj8o,False,text,0,False,j8k1vml,0,False,True,False,1676411227.0,True,t1_j8k0hql,1,t2_7ae93wsl,False,Than you've missed out. Silicon graphics made incredibly beautiful high-performance computers. Mostly tailored to graphics/rendering,0.0,t1_j8k1vml,False,0,False,"<div class=""md""><p>Than you&#39;ve missed out. Silicon graphics made incredibly beautiful high-performance computers. Mostly tailored to graphics/rendering</p>
+</div>",False,False,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j8k1vml/,public,False,1676411227.0,t3_112bmbn,r/computerscience,0,4,1,True,112bmbn,,,,,,
+t5_2qj8o,False,text,0,False,j8ptmqi,0,False,True,False,1676513186.0,True,t1_j8lz9jp,1,t2_nzbe2s89,False,">Now excuse me while I have an existential crisis about the fact that the distance between now and when I started playing Minecraft is longer than the distance between then and when the N64 came out.
+
+Haha, don't worry your not the oldest I have seen. I have seen some truly ancient fossils. When my dad started talking about the good old times and DOS I asked him how old he was and if he wants me to call a paleontologist to take him to the museum. 
+
+Most of the old stuff people are talking about in the comments I know nothing about and I am trying to learn them. Anyway, have fun with Minecraft : ) (My best speedrun time was 38 hours lol)",0.0,t1_j8ptmqi,True,0,False,"<div class=""md""><blockquote>
+<p>Now excuse me while I have an existential crisis about the fact that the distance between now and when I started playing Minecraft is longer than the distance between then and when the N64 came out.</p>
+</blockquote>
+
+<p>Haha, don&#39;t worry your not the oldest I have seen. I have seen some truly ancient fossils. When my dad started talking about the good old times and DOS I asked him how old he was and if he wants me to call a paleontologist to take him to the museum. </p>
+
+<p>Most of the old stuff people are talking about in the comments I know nothing about and I am trying to learn them. Anyway, have fun with Minecraft : ) (My best speedrun time was 38 hours lol)</p>
+</div>",False,False,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j8ptmqi/,public,False,1676513186.0,t3_112bmbn,r/computerscience,0,5,1,True,112bmbn,,,,,,
+t5_2qj8o,False,text,0,False,j8k2m2v,0,False,True,False,1676411510.0,True,t1_j8k1vml,1,t2_nzbe2s89,False,"That would have been nice to have. The old console I had had arcade-style small pixelated games. I used to love playing them, only wish I could find that darn thing.",0.0,t1_j8k2m2v,True,0,False,"<div class=""md""><p>That would have been nice to have. The old console I had had arcade-style small pixelated games. I used to love playing them, only wish I could find that darn thing.</p>
+</div>",False,False,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j8k2m2v/,public,False,1676411510.0,t3_112bmbn,r/computerscience,0,5,1,True,112bmbn,,,,,,
+t5_2qj8o,False,text,0,False,j8k6c69,0,False,True,False,1676412995.0,True,t1_j8k1vml,1,t2_1wtcxjs8,False,Remember the flight simulator on those things?,0.0,t1_j8k6c69,False,0,False,"<div class=""md""><p>Remember the flight simulator on those things?</p>
+</div>",False,False,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j8k6c69/,public,False,1676412995.0,t3_112bmbn,r/computerscience,0,5,1,True,112bmbn,,,,,,
+t5_2qj8o,False,text,0,False,j8k3cfb,0,False,True,False,1676411794.0,True,t1_j8k2m2v,1,t2_7ae93wsl,False,These were not arcade consoles. They we're used for 3D rendering. OpenGL was originally developed by silicon graphics,0.0,t1_j8k3cfb,False,0,False,"<div class=""md""><p>These were not arcade consoles. They we&#39;re used for 3D rendering. OpenGL was originally developed by silicon graphics</p>
+</div>",False,False,True,False,/r/computerscience/comments/112bmbn/computers_then_vs_computers_now/j8k3cfb/,public,False,1676411794.0,t3_112bmbn,r/computerscience,0,6,1,True,112bmbn,,,,,,
+t5_2qj8o,False,text,0,False,ja3imp5,0,False,True,False,1677427503.0,True,t3_11c6b6p,2,t2_m9spqo6l,False,"It seems like your prof is using lambda to mean epsilon. If that's the case, you obviously can't ignore lambda transitions when converting to DFA.",0.0,t1_ja3imp5,False,0,False,"<div class=""md""><p>It seems like your prof is using lambda to mean epsilon. If that&#39;s the case, you obviously can&#39;t ignore lambda transitions when converting to DFA.</p>
+</div>",False,False,True,False,/r/computerscience/comments/11c6b6p/deterministic_vs_nondeterministic_finite_automata/ja3imp5/,public,False,1677427503.0,t3_11c6b6p,r/computerscience,0,0,2,True,11c6b6p,,,,,,
+t5_2qj8o,False,text,0,False,ja27vi1,0,False,True,False,1677398432.0,True,t3_11c6b6p,-1,t2_pt7x3,False,"Basically epsilon in an nfa indicates you are in both states at the same time. So if you have a transition on A to state 2 and 2 has a transition on epsilon to state 3, when you draw that state in the DFA you would combine those two states into one. That's a very generic explanation though and I recommend watching more videos or asking gpt about it.",0.0,t1_ja27vi1,False,0,False,"<div class=""md""><p>Basically epsilon in an nfa indicates you are in both states at the same time. So if you have a transition on A to state 2 and 2 has a transition on epsilon to state 3, when you draw that state in the DFA you would combine those two states into one. That&#39;s a very generic explanation though and I recommend watching more videos or asking gpt about it.</p>
+</div>",False,False,True,False,/r/computerscience/comments/11c6b6p/deterministic_vs_nondeterministic_finite_automata/ja27vi1/,public,False,1677398432.0,t3_11c6b6p,r/computerscience,0,0,-1,True,11c6b6p,,,,,,
+t5_2qj8o,False,text,0,False,ja3rlu7,0,False,True,False,1677431126.0,True,t1_ja27vi1,-1,t2_grq2c,False,"I wouldn’t really say it’s in two states at once (an automata can only be in one state at a time), but rather it can switch states without reading an input character (i.e. it can switch states by doing nothing)",0.0,t1_ja3rlu7,False,0,False,"<div class=""md""><p>I wouldn’t really say it’s in two states at once (an automata can only be in one state at a time), but rather it can switch states without reading an input character (i.e. it can switch states by doing nothing)</p>
+</div>",False,False,True,False,/r/computerscience/comments/11c6b6p/deterministic_vs_nondeterministic_finite_automata/ja3rlu7/,public,False,1677431126.0,t3_11c6b6p,r/computerscience,0,1,-1,True,11c6b6p,,,,,,
+t5_2qj8o,False,text,0,False,ja4xd0q,0,False,True,False,1677447612.0,True,t1_ja3rlu7,1,t2_pt7x3,False,Well in the context of converting to a DFA it becomes one state so that distinction isn't really that important there.,0.0,t1_ja4xd0q,False,0,False,"<div class=""md""><p>Well in the context of converting to a DFA it becomes one state so that distinction isn&#39;t really that important there.</p>
+</div>",False,False,True,False,/r/computerscience/comments/11c6b6p/deterministic_vs_nondeterministic_finite_automata/ja4xd0q/,public,False,1677447612.0,t3_11c6b6p,r/computerscience,0,2,1,True,11c6b6p,,,,,,
+t5_2qj8o,False,,0,False,j0ukksn,0,False,False,False,1671462869.0,True,t3_zpsuca,92,,False,[deleted],0.0,t1_j0ukksn,False,0,,"<div class=""md""><p>[deleted]</p>
+</div>",False,,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0ukksn/,public,False,1671462869.0,t3_zpsuca,r/computerscience,0,0,92,True,zpsuca,,,,dark,,
+t5_2qj8o,False,text,0,False,j0uicn9,0,False,False,False,1671461883.0,True,t3_zpsuca,60,t2_247bimar,False,"Only building projects can help you learn. Build tons of things. Even stuff nobody uses.
+
+Edit: just noticed the question was for amateurs. I’m a professional, but i learned as a kid so i have experience in this area",0.0,t1_j0uicn9,False,0,False,"<div class=""md""><p>Only building projects can help you learn. Build tons of things. Even stuff nobody uses.</p>
+
+<p>Edit: just noticed the question was for amateurs. I’m a professional, but i learned as a kid so i have experience in this area</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0uicn9/,public,False,1671461883.0,t3_zpsuca,r/computerscience,0,0,60,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0ufgxy,0,False,False,False,1671460579.0,True,t3_zpsuca,25,t2_3qij4,False,"Coding. Many people try to learn theory without practicing. Do it the other way around. Think of a project to build and start with that, learn how to code as you build it.",0.0,t1_j0ufgxy,False,0,False,"<div class=""md""><p>Coding. Many people try to learn theory without practicing. Do it the other way around. Think of a project to build and start with that, learn how to code as you build it.</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0ufgxy/,public,False,1671460579.0,t3_zpsuca,r/computerscience,0,0,25,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0uw1tq,0,False,False,False,1671467655.0,True,t3_zpsuca,8,t2_2jsz9vu6,False,"Build, scrap, and rebuild. For instance, when I was first learning I would rewrite the code for logging and session / user management pretty much from scratch every time. It was always better and my OO skills got better doing this.",0.0,t1_j0uw1tq,False,0,False,"<div class=""md""><p>Build, scrap, and rebuild. For instance, when I was first learning I would rewrite the code for logging and session / user management pretty much from scratch every time. It was always better and my OO skills got better doing this.</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0uw1tq/,public,False,1671467655.0,t3_zpsuca,r/computerscience,0,0,8,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0ukinr,0,False,False,False,1671462844.0,True,t3_zpsuca,22,t2_2dxa50an,False,"Repeat stuff up, like A LOT. When I first learned c++ I fixed the main function to muscle memory. Same with learning frameworks. Create and recreate projects and create a basic get http endpoint. Delete project and repeat.",0.0,t1_j0ukinr,False,0,False,"<div class=""md""><p>Repeat stuff up, like A LOT. When I first learned c++ I fixed the main function to muscle memory. Same with learning frameworks. Create and recreate projects and create a basic get http endpoint. Delete project and repeat.</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0ukinr/,public,False,1671462844.0,t3_zpsuca,r/computerscience,0,0,22,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0vpu2a,0,False,False,False,1671479319.0,True,t3_zpsuca,8,t2_4ynjr8q1,False,A job,0.0,t1_j0vpu2a,False,0,False,"<div class=""md""><p>A job</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0vpu2a/,public,False,1671479319.0,t3_zpsuca,r/computerscience,0,0,8,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0udwdj,0,False,False,False,1671459837.0,True,t3_zpsuca,28,t2_tsfaz4le,False,"Are you only asking amateur coders? Or, what do you think can help amateur coders? 
+
+And does that exclude students? 
+
+What an odd question.",0.0,t1_j0udwdj,False,0,False,"<div class=""md""><p>Are you only asking amateur coders? Or, what do you think can help amateur coders? </p>
+
+<p>And does that exclude students? </p>
+
+<p>What an odd question.</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0udwdj/,public,False,1671459837.0,t3_zpsuca,r/computerscience,0,0,28,True,zpsuca,,,,,,
+t5_2qj8o,False,text,1,False,j0vysof,0,False,False,False,1671482825.0,True,t3_zpsuca,6,t2_a2lncvey,False,"You learn how to drive a car before you learn how a combustion engine works, coding should be the same way: build stuff, build stuff, build stuff. After building, look into the underlying mechanics of what you built. The intuition of having built the software will really help you to understand the concepts behind it.",0.0,t1_j0vysof,False,0,False,"<div class=""md""><p>You learn how to drive a car before you learn how a combustion engine works, coding should be the same way: build stuff, build stuff, build stuff. After building, look into the underlying mechanics of what you built. The intuition of having built the software will really help you to understand the concepts behind it.</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0vysof/,public,False,1671482825.0,t3_zpsuca,r/computerscience,0,0,6,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0ula8b,0,False,False,False,1671463174.0,True,t3_zpsuca,4,t2_py8vmjl,False,"A website like solo learn but for more complex topics like data structures, etc.",0.0,t1_j0ula8b,False,0,False,"<div class=""md""><p>A website like solo learn but for more complex topics like data structures, etc.</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0ula8b/,public,False,1671463174.0,t3_zpsuca,r/computerscience,0,0,4,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0w9pi8,0,False,False,False,1671487176.0,True,t3_zpsuca,5,t2_ld76opq,False,A mentor,0.0,t1_j0w9pi8,False,0,False,"<div class=""md""><p>A mentor</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0w9pi8/,public,False,1671487176.0,t3_zpsuca,r/computerscience,0,0,5,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0v7uxc,0,False,False,False,1671472283.0,True,t3_zpsuca,3,t2_i67ln,False,"GitHub copilot and building projects - helps on downtime, typically my rule of thumb is spend 15-20 minutes trying and if you can’t figure it out, ask a question to your mentor/check stack overflow etc.
+
+This is why I recommend github copilot, because it will suggest code snippets that will answer super basic questions (how to write an async function for example) and rather let you spend your time focusing on what you’re actually trying to get done",0.0,t1_j0v7uxc,False,0,False,"<div class=""md""><p>GitHub copilot and building projects - helps on downtime, typically my rule of thumb is spend 15-20 minutes trying and if you can’t figure it out, ask a question to your mentor/check stack overflow etc.</p>
+
+<p>This is why I recommend github copilot, because it will suggest code snippets that will answer super basic questions (how to write an async function for example) and rather let you spend your time focusing on what you’re actually trying to get done</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0v7uxc/,public,False,1671472283.0,t3_zpsuca,r/computerscience,0,0,3,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0vdl9j,0,False,False,False,1671474514.0,True,t3_zpsuca,4,t2_5i7einjh,False,Being able to learn how to do it 30 years ago before the world was taken over by half-ass operating systems that overcomplicated it.,0.0,t1_j0vdl9j,False,0,False,"<div class=""md""><p>Being able to learn how to do it 30 years ago before the world was taken over by half-ass operating systems that overcomplicated it.</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0vdl9j/,public,False,1671474514.0,t3_zpsuca,r/computerscience,0,0,4,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0x1n3u,0,False,True,False,1671499471.0,True,t3_zpsuca,3,t2_c6q7btla,False,Is this some kind of data farming bot account ?,0.0,t1_j0x1n3u,False,0,False,"<div class=""md""><p>Is this some kind of data farming bot account ?</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0x1n3u/,public,False,1671499471.0,t3_zpsuca,r/computerscience,0,0,3,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0ur15q,0,False,True,False,1671465587.0,True,t3_zpsuca,2,t2_qay3gc2,False,"Codewars, or any similar thing where you are given a concrete problem to solve with code.",0.0,t1_j0ur15q,False,0,False,"<div class=""md""><p>Codewars, or any similar thing where you are given a concrete problem to solve with code.</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0ur15q/,public,False,1671465587.0,t3_zpsuca,r/computerscience,0,0,2,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0uztgw,0,False,True,False,1671469148.0,True,t3_zpsuca,2,t2_dhnzhrmb,False,Build something that you are interested in and then rebuild it over again and again also keep thinking of ways to improve it over time.,0.0,t1_j0uztgw,False,0,False,"<div class=""md""><p>Build something that you are interested in and then rebuild it over again and again also keep thinking of ways to improve it over time.</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0uztgw/,public,False,1671469148.0,t3_zpsuca,r/computerscience,0,0,2,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0vier8,0,False,True,False,1671476392.0,True,t3_zpsuca,2,t2_5wslq,False,"I think one of the fastest ways to learn early on is to get peer review feedback on your code from someone who's really good at coding already. Building projects will help you learn a ton, but you won't know what mistakes you're making unless you get review from someone more experienced.",0.0,t1_j0vier8,False,0,False,"<div class=""md""><p>I think one of the fastest ways to learn early on is to get peer review feedback on your code from someone who&#39;s really good at coding already. Building projects will help you learn a ton, but you won&#39;t know what mistakes you&#39;re making unless you get review from someone more experienced.</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0vier8/,public,False,1671476392.0,t3_zpsuca,r/computerscience,0,0,2,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0vqpyc,0,False,True,False,1671479664.0,True,t3_zpsuca,2,t2_g5pwty8r,False,The more specific the question the more useful the answer,0.0,t1_j0vqpyc,False,0,False,"<div class=""md""><p>The more specific the question the more useful the answer</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0vqpyc/,public,False,1671479664.0,t3_zpsuca,r/computerscience,0,0,2,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0vwvga,0,False,True,False,1671482070.0,True,t3_zpsuca,2,t2_34z6r,False,"Understanding that learning takes time. In the long run, trying to learn ""faster"" ends up eating more time that just putting time into it.",0.0,t1_j0vwvga,False,0,False,"<div class=""md""><p>Understanding that learning takes time. In the long run, trying to learn &quot;faster&quot; ends up eating more time that just putting time into it.</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0vwvga/,public,False,1671482070.0,t3_zpsuca,r/computerscience,0,0,2,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0w4klv,0,False,True,False,1671485105.0,True,t3_zpsuca,2,t2_q073k3si,False,"A personal project, motivation, and a ton of documentation/YouTube/StackOverflow. The theories are good to know, so dont brush them off. However, if you don't have anything to use them for or any reason to apply them, you forget them quickly.",0.0,t1_j0w4klv,False,0,False,"<div class=""md""><p>A personal project, motivation, and a ton of documentation/YouTube/StackOverflow. The theories are good to know, so dont brush them off. However, if you don&#39;t have anything to use them for or any reason to apply them, you forget them quickly.</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0w4klv/,public,False,1671485105.0,t3_zpsuca,r/computerscience,0,0,2,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0w4vrb,0,False,True,False,1671485229.0,True,t3_zpsuca,2,t2_17cjz7,False,"Some sort of programming game that's actually fun and not intended for kids in order to help learn syntax. A wpm style typing game might work. Even typing words and functions you don't know yet will prime your brain to recognize and remember them later with context. Maybe it can segment and explain what each part does after you finish typing the whole thing.
+
+Just give me access if you do it!",0.0,t1_j0w4vrb,False,0,False,"<div class=""md""><p>Some sort of programming game that&#39;s actually fun and not intended for kids in order to help learn syntax. A wpm style typing game might work. Even typing words and functions you don&#39;t know yet will prime your brain to recognize and remember them later with context. Maybe it can segment and explain what each part does after you finish typing the whole thing.</p>
+
+<p>Just give me access if you do it!</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0w4vrb/,public,False,1671485229.0,t3_zpsuca,r/computerscience,0,0,2,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0v643y,0,False,True,False,1671471603.0,True,t3_zpsuca,1,t2_2vwux6pt,False,Ritalin,0.0,t1_j0v643y,False,0,False,"<div class=""md""><p>Ritalin</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0v643y/,public,False,1671471603.0,t3_zpsuca,r/computerscience,0,0,1,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0wwru1,0,False,True,False,1671497237.0,True,t3_zpsuca,1,t2_4mosmslt,False,"That it’s a very practical skill and it takes everyone different amounts of time. It’s also not something you can just memorise. When I first started I was constantly distraught by the fact I was unable to problem solve effectively and as a result would neglect coding for weeks or months on end. So when I picked it up again last year I approached it from the angle that I’d fail and not react negatively. Don’t understand? That’s ok, I’ll watch these tutorials. Still doesn’t fix my problem? Again, no stress, tomorrow I will continue to research and not be worried if i don’t grasp it immediately.
+
+Being constantly stressed by the fact I wasn’t progressing in my skill - or stressed by the fact I wasn’t learning as fast as I thought I could - put me off greatly initially, but I’ve overcome this by remembering my pace is my pace and placing it next to other subjects I excel in is non-comparative, coding is difficult! Take your time and don’t give up.",0.0,t1_j0wwru1,False,0,False,"<div class=""md""><p>That it’s a very practical skill and it takes everyone different amounts of time. It’s also not something you can just memorise. When I first started I was constantly distraught by the fact I was unable to problem solve effectively and as a result would neglect coding for weeks or months on end. So when I picked it up again last year I approached it from the angle that I’d fail and not react negatively. Don’t understand? That’s ok, I’ll watch these tutorials. Still doesn’t fix my problem? Again, no stress, tomorrow I will continue to research and not be worried if i don’t grasp it immediately.</p>
+
+<p>Being constantly stressed by the fact I wasn’t progressing in my skill - or stressed by the fact I wasn’t learning as fast as I thought I could - put me off greatly initially, but I’ve overcome this by remembering my pace is my pace and placing it next to other subjects I excel in is non-comparative, coding is difficult! Take your time and don’t give up.</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0wwru1/,public,False,1671497237.0,t3_zpsuca,r/computerscience,0,0,1,True,zpsuca,,,,,,
+t5_2qj8o,False,,0,False,j0xf4e7,0,False,True,False,1671505617.0,True,t3_zpsuca,1,,False,drugs probably,0.0,t1_j0xf4e7,False,0,,"<div class=""md""><p>drugs probably</p>
+</div>",False,,False,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0xf4e7/,public,False,1671505617.0,t3_zpsuca,r/computerscience,0,0,1,True,zpsuca,,,,dark,,
+t5_2qj8o,False,text,0,False,j0xifu4,0,False,True,False,1671507202.0,True,t3_zpsuca,1,t2_k0mj70qz,False,Practice. Building application from ground up. Good music.,0.0,t1_j0xifu4,False,0,False,"<div class=""md""><p>Practice. Building application from ground up. Good music.</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0xifu4/,public,False,1671507202.0,t3_zpsuca,r/computerscience,0,0,1,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0xjwle,0,False,True,False,1671507908.0,True,t3_zpsuca,1,t2_s9ypv,False,"Thinking in ""Tools"" Rather than results. I've found this helps out a lot with even other work like photoshop stuff. This is an acquired ability. You get it at level 100. It's easier said than done.",0.0,t1_j0xjwle,False,0,False,"<div class=""md""><p>Thinking in &quot;Tools&quot; Rather than results. I&#39;ve found this helps out a lot with even other work like photoshop stuff. This is an acquired ability. You get it at level 100. It&#39;s easier said than done.</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0xjwle/,public,False,1671507908.0,t3_zpsuca,r/computerscience,0,0,1,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0y7zo7,0,False,True,False,1671523349.0,True,t3_zpsuca,1,t2_8cx8lcfv,False,Doing projects. It's the best thing.,0.0,t1_j0y7zo7,False,0,False,"<div class=""md""><p>Doing projects. It&#39;s the best thing.</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0y7zo7/,public,False,1671523349.0,t3_zpsuca,r/computerscience,0,0,1,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0ycooc,0,False,True,False,1671527268.0,True,t3_zpsuca,1,t2_aecimfrl,False,Take your time. Taking your time makes you learn fast.,0.0,t1_j0ycooc,False,0,False,"<div class=""md""><p>Take your time. Taking your time makes you learn fast.</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0ycooc/,public,False,1671527268.0,t3_zpsuca,r/computerscience,0,0,1,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0ycyz2,0,False,True,False,1671527517.0,True,t3_zpsuca,1,t2_jvmxgi78,False,Tell what's your opinion ?,0.0,t1_j0ycyz2,False,0,False,"<div class=""md""><p>Tell what&#39;s your opinion ?</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0ycyz2/,public,False,1671527517.0,t3_zpsuca,r/computerscience,0,0,1,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0ymklj,0,False,True,False,1671535562.0,True,t3_zpsuca,1,t2_zo355,False,"Do usefull stuff that is needed. 
+
+&#x200B;
+
+Nothing forces you to learn more then when this use of your time should save you time in the future.",0.0,t1_j0ymklj,False,0,False,"<div class=""md""><p>Do usefull stuff that is needed. </p>
+
+<p>&#x200B;</p>
+
+<p>Nothing forces you to learn more then when this use of your time should save you time in the future.</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0ymklj/,public,False,1671535562.0,t3_zpsuca,r/computerscience,0,0,1,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0yocfk,0,False,True,False,1671536882.0,True,t3_zpsuca,1,t2_1jlkxsk3,False,"The best way to learn faster is to learn slower actually. Slow is smooth and smooth is fast.
+
+Sorry my dude.",0.0,t1_j0yocfk,False,0,False,"<div class=""md""><p>The best way to learn faster is to learn slower actually. Slow is smooth and smooth is fast.</p>
+
+<p>Sorry my dude.</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0yocfk/,public,False,1671536882.0,t3_zpsuca,r/computerscience,0,0,1,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0yr5o6,0,False,True,False,1671538828.0,True,t3_zpsuca,1,t2_39l4j,False,A mentor,0.0,t1_j0yr5o6,False,0,False,"<div class=""md""><p>A mentor</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0yr5o6/,public,False,1671538828.0,t3_zpsuca,r/computerscience,0,0,1,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j19us0p,0,False,True,False,1671735547.0,True,t3_zpsuca,1,t2_8g3hx,False,Time and patience,0.0,t1_j19us0p,False,0,False,"<div class=""md""><p>Time and patience</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j19us0p/,public,False,1671735547.0,t3_zpsuca,r/computerscience,0,0,1,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j1bksed,0,False,True,False,1671761994.0,True,t3_zpsuca,1,t2_1kqh3f6s,False,Develop tools for concepts that haven't been made yet that you need.,0.0,t1_j1bksed,False,0,False,"<div class=""md""><p>Develop tools for concepts that haven&#39;t been made yet that you need.</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j1bksed/,public,False,1671761994.0,t3_zpsuca,r/computerscience,0,0,1,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0wennr,0,False,False,False,1671489256.0,True,t1_j0ukksn,25,t2_m0c16u62,False,"The amount of times rewording a question has saved me time is unbelievable, this is the best way",0.0,t1_j0wennr,False,0,False,"<div class=""md""><p>The amount of times rewording a question has saved me time is unbelievable, this is the best way</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0wennr/,public,False,1671489256.0,t3_zpsuca,r/computerscience,0,1,25,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0y5zz8,0,False,True,False,1671521771.0,True,t1_j0ukksn,2,t2_okr5g,False,So true. At least half of the art is learning to ask the right questions because almost no problem is new or unique.,0.0,t1_j0y5zz8,False,0,False,"<div class=""md""><p>So true. At least half of the art is learning to ask the right questions because almost no problem is new or unique.</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0y5zz8/,public,False,1671521771.0,t3_zpsuca,r/computerscience,0,1,2,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0xkrm6,0,False,True,False,1671508326.0,True,t1_j0ukksn,4,t2_s9ypv,False,The Question is The Question. Wow.,0.0,t1_j0xkrm6,False,0,False,"<div class=""md""><p>The Question is The Question. Wow.</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0xkrm6/,public,False,1671508326.0,t3_zpsuca,r/computerscience,0,1,4,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0y5gs4,0,False,True,False,1671521355.0,True,t1_j0uicn9,2,t2_bfvmhnhh,False,"This *1000. I've feel like I've seen a billion calculators, or just a simple function using the .toUpperCase method to make entire strings be in caps lock. It doesn't matter, just make it. But if you decide to put them on GitHub, you'll end up with a ton of repos, so I recommend bookmarking the ones that you learned a lot from to come back to later, especially for interviews",0.0,t1_j0y5gs4,False,0,False,"<div class=""md""><p>This *1000. I&#39;ve feel like I&#39;ve seen a billion calculators, or just a simple function using the .toUpperCase method to make entire strings be in caps lock. It doesn&#39;t matter, just make it. But if you decide to put them on GitHub, you&#39;ll end up with a ton of repos, so I recommend bookmarking the ones that you learned a lot from to come back to later, especially for interviews</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0y5gs4/,public,False,1671521355.0,t3_zpsuca,r/computerscience,0,1,2,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0xjqsl,0,False,False,False,1671507829.0,True,t1_j0ukinr,3,t2_s9ypv,False,"Repetition is the ultimate and low cost way of learning. It only costs time maybe but that's gone anyway. It's like practice, pure and simple.",0.0,t1_j0xjqsl,False,0,False,"<div class=""md""><p>Repetition is the ultimate and low cost way of learning. It only costs time maybe but that&#39;s gone anyway. It&#39;s like practice, pure and simple.</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0xjqsl/,public,False,1671507829.0,t3_zpsuca,r/computerscience,0,1,3,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0y95fp,0,False,True,False,1671524294.0,True,t1_j0ukinr,2,t2_y5r1l,False,"What?
+
+Literally don't do that it's a waste, syntax and boilerplate can be looked up in a few seconds, and you'll become familiar enough with it eventually anyway, instead focus on *understanding* and creating program architecture, laying out classes, data structures, algorithms, etc.",0.0,t1_j0y95fp,False,0,False,"<div class=""md""><p>What?</p>
+
+<p>Literally don&#39;t do that it&#39;s a waste, syntax and boilerplate can be looked up in a few seconds, and you&#39;ll become familiar enough with it eventually anyway, instead focus on <em>understanding</em> and creating program architecture, laying out classes, data structures, algorithms, etc.</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0y95fp/,public,False,1671524294.0,t3_zpsuca,r/computerscience,0,1,2,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0yl7l6,0,False,False,False,1671534509.0,True,t1_j0vpu2a,3,t2_7trr2m9e,False,"Underrated answer. All these people online telling you you need this and that project, but without a real-life use case based app which follows best practices and has a business-grade complexity, you'll entertain diminishing returns unless you are exceptionally gifted or motivated.
+
+Particularly, a patient and knowledgeable senior which helps you grow day by day will make all the difference. And if you cannot get a job for whatever reason, try to surround yourself with talented programmers who are willing to review your code. Or pay someone to do it.
+
+I would also add, a formal degree in computer science or software engineering. Some may be too theoretical, but if you practice coding while studying comuter science, I do not see how that is not conducive to you becoming a better than average programmer.",0.0,t1_j0yl7l6,False,0,False,"<div class=""md""><p>Underrated answer. All these people online telling you you need this and that project, but without a real-life use case based app which follows best practices and has a business-grade complexity, you&#39;ll entertain diminishing returns unless you are exceptionally gifted or motivated.</p>
+
+<p>Particularly, a patient and knowledgeable senior which helps you grow day by day will make all the difference. And if you cannot get a job for whatever reason, try to surround yourself with talented programmers who are willing to review your code. Or pay someone to do it.</p>
+
+<p>I would also add, a formal degree in computer science or software engineering. Some may be too theoretical, but if you practice coding while studying comuter science, I do not see how that is not conducive to you becoming a better than average programmer.</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0yl7l6/,public,False,1671534509.0,t3_zpsuca,r/computerscience,0,1,3,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0y9a7a,0,False,True,False,1671524404.0,True,t1_j0vdl9j,1,t2_y5r1l,False,Hahahahahahahahahahahahahahaha,0.0,t1_j0y9a7a,False,0,False,"<div class=""md""><p>Hahahahahahahahahahahahahahaha</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0y9a7a/,public,False,1671524404.0,t3_zpsuca,r/computerscience,0,1,1,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0vuixx,0,False,True,False,1671481143.0,True,t1_j0vqpyc,1,t2_uecxx0yv,False,Any tips.,0.0,t1_j0vuixx,True,0,False,"<div class=""md""><p>Any tips.</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0vuixx/,public,False,1671481143.0,t3_zpsuca,r/computerscience,0,1,1,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0yxvf8,0,False,True,False,1671542836.0,True,t1_j0w4vrb,1,t2_qt8zr,False,https://monkeytype.com/ does exactly this.,0.0,t1_j0yxvf8,False,0,False,"<div class=""md""><p><a href=""https://monkeytype.com/"">https://monkeytype.com/</a> does exactly this.</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0yxvf8/,public,False,1671542836.0,t3_zpsuca,r/computerscience,0,1,1,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0xgxrf,0,False,True,False,1671506487.0,True,t1_j0v643y,3,t2_oqa4we2,False,Get out the 90s. You want Vyvanse now.,0.0,t1_j0xgxrf,False,0,False,"<div class=""md""><p>Get out the 90s. You want Vyvanse now.</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0xgxrf/,public,False,1671506487.0,t3_zpsuca,r/computerscience,0,1,3,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0ymmms,0,False,True,False,1671535606.0,True,t1_j0ymklj,1,t2_zo355,False,Me 18 Years a slave to a Insurance company...,0.0,t1_j0ymmms,False,0,False,"<div class=""md""><p>Me 18 Years a slave to a Insurance company...</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0ymmms/,public,False,1671535606.0,t3_zpsuca,r/computerscience,0,1,1,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j139awa,0,False,True,False,1671617363.0,True,t1_j0y95fp,1,t2_s4fotb2,False,I struggle with this so much and I don't even know how to ask or who to ask to get better at this,0.0,t1_j139awa,False,0,False,"<div class=""md""><p>I struggle with this so much and I don&#39;t even know how to ask or who to ask to get better at this</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j139awa/,public,False,1671617363.0,t3_zpsuca,r/computerscience,0,2,1,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j0w8z44,0,False,False,False,1671486875.0,True,t1_j0vuixx,4,t2_g5pwty8r,False,"Be as specific as possible, most people ask very generalized questions for example someone might ask: ""how do you build a bridge?"", well what length and width is it, what load do you expect it to take, what materials do you have available in the region or do you need to ship certain things in, what is your budget, is there anyone nearby in which to employ or do you need to ship people in, can those people be trained on site or do you need highly specialized skills, how long do you expect it to take, and what is the regions weather like. Based on those things you won't just build a bridge, but the right bridge for that location.
+
+You're essentially breaking the question down into the smallest components possible to cover as many variables as possible to rule out everything you don't need to know to home in on everything you do need to know, as these questions can lead to more questions that lead to ever more specific answers which elaborate specific scenarios.
+
+If you can't do that then there's no way to discover what you need to get something to function, this is why at a certain point people are able to program whatever they want simply because they start asking all the specific questions they need, no matter the length, to get them to where they need to go.
+
+This is also why premature optimization is so detrimental, you're cutting yourself off from potential avenues of questioning to get to the most creative implementation that reaches the desired goal. This is why the prototype can be inefficient because now you simply need to find the best way of recreating something that already exists rather than immediately finding the best solution to make something that doesn't exist.",0.0,t1_j0w8z44,False,0,False,"<div class=""md""><p>Be as specific as possible, most people ask very generalized questions for example someone might ask: &quot;how do you build a bridge?&quot;, well what length and width is it, what load do you expect it to take, what materials do you have available in the region or do you need to ship certain things in, what is your budget, is there anyone nearby in which to employ or do you need to ship people in, can those people be trained on site or do you need highly specialized skills, how long do you expect it to take, and what is the regions weather like. Based on those things you won&#39;t just build a bridge, but the right bridge for that location.</p>
+
+<p>You&#39;re essentially breaking the question down into the smallest components possible to cover as many variables as possible to rule out everything you don&#39;t need to know to home in on everything you do need to know, as these questions can lead to more questions that lead to ever more specific answers which elaborate specific scenarios.</p>
+
+<p>If you can&#39;t do that then there&#39;s no way to discover what you need to get something to function, this is why at a certain point people are able to program whatever they want simply because they start asking all the specific questions they need, no matter the length, to get them to where they need to go.</p>
+
+<p>This is also why premature optimization is so detrimental, you&#39;re cutting yourself off from potential avenues of questioning to get to the most creative implementation that reaches the desired goal. This is why the prototype can be inefficient because now you simply need to find the best way of recreating something that already exists rather than immediately finding the best solution to make something that doesn&#39;t exist.</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j0w8z44/,public,False,1671486875.0,t3_zpsuca,r/computerscience,0,2,4,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j14mtca,0,False,True,False,1671642722.0,True,t1_j139awa,1,t2_y5r1l,False,I mean for me... I got a cs degree 🤷‍♀️,0.0,t1_j14mtca,False,0,False,"<div class=""md""><p>I mean for me... I got a cs degree 🤷‍♀️</p>
+</div>",False,False,True,False,/r/computerscience/comments/zpsuca/amateur_coders_what_do_you_think_can_help_you/j14mtca/,public,False,1671642722.0,t3_zpsuca,r/computerscience,0,3,1,True,zpsuca,,,,,,
+t5_2qj8o,False,text,0,False,j4qv77c,0,False,False,False,1673975452.0,True,t3_10egnrx,26,t2_9q82ug8,False,"Recursion is when a function calls itself. 
+
+Typically this incurs a cost each time the function called is done as the new call uses a new stack frame, and eventually there will be no more available space for these new stack frames to be taken from. Tail recursion is when your function calls itself last (aka there are no other dependencies on that return value before the parent finishes) so a new function call is not needed - the nested function call can be done inline and does not utilize a new stack frame. 
+
+Recursion can be easier to handle a repeated or divided process but is not a best fix for everything.",0.0,t1_j4qv77c,False,0,False,"<div class=""md""><p>Recursion is when a function calls itself. </p>
+
+<p>Typically this incurs a cost each time the function called is done as the new call uses a new stack frame, and eventually there will be no more available space for these new stack frames to be taken from. Tail recursion is when your function calls itself last (aka there are no other dependencies on that return value before the parent finishes) so a new function call is not needed - the nested function call can be done inline and does not utilize a new stack frame. </p>
+
+<p>Recursion can be easier to handle a repeated or divided process but is not a best fix for everything.</p>
+</div>",False,False,True,False,/r/computerscience/comments/10egnrx/what_does_tail_recursion_do_and_whats_the/j4qv77c/,public,False,1673975452.0,t3_10egnrx,r/computerscience,0,0,26,True,10egnrx,,,,,,
+t5_2qj8o,False,text,0,False,j4tpcyw,0,False,False,False,1674016152.0,True,t3_10egnrx,7,t2_3xouc9ik,False,Some answers seem to imply that tail recursion is a special form of recursion. It is not. tail recursion is a property of a recursive function that can be used to optimize the implementation. The implementation can “throw away” the current stack frame immediately since it will not be needed anymore when returning the result from the innermost call. As a consequence the call stack doesn’t grow.,0.0,t1_j4tpcyw,False,0,False,"<div class=""md""><p>Some answers seem to imply that tail recursion is a special form of recursion. It is not. tail recursion is a property of a recursive function that can be used to optimize the implementation. The implementation can “throw away” the current stack frame immediately since it will not be needed anymore when returning the result from the innermost call. As a consequence the call stack doesn’t grow.</p>
+</div>",False,False,True,False,/r/computerscience/comments/10egnrx/what_does_tail_recursion_do_and_whats_the/j4tpcyw/,public,False,1674016152.0,t3_10egnrx,r/computerscience,0,0,7,True,10egnrx,,,,,,
+t5_2qj8o,False,text,0,False,j4r5xqa,0,False,False,False,1673979368.0,True,t3_10egnrx,16,t2_fpfnr,False,Tail recursion is what non-functional programmers like to call a while loop.,0.0,t1_j4r5xqa,False,0,False,"<div class=""md""><p>Tail recursion is what non-functional programmers like to call a while loop.</p>
+</div>",False,False,True,False,/r/computerscience/comments/10egnrx/what_does_tail_recursion_do_and_whats_the/j4r5xqa/,public,False,1673979368.0,t3_10egnrx,r/computerscience,0,0,16,True,10egnrx,,,,,,
+t5_2qj8o,False,text,0,False,j4tnm3i,0,False,True,False,1674015262.0,True,t3_10egnrx,2,t2_4ct09,False,"Tail recursion and 'normal' or non-tail recursion differ in how control flows in relation to the return value. Both are recursive functions, so you have a function `F` that calls itself, i.e. has a call to `F` inside itself.  You can talk about the difference in a lot of ways. One way is to look at what happens to the value returned by that inner call.
+
+In a non-tail recursive function, whenever you call `F`, some computation works on its return value, `R` . Or more accurately, the function does not return the value `R` directly, for example, it might return `R+1`. A tail recursive function returns this value `R` directly ( `return F(…)`).
+
+Why is this important? It is very easy for a compiler to do Tail Recursion Elimination or Tail Recursion Optimization (TLO), on tail-recursive function. Since in a tail recursive function, after the recursive call to `F`, you immediately return `R`, you can reuse the stack setup of for all calls to `F` by itself. This lets you avoid manipulating the stack for each successive recursive call. This saves the memory  space that would be allocated on the stack (for the return location, local variables, and the return value itself) in a very important way. It also saves running the code that would do that, but that part isn’t significant. If you are familiar with how function calls are setup on the assembly level, you can think of this optimization as reusing the same stack frame first call to the recursion function for all calls it makes to itself.
+
+By saving this space, a tail-recursive function that calls itself a thousand times uses the same resources as a while-loop that iterates thousand times. And more notably, a thousand self-recursive calls uses the same amount of space as a million self-recursive calls.   More important is that without tail-recursion optimization, you can't only recurse so deep. Without that memory saving, it would pile up for each of those thousand calls. For some implementation reasons, the maximum size of the call stack (where this space is saved) is both limited and relatively small. 
+
+What this means in practice is without TLO, when using recursion, you must avoid unbounded recursive calls. Or put more simply, don't recurse too deeply, or your program will crash with a stack overflow. A general rule of thumb is limit recursion to a fixed amount or O(log(N)) calls for objects of size N.",0.0,t1_j4tnm3i,False,0,False,"<div class=""md""><p>Tail recursion and &#39;normal&#39; or non-tail recursion differ in how control flows in relation to the return value. Both are recursive functions, so you have a function <code>F</code> that calls itself, i.e. has a call to <code>F</code> inside itself.  You can talk about the difference in a lot of ways. One way is to look at what happens to the value returned by that inner call.</p>
+
+<p>In a non-tail recursive function, whenever you call <code>F</code>, some computation works on its return value, <code>R</code> . Or more accurately, the function does not return the value <code>R</code> directly, for example, it might return <code>R+1</code>. A tail recursive function returns this value <code>R</code> directly ( <code>return F(…)</code>).</p>
+
+<p>Why is this important? It is very easy for a compiler to do Tail Recursion Elimination or Tail Recursion Optimization (TLO), on tail-recursive function. Since in a tail recursive function, after the recursive call to <code>F</code>, you immediately return <code>R</code>, you can reuse the stack setup of for all calls to <code>F</code> by itself. This lets you avoid manipulating the stack for each successive recursive call. This saves the memory  space that would be allocated on the stack (for the return location, local variables, and the return value itself) in a very important way. It also saves running the code that would do that, but that part isn’t significant. If you are familiar with how function calls are setup on the assembly level, you can think of this optimization as reusing the same stack frame first call to the recursion function for all calls it makes to itself.</p>
+
+<p>By saving this space, a tail-recursive function that calls itself a thousand times uses the same resources as a while-loop that iterates thousand times. And more notably, a thousand self-recursive calls uses the same amount of space as a million self-recursive calls.   More important is that without tail-recursion optimization, you can&#39;t only recurse so deep. Without that memory saving, it would pile up for each of those thousand calls. For some implementation reasons, the maximum size of the call stack (where this space is saved) is both limited and relatively small. </p>
+
+<p>What this means in practice is without TLO, when using recursion, you must avoid unbounded recursive calls. Or put more simply, don&#39;t recurse too deeply, or your program will crash with a stack overflow. A general rule of thumb is limit recursion to a fixed amount or O(log(N)) calls for objects of size N.</p>
+</div>",False,False,True,False,/r/computerscience/comments/10egnrx/what_does_tail_recursion_do_and_whats_the/j4tnm3i/,public,False,1674015262.0,t3_10egnrx,r/computerscience,0,0,2,True,10egnrx,,,,,,
+t5_2qj8o,False,text,0,False,j4umhix,0,False,True,False,1674039970.0,True,t3_10egnrx,2,t2_4yvhfdwi,False,"The word ""recursion"" makes this seem fancier than it is.
+
+A tail call does exactly what a normal call does except it erases the stack ""foot-print"" of the caller before the call rather than after the call returns. This also saves at least one ""branch"" which can often be beneficial with our modern highly pipelined microarchitectures.
+
+Consider these two C constructs:
+
+1.
+
+   return possible_tail_call(a, b, c);
+
+2.
+
+   possible_tail_call(a, b, c);
+   return;
+
+In C, unless something ""allocated"" by the caller on the stack ""escapes"" to possible_tail_call (via a, b, or c, or I guess a global variable which is very gross but I guess legal) then eliminating the stack frame before the call is legal and *safe* (though may not always the most performant option).
+
+C lacks catch/finally which might also foil this in other languages if those constructs surrounded either of these constructs lexically.
+
+In practice, most C compilers won't eliminate the call frame like this, at least without compiler optimization flags.
+
+""escape analysis"" can be sophisticated but it doesn't really have to be hard or just for this ""weird case"".
+
+When literally every local variable can be (at least theoretically) allocated to registers rather than on the stack (where it's address can be taken and hence escape) then this optimization makes perfect sense and requires zero additional analysis.
+
+Both gcc and clang will in fact often perform this optimization in these cases though not necessarily the same for all architectures or the same as each other.
+
+In an ABI where the return address on a call is stored to a register instead of on the stack, this optimization may occur more often. When the return address is stored automatically on the stack as part of a call sequence, it might have to be moved which seems to be yet another reason  simple compliers don't want to do it.
+
+---
+
+While gcc/clang will do ""tail call"" optimization sometimes, some languages notably Scheme and ML ""require"" it in all cases like #1 and #2 *even if unoptimized* (or quite frankly if it produces slower code sort of...)
+
+Critics say that all languages are Turing complete and Scheme and ML can just suck it up and fit in.
+
+In reality clang added very limited guaranteed tail calls even when unoptimized probably because both clang and gcc suck balls at switch statements and gotos and they are throwing some bones to JIT implementors.",0.0,t1_j4umhix,False,0,False,"<div class=""md""><p>The word &quot;recursion&quot; makes this seem fancier than it is.</p>
+
+<p>A tail call does exactly what a normal call does except it erases the stack &quot;foot-print&quot; of the caller before the call rather than after the call returns. This also saves at least one &quot;branch&quot; which can often be beneficial with our modern highly pipelined microarchitectures.</p>
+
+<p>Consider these two C constructs:</p>
+
+<p>1.</p>
+
+<p>return possible_tail_call(a, b, c);</p>
+
+<p>2.</p>
+
+<p>possible_tail_call(a, b, c);
+   return;</p>
+
+<p>In C, unless something &quot;allocated&quot; by the caller on the stack &quot;escapes&quot; to possible_tail_call (via a, b, or c, or I guess a global variable which is very gross but I guess legal) then eliminating the stack frame before the call is legal and <em>safe</em> (though may not always the most performant option).</p>
+
+<p>C lacks catch/finally which might also foil this in other languages if those constructs surrounded either of these constructs lexically.</p>
+
+<p>In practice, most C compilers won&#39;t eliminate the call frame like this, at least without compiler optimization flags.</p>
+
+<p>&quot;escape analysis&quot; can be sophisticated but it doesn&#39;t really have to be hard or just for this &quot;weird case&quot;.</p>
+
+<p>When literally every local variable can be (at least theoretically) allocated to registers rather than on the stack (where it&#39;s address can be taken and hence escape) then this optimization makes perfect sense and requires zero additional analysis.</p>
+
+<p>Both gcc and clang will in fact often perform this optimization in these cases though not necessarily the same for all architectures or the same as each other.</p>
+
+<p>In an ABI where the return address on a call is stored to a register instead of on the stack, this optimization may occur more often. When the return address is stored automatically on the stack as part of a call sequence, it might have to be moved which seems to be yet another reason  simple compliers don&#39;t want to do it.</p>
+
+<hr/>
+
+<p>While gcc/clang will do &quot;tail call&quot; optimization sometimes, some languages notably Scheme and ML &quot;require&quot; it in all cases like #1 and #2 <em>even if unoptimized</em> (or quite frankly if it produces slower code sort of...)</p>
+
+<p>Critics say that all languages are Turing complete and Scheme and ML can just suck it up and fit in.</p>
+
+<p>In reality clang added very limited guaranteed tail calls even when unoptimized probably because both clang and gcc suck balls at switch statements and gotos and they are throwing some bones to JIT implementors.</p>
+</div>",False,False,True,False,/r/computerscience/comments/10egnrx/what_does_tail_recursion_do_and_whats_the/j4umhix/,public,False,1674039970.0,t3_10egnrx,r/computerscience,0,0,2,True,10egnrx,,,,,,
+t5_2qj8o,False,text,0,False,j4r091e,0,False,True,False,1673977299.0,True,t3_10egnrx,5,t2_3pv94,False,Why not look in [Wikipedia](https://en.wikipedia.org/wiki/Tail_call)?,0.0,t1_j4r091e,False,0,False,"<div class=""md""><p>Why not look in <a href=""https://en.wikipedia.org/wiki/Tail_call"">Wikipedia</a>?</p>
+</div>",False,False,True,False,/r/computerscience/comments/10egnrx/what_does_tail_recursion_do_and_whats_the/j4r091e/,public,False,1673977299.0,t3_10egnrx,r/computerscience,1,0,5,True,10egnrx,,,,,,
+t5_2qj8o,False,text,0,False,j4s0ky1,0,False,True,False,1673990624.0,True,t3_10egnrx,1,t2_edj8hoy8,False,I don't know,0.0,t1_j4s0ky1,False,0,False,"<div class=""md""><p>I don&#39;t know</p>
+</div>",False,False,True,False,/r/computerscience/comments/10egnrx/what_does_tail_recursion_do_and_whats_the/j4s0ky1/,public,False,1673990624.0,t3_10egnrx,r/computerscience,0,0,1,True,10egnrx,,,,,,
+t5_2qj8o,False,text,0,False,j4qwtp5,0,False,False,False,1673976051.0,True,t1_j4qv77c,11,t2_3n4k202f,False,"Important note that in some languages there are no native iterative loops, so tail call optimization is necessary to reproduce their performance. This is common in functional languages.",0.0,t1_j4qwtp5,False,0,False,"<div class=""md""><p>Important note that in some languages there are no native iterative loops, so tail call optimization is necessary to reproduce their performance. This is common in functional languages.</p>
+</div>",False,False,True,False,/r/computerscience/comments/10egnrx/what_does_tail_recursion_do_and_whats_the/j4qwtp5/,public,False,1673976051.0,t3_10egnrx,r/computerscience,0,1,11,True,10egnrx,,,,,,
+t5_2qj8o,False,text,0,False,j4u2x8h,0,False,True,False,1674024300.0,True,t1_j4tpcyw,1,t2_45novliq,False,Can any recursive function be written as a tail recursion then?,0.0,t1_j4u2x8h,False,0,False,"<div class=""md""><p>Can any recursive function be written as a tail recursion then?</p>
+</div>",False,False,True,False,/r/computerscience/comments/10egnrx/what_does_tail_recursion_do_and_whats_the/j4u2x8h/,public,False,1674024300.0,t3_10egnrx,r/computerscience,0,1,1,True,10egnrx,,,,,,
+t5_2qj8o,False,text,0,False,j4rvkvx,0,False,False,False,1673988783.0,True,t1_j4r091e,9,t2_1s4o1o9m,False,"While I see your point, I do believe Reddit can be a much better place for amateur programmers to get a less technical, more practical explanation of a problem/concept. Different strokes for different folks.",0.0,t1_j4rvkvx,False,0,False,"<div class=""md""><p>While I see your point, I do believe Reddit can be a much better place for amateur programmers to get a less technical, more practical explanation of a problem/concept. Different strokes for different folks.</p>
+</div>",False,False,True,False,/r/computerscience/comments/10egnrx/what_does_tail_recursion_do_and_whats_the/j4rvkvx/,public,False,1673988783.0,t3_10egnrx,r/computerscience,0,1,9,True,10egnrx,,,,,,
+t5_2qj8o,False,text,0,False,j4u52ih,0,False,False,False,1674025842.0,True,t1_j4u2x8h,3,t2_2dmr4o3k,False,"Yes, because every recursive function can be written in an iterative style and you can translate any iterative function in a tail recursive style. 
+ Given a récursive (not tail) function :
+
+    RecF(input) {
+        if (!condition(input)) {
+            return init_value;
+        } 
+        let partial = RecF( f(input) );
+        return g(input, partial);
+    } 
+
+An iterarive version would be something like this (see the g' instead of g, because we may not combine results the same way). I also added a result function because `temp` can be more complex than just the result variable, it can hold useful temporary data. 
+
+    WhileF(input) {
+        let temp = init;
+        while (condition(input, temp)) {
+        {
+            temp = g'(input, temp);
+            input = f(input);
+        }
+        return result(input, temp);
+    } 
+
+ you can directly translate it to a tail rec version by putting the temporary variables in its parameters :
+
+    TailRecF(input, temp) {
+        if (!condition(input, temp)) {
+            return result(input, temp);
+        }
+        return TailRecF(f(input), g'(input, temp));
+    }
+
+Let's see what happens with factorial function:
+
+    FactorialRec(n) {
+        if (n <= 0) {
+            return 1;
+        } 
+        return n * FactorialRec(n-1);
+    } 
+ Transforms to:
+
+    WhileFactorial(n) {
+        let result = 1;
+        while (n > 0) {
+            result = result * n;
+            n = n-1
+        }
+        return result;
+    }
+
+We need a ""temporary variable"" result to hold the partial computation. For a tail recursive version this temporary variable will be in the parameters :
+
+    TailRecFactorial(n, result) {
+        if (n <= 0) {
+            return result;
+        }
+
+        return RecFactorial(n-1, result * n);
+    }
+
+Finaly, because ""result"" is not an input variable but a temporary with a well defined value at the start of the algorithm, we can hide this parameter (because we don't want people to change its starting value when calling the function) by using a wrapper function :
+
+    RecFactorialWrapper(n) {
+        return RecFactorial(n, 1);
+    }
+
+Generaly, your module should expose the wrapper and keep the tail recursive function private, and now you have a optimisable recursive function \^\^
+
+PS: some récursive functions need the call-stack because they use its behavior to store ""to compute next"" data. It is the case with algorithms like depth first search. The récursive version hides the need of a stack because it uses the call stack. For an iterative version (or tail récursive version also) you will need to explicitely use a stack datastructure to hold data
+
+PS2: of course functions can be more complex, with multiple récursive path, with  recursive calls inside loops (sometimes their number is not even known at compile time) but there is always a translation, as you can always use an explicit stack instead of the implicit call stack and explicitely push and pop your saved states into/from it.",1674030313.0,t1_j4u52ih,False,0,False,"<div class=""md""><p>Yes, because every recursive function can be written in an iterative style and you can translate any iterative function in a tail recursive style. 
+ Given a récursive (not tail) function :</p>
+
+<pre><code>RecF(input) {
+    if (!condition(input)) {
+        return init_value;
+    } 
+    let partial = RecF( f(input) );
+    return g(input, partial);
+} 
+</code></pre>
+
+<p>An iterarive version would be something like this (see the g&#39; instead of g, because we may not combine results the same way). I also added a result function because <code>temp</code> can be more complex than just the result variable, it can hold useful temporary data. </p>
+
+<pre><code>WhileF(input) {
+    let temp = init;
+    while (condition(input, temp)) {
+    {
+        temp = g&#39;(input, temp);
+        input = f(input);
+    }
+    return result(input, temp);
+} 
+</code></pre>
+
+<p>you can directly translate it to a tail rec version by putting the temporary variables in its parameters :</p>
+
+<pre><code>TailRecF(input, temp) {
+    if (!condition(input, temp)) {
+        return result(input, temp);
+    }
+    return TailRecF(f(input), g&#39;(input, temp));
+}
+</code></pre>
+
+<p>Let&#39;s see what happens with factorial function:</p>
+
+<pre><code>FactorialRec(n) {
+    if (n &lt;= 0) {
+        return 1;
+    } 
+    return n * FactorialRec(n-1);
+} 
+</code></pre>
+
+<p>Transforms to:</p>
+
+<pre><code>WhileFactorial(n) {
+    let result = 1;
+    while (n &gt; 0) {
+        result = result * n;
+        n = n-1
+    }
+    return result;
+}
+</code></pre>
+
+<p>We need a &quot;temporary variable&quot; result to hold the partial computation. For a tail recursive version this temporary variable will be in the parameters :</p>
+
+<pre><code>TailRecFactorial(n, result) {
+    if (n &lt;= 0) {
+        return result;
+    }
+
+    return RecFactorial(n-1, result * n);
+}
+</code></pre>
+
+<p>Finaly, because &quot;result&quot; is not an input variable but a temporary with a well defined value at the start of the algorithm, we can hide this parameter (because we don&#39;t want people to change its starting value when calling the function) by using a wrapper function :</p>
+
+<pre><code>RecFactorialWrapper(n) {
+    return RecFactorial(n, 1);
+}
+</code></pre>
+
+<p>Generaly, your module should expose the wrapper and keep the tail recursive function private, and now you have a optimisable recursive function ^^</p>
+
+<p>PS: some récursive functions need the call-stack because they use its behavior to store &quot;to compute next&quot; data. It is the case with algorithms like depth first search. The récursive version hides the need of a stack because it uses the call stack. For an iterative version (or tail récursive version also) you will need to explicitely use a stack datastructure to hold data</p>
+
+<p>PS2: of course functions can be more complex, with multiple récursive path, with  recursive calls inside loops (sometimes their number is not even known at compile time) but there is always a translation, as you can always use an explicit stack instead of the implicit call stack and explicitely push and pop your saved states into/from it.</p>
+</div>",False,False,True,False,/r/computerscience/comments/10egnrx/what_does_tail_recursion_do_and_whats_the/j4u52ih/,public,False,1674025842.0,t3_10egnrx,r/computerscience,0,2,3,True,10egnrx,,,,,,
+t5_2qj8o,False,text,0,False,j4u6geq,0,False,True,False,1674026878.0,True,t1_j4u2x8h,2,t2_3xouc9ik,False,"No, it is necessary that the result of the recursive call gets returned as-is and not passed into another function.
+
+The Wikipedia article is actually quite nice with a few references https://en.wikipedia.org/wiki/Tail_call",0.0,t1_j4u6geq,False,0,False,"<div class=""md""><p>No, it is necessary that the result of the recursive call gets returned as-is and not passed into another function.</p>
+
+<p>The Wikipedia article is actually quite nice with a few references <a href=""https://en.wikipedia.org/wiki/Tail_call"">https://en.wikipedia.org/wiki/Tail_call</a></p>
+</div>",False,False,True,False,/r/computerscience/comments/10egnrx/what_does_tail_recursion_do_and_whats_the/j4u6geq/,public,False,1674026878.0,t3_10egnrx,r/computerscience,0,2,2,True,10egnrx,,,,,,
+t5_2qj8o,False,,0,False,j4xc9le,0,False,True,False,1674081265.0,True,t1_j4rvkvx,1,,False,[removed],0.0,t1_j4xc9le,False,0,,"<div class=""md""><p>[removed]</p>
+</div>",False,,True,False,/r/computerscience/comments/10egnrx/what_does_tail_recursion_do_and_whats_the/j4xc9le/,public,False,1674081265.0,t3_10egnrx,r/computerscience,0,2,1,True,10egnrx,,,,dark,,
+t5_2qj8o,False,text,0,False,j5zh2f4,0,False,True,False,1674753648.0,True,t1_j4xc9le,1,t2_m9spqo6l,False,I really wish people would stop asking ChatGPT. It's almost always wrong about any details.,0.0,t1_j5zh2f4,False,0,False,"<div class=""md""><p>I really wish people would stop asking ChatGPT. It&#39;s almost always wrong about any details.</p>
+</div>",False,False,True,False,/r/computerscience/comments/10egnrx/what_does_tail_recursion_do_and_whats_the/j5zh2f4/,public,False,1674753648.0,t3_10egnrx,r/computerscience,0,3,1,True,10egnrx,,,,,,

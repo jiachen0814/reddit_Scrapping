@@ -1,0 +1,318 @@
+subreddit_id,author_is_blocked,author_flair_type,total_awards_received,saved,id,gilded,archived,no_follow,can_mod_post,created_utc,send_replies,parent_id,score,author_fullname,collapsed,body,edited,name,is_submitter,downs,author_patreon_flair,body_html,stickied,author_premium,can_gild,score_hidden,permalink,subreddit_type,locked,created,link_id,subreddit_name_prefixed,controversiality,depth,ups,_fetched,submission_id,author_flair_background_color,author_flair_text,author_flair_text_color,collapsed_reason,collapsed_reason_code,author_flair_template_id
+t5_2qhmr,False,text,0,False,iz4iewr,0,False,False,False,1670330044.0,True,t3_ze4umd,44,t2_wyb0b,False,I mean that works until you train & use a language model yourself. Then you’re back to zero traceability.,0.0,t1_iz4iewr,False,0,False,"<div class=""md""><p>I mean that works until you train &amp; use a language model yourself. Then you’re back to zero traceability.</p>
+</div>",False,False,True,False,/r/compsci/comments/ze4umd/we_need_search_capability_over_aigenerated_content/iz4iewr/,public,False,1670330044.0,t3_ze4umd,r/compsci,0,0,44,True,ze4umd,,,,,,
+t5_2qhmr,False,text,0,False,iz85hmk,0,False,False,False,1670386558.0,True,t3_ze4umd,10,t2_ds5wc,False,"Tracking all AI-generated content isn't really a battle you can win. The technology is not going to remain siloed in a few giant services run by giant companies, it's going to be increasingly available to everyone with a decent gaming PC.
+
+If what you really want to do isn't detecting AI-generated content but rather detecting *false information,* the only reliable way to do that is the same way we've had for thousands of years: Get yourself a good source of *true* information, and compare other information to it.",0.0,t1_iz85hmk,False,0,False,"<div class=""md""><p>Tracking all AI-generated content isn&#39;t really a battle you can win. The technology is not going to remain siloed in a few giant services run by giant companies, it&#39;s going to be increasingly available to everyone with a decent gaming PC.</p>
+
+<p>If what you really want to do isn&#39;t detecting AI-generated content but rather detecting <em>false information,</em> the only reliable way to do that is the same way we&#39;ve had for thousands of years: Get yourself a good source of <em>true</em> information, and compare other information to it.</p>
+</div>",False,False,True,False,/r/compsci/comments/ze4umd/we_need_search_capability_over_aigenerated_content/iz85hmk/,public,False,1670386558.0,t3_ze4umd,r/compsci,0,0,10,True,ze4umd,,,,,,
+t5_2qhmr,False,text,0,False,iz6sc7u,0,False,False,False,1670364216.0,True,t3_ze4umd,7,t2_5pyxk,False,"Let's say you have a function that will perfectly determine if something is AI generated or not. 
+
+If you then feed that function in as an input when training the next version of the model, you get a model that defeats that training. 
+
+It's an arms race, and it's not clear that it's possible to win. In fact, given how straightforward it is to train a model against such adversarial detection logic, I'm somewhat confident in saying it can't be won (by the side trying to detect generated content)",0.0,t1_iz6sc7u,False,0,False,"<div class=""md""><p>Let&#39;s say you have a function that will perfectly determine if something is AI generated or not. </p>
+
+<p>If you then feed that function in as an input when training the next version of the model, you get a model that defeats that training. </p>
+
+<p>It&#39;s an arms race, and it&#39;s not clear that it&#39;s possible to win. In fact, given how straightforward it is to train a model against such adversarial detection logic, I&#39;m somewhat confident in saying it can&#39;t be won (by the side trying to detect generated content)</p>
+</div>",False,False,True,False,/r/compsci/comments/ze4umd/we_need_search_capability_over_aigenerated_content/iz6sc7u/,public,False,1670364216.0,t3_ze4umd,r/compsci,0,0,7,True,ze4umd,,,,,,
+t5_2qhmr,False,text,0,False,iz4pt8d,0,False,False,False,1670334288.0,True,t3_ze4umd,26,t2_24aj1,False,"Thankfully, ChatGPT's default writing style is *really* formulaic and you get used to its vibe literally after just seeing a couple of outputs. I've already learned to just skip over any text that looks like it came directly from ChatGPT, because if someone just copypasted an output from the model directly, they probably didn't vet it for correctness.
+
+That said, that's just the default writing style, and it'll happily give you anything from Shakespearean sonnets or Saturday morning cartoon villain speeches if you just ask for it. So I can be fooled by people who put in five or so seconds or effort, but not by people who put in only three seconds of effort. On the Internet, in pure numeric terms, that does already protect you from a lot of attacks.",0.0,t1_iz4pt8d,False,0,False,"<div class=""md""><p>Thankfully, ChatGPT&#39;s default writing style is <em>really</em> formulaic and you get used to its vibe literally after just seeing a couple of outputs. I&#39;ve already learned to just skip over any text that looks like it came directly from ChatGPT, because if someone just copypasted an output from the model directly, they probably didn&#39;t vet it for correctness.</p>
+
+<p>That said, that&#39;s just the default writing style, and it&#39;ll happily give you anything from Shakespearean sonnets or Saturday morning cartoon villain speeches if you just ask for it. So I can be fooled by people who put in five or so seconds or effort, but not by people who put in only three seconds of effort. On the Internet, in pure numeric terms, that does already protect you from a lot of attacks.</p>
+</div>",False,False,True,False,/r/compsci/comments/ze4umd/we_need_search_capability_over_aigenerated_content/iz4pt8d/,public,False,1670334288.0,t3_ze4umd,r/compsci,0,0,26,True,ze4umd,,,,,,
+t5_2qhmr,False,text,0,False,iz8b545,0,False,False,False,1670389739.0,True,t3_ze4umd,5,t2_26518kyj,False,"You’ve started with the premise that AI-generate content is sometimes false and then concluded that we should therefore try to detect AI-generated content.  But the exact same can be said for human-generated content, and in fact that can sometimes (often?) be intentionally false.  Likewise, you stated yourself that AI-generated content can often be true.
+
+It seems to me that if your goal is to detect “truthiness” then detecting if something is AI-generated or not isn’t really helpful.  I would think that instead you would want to establish some sort of chain of trust for whatever you are evaluating to see if that information can be traced back to trusted sources.  Who cares if that information was AI- or human-generated if we have some way of deciding whether or not it is believable?
+
+Maybe you could design an AI to help do that!",0.0,t1_iz8b545,False,0,False,"<div class=""md""><p>You’ve started with the premise that AI-generate content is sometimes false and then concluded that we should therefore try to detect AI-generated content.  But the exact same can be said for human-generated content, and in fact that can sometimes (often?) be intentionally false.  Likewise, you stated yourself that AI-generated content can often be true.</p>
+
+<p>It seems to me that if your goal is to detect “truthiness” then detecting if something is AI-generated or not isn’t really helpful.  I would think that instead you would want to establish some sort of chain of trust for whatever you are evaluating to see if that information can be traced back to trusted sources.  Who cares if that information was AI- or human-generated if we have some way of deciding whether or not it is believable?</p>
+
+<p>Maybe you could design an AI to help do that!</p>
+</div>",False,False,True,False,/r/compsci/comments/ze4umd/we_need_search_capability_over_aigenerated_content/iz8b545/,public,False,1670389739.0,t3_ze4umd,r/compsci,0,0,5,True,ze4umd,,,,,,
+t5_2qhmr,False,text,0,False,iz7vnw7,0,False,False,False,1670381671.0,True,t3_ze4umd,5,t2_4bph0yef,False,"It's a highly nuanced arms race. How much computational power do you want to throw at it? For most content the need to detect is less than the cost incurred. For some content, those impacted by it will pay a high price to detect derivatives. But don't doubt the ability of a highly motivated actor to make things undetectable. Image and video are easy to launder.  Text... It's gonna be so perfect we'll not be able to tell.",0.0,t1_iz7vnw7,False,0,False,"<div class=""md""><p>It&#39;s a highly nuanced arms race. How much computational power do you want to throw at it? For most content the need to detect is less than the cost incurred. For some content, those impacted by it will pay a high price to detect derivatives. But don&#39;t doubt the ability of a highly motivated actor to make things undetectable. Image and video are easy to launder.  Text... It&#39;s gonna be so perfect we&#39;ll not be able to tell.</p>
+</div>",False,False,True,False,/r/compsci/comments/ze4umd/we_need_search_capability_over_aigenerated_content/iz7vnw7/,public,False,1670381671.0,t3_ze4umd,r/compsci,0,0,5,True,ze4umd,,,,,,
+t5_2qhmr,False,text,0,False,iz6r5db,0,False,False,False,1670363731.0,True,t3_ze4umd,5,t2_7hl59t9j,False,"With my little interactions with AI-generated content, I think having a way to search and possibly see it's early output is important.
+
+AI-generated content feels more like garbage-in garbage-out, that's done in a more clever way, and a lot of this content may not really be credible especially since the content comes from the internet.
+
+Seeing previous output can help the user see the AI progress.",0.0,t1_iz6r5db,False,0,False,"<div class=""md""><p>With my little interactions with AI-generated content, I think having a way to search and possibly see it&#39;s early output is important.</p>
+
+<p>AI-generated content feels more like garbage-in garbage-out, that&#39;s done in a more clever way, and a lot of this content may not really be credible especially since the content comes from the internet.</p>
+
+<p>Seeing previous output can help the user see the AI progress.</p>
+</div>",False,False,True,False,/r/compsci/comments/ze4umd/we_need_search_capability_over_aigenerated_content/iz6r5db/,public,False,1670363731.0,t3_ze4umd,r/compsci,0,0,5,True,ze4umd,,,,,,
+t5_2qhmr,False,richtext,0,False,iz8hvh1,0,False,True,False,1670394136.0,True,t3_ze4umd,1,t2_6h2lc,False,Ask and ye shall receive https://lexica.art/,0.0,t1_iz8hvh1,False,0,False,"<div class=""md""><p>Ask and ye shall receive <a href=""https://lexica.art/"">https://lexica.art/</a></p>
+</div>",False,False,True,False,/r/compsci/comments/ze4umd/we_need_search_capability_over_aigenerated_content/iz8hvh1/,public,False,1670394136.0,t3_ze4umd,r/compsci,0,0,1,True,ze4umd,,PhD Student | Computer Graphics,dark,,,
+t5_2qhmr,False,text,0,False,iz4j783,0,False,False,False,1670330532.0,True,t1_iz4iewr,5,t2_vfccj8,False,"Yes indeed, but most users are lazy so it will probably catch the majority. Myself I think people should use the tool but honestly assume they used. As we do when writing and citing sources.",0.0,t1_iz4j783,True,0,False,"<div class=""md""><p>Yes indeed, but most users are lazy so it will probably catch the majority. Myself I think people should use the tool but honestly assume they used. As we do when writing and citing sources.</p>
+</div>",False,False,True,False,/r/compsci/comments/ze4umd/we_need_search_capability_over_aigenerated_content/iz4j783/,public,False,1670330532.0,t3_ze4umd,r/compsci,0,1,5,True,ze4umd,,,,,,
+t5_2qhmr,False,text,0,False,iz7d0ux,0,False,True,False,1670373118.0,True,t1_iz4iewr,0,t2_38ccrnim,False,That's gonna cost a whole lot of money. I feel like OP's solution is very much in line with OpenAI's stated values.,0.0,t1_iz7d0ux,False,0,False,"<div class=""md""><p>That&#39;s gonna cost a whole lot of money. I feel like OP&#39;s solution is very much in line with OpenAI&#39;s stated values.</p>
+</div>",False,False,True,False,/r/compsci/comments/ze4umd/we_need_search_capability_over_aigenerated_content/iz7d0ux/,public,False,1670373118.0,t3_ze4umd,r/compsci,0,1,0,True,ze4umd,,,,,,
+t5_2qhmr,False,text,0,False,iz8nsq6,0,False,True,False,1670398651.0,True,t1_iz6sc7u,2,t2_2x2bjt2s,False,"Right, that’s the essence of GANs. I think then that the more pressing point that OP mentions is to validate or ensure truthful outputs.",0.0,t1_iz8nsq6,False,0,False,"<div class=""md""><p>Right, that’s the essence of GANs. I think then that the more pressing point that OP mentions is to validate or ensure truthful outputs.</p>
+</div>",False,False,True,False,/r/compsci/comments/ze4umd/we_need_search_capability_over_aigenerated_content/iz8nsq6/,public,False,1670398651.0,t3_ze4umd,r/compsci,0,1,2,True,ze4umd,,,,,,
+t5_2qhmr,False,text,1,False,iz5kj6q,0,False,False,False,1670347427.0,True,t1_iz4pt8d,23,t2_kwupl,False,^ sus,0.0,t1_iz5kj6q,False,0,False,"<div class=""md""><p>^ sus</p>
+</div>",False,False,True,False,/r/compsci/comments/ze4umd/we_need_search_capability_over_aigenerated_content/iz5kj6q/,public,False,1670347427.0,t3_ze4umd,r/compsci,0,1,23,True,ze4umd,,,,,,
+t5_2qhmr,False,text,0,False,iz8tmpx,0,False,False,False,1670403693.0,True,t1_iz4pt8d,5,t2_fn63su6,False,"Yeah I've been having some luck by priming the conversation with something along the lines of; ""Today we are going to be responding to Reddit comments. You should respond to me in a short, somewhat condescending style, reminiscent of reddit internet culture. It's OK to make spelling or grammatical mistakes""",0.0,t1_iz8tmpx,False,0,False,"<div class=""md""><p>Yeah I&#39;ve been having some luck by priming the conversation with something along the lines of; &quot;Today we are going to be responding to Reddit comments. You should respond to me in a short, somewhat condescending style, reminiscent of reddit internet culture. It&#39;s OK to make spelling or grammatical mistakes&quot;</p>
+</div>",False,False,True,False,/r/compsci/comments/ze4umd/we_need_search_capability_over_aigenerated_content/iz8tmpx/,public,False,1670403693.0,t3_ze4umd,r/compsci,0,1,5,True,ze4umd,,,,,,
+t5_2qhmr,False,text,0,False,iz4jeze,0,False,False,False,1670330666.0,True,t1_iz4j783,34,t2_wyb0b,False,"Casual users aren’t who you need to be worried about. It’s state actors or highly knowledgeable individuals who have the capability to do this kind of work.
+
+That’s the real threat. And there’s no searching *their* archives.",0.0,t1_iz4jeze,False,0,False,"<div class=""md""><p>Casual users aren’t who you need to be worried about. It’s state actors or highly knowledgeable individuals who have the capability to do this kind of work.</p>
+
+<p>That’s the real threat. And there’s no searching <em>their</em> archives.</p>
+</div>",False,False,True,False,/r/compsci/comments/ze4umd/we_need_search_capability_over_aigenerated_content/iz4jeze/,public,False,1670330666.0,t3_ze4umd,r/compsci,0,2,34,True,ze4umd,,,,,,
+t5_2qhmr,False,text,0,False,iz7lbju,0,False,True,False,1670376918.0,True,t1_iz7d0ux,2,t2_wyb0b,False,That isn’t really a problem for state actors.,0.0,t1_iz7lbju,False,0,False,"<div class=""md""><p>That isn’t really a problem for state actors.</p>
+</div>",False,False,True,False,/r/compsci/comments/ze4umd/we_need_search_capability_over_aigenerated_content/iz7lbju/,public,False,1670376918.0,t3_ze4umd,r/compsci,0,2,2,True,ze4umd,,,,,,
+t5_2qhmr,False,text,0,False,j9wepzx,0,False,True,False,1677287434.0,True,t1_iz7d0ux,1,t2_t01yxrq7,False,"yeah, it'll definitely be expensive but sounds like the right thing to do. openai's values are definitely worth supporting.",0.0,t1_j9wepzx,False,0,False,"<div class=""md""><p>yeah, it&#39;ll definitely be expensive but sounds like the right thing to do. openai&#39;s values are definitely worth supporting.</p>
+</div>",False,True,True,False,/r/compsci/comments/ze4umd/we_need_search_capability_over_aigenerated_content/j9wepzx/,public,False,1677287434.0,t3_ze4umd,r/compsci,0,2,1,True,ze4umd,,,,,,
+t5_2qhmr,False,text,0,False,iz4jpqv,0,False,False,False,1670330848.0,True,t1_iz4jeze,7,t2_vfccj8,False,Right,0.0,t1_iz4jpqv,True,0,False,"<div class=""md""><p>Right</p>
+</div>",False,False,True,False,/r/compsci/comments/ze4umd/we_need_search_capability_over_aigenerated_content/iz4jpqv/,public,False,1670330848.0,t3_ze4umd,r/compsci,0,3,7,True,ze4umd,,,,,,
+t5_2qhmr,False,text,0,False,iz8yoj4,0,False,True,False,1670408320.0,True,t1_iz7lbju,0,t2_38ccrnim,False,"True, but don't let perfect be the enemy of the good. I do not believe state actors are trashing Stack Overflow. It's people who care too much about reputation points. 
+Another problem that it would solve is ""plagiarism"" in academia.",0.0,t1_iz8yoj4,False,0,False,"<div class=""md""><p>True, but don&#39;t let perfect be the enemy of the good. I do not believe state actors are trashing Stack Overflow. It&#39;s people who care too much about reputation points. 
+Another problem that it would solve is &quot;plagiarism&quot; in academia.</p>
+</div>",False,False,True,False,/r/compsci/comments/ze4umd/we_need_search_capability_over_aigenerated_content/iz8yoj4/,public,False,1670408320.0,t3_ze4umd,r/compsci,0,3,0,True,ze4umd,,,,,,
+t5_2qhmr,False,text,0,False,iz8yv1z,0,False,True,False,1670408481.0,True,t1_iz7lbju,0,t2_38ccrnim,False,Also I can't really think of ways state actors could abuse large language models. CMV?,0.0,t1_iz8yv1z,False,0,False,"<div class=""md""><p>Also I can&#39;t really think of ways state actors could abuse large language models. CMV?</p>
+</div>",False,False,True,False,/r/compsci/comments/ze4umd/we_need_search_capability_over_aigenerated_content/iz8yv1z/,public,False,1670408481.0,t3_ze4umd,r/compsci,0,3,0,True,ze4umd,,,,,,
+t5_2qhmr,False,text,0,False,iz960t1,0,False,True,False,1670414315.0,True,t1_iz8yv1z,1,t2_wyb0b,False,"You really can’t think of a single way that a state actor could abuse a language model for their own ends? Not a *single* way?
+
+Fucking with StackOverflow is annoying, but no state actor really gives a shit about an internet community for programmers.",1670414645.0,t1_iz960t1,False,0,False,"<div class=""md""><p>You really can’t think of a single way that a state actor could abuse a language model for their own ends? Not a <em>single</em> way?</p>
+
+<p>Fucking with StackOverflow is annoying, but no state actor really gives a shit about an internet community for programmers.</p>
+</div>",False,False,True,False,/r/compsci/comments/ze4umd/we_need_search_capability_over_aigenerated_content/iz960t1/,public,False,1670414315.0,t3_ze4umd,r/compsci,0,4,1,True,ze4umd,,,,,,
+t5_2qhmr,False,text,0,False,iz9yb66,0,False,True,False,1670428372.0,True,t1_iz960t1,3,t2_38ccrnim,False,"That was a question, not an argument. I'm trying to think of ways, but everything I can come up with is easier with just DDOSing or actual human writers. What were you thinking of?",0.0,t1_iz9yb66,False,0,False,"<div class=""md""><p>That was a question, not an argument. I&#39;m trying to think of ways, but everything I can come up with is easier with just DDOSing or actual human writers. What were you thinking of?</p>
+</div>",False,False,True,False,/r/compsci/comments/ze4umd/we_need_search_capability_over_aigenerated_content/iz9yb66/,public,False,1670428372.0,t3_ze4umd,r/compsci,0,5,3,True,ze4umd,,,,,,
+t5_2qhmr,False,text,0,False,izacdjb,0,False,True,False,1670433989.0,True,t1_iz9yb66,2,t2_wyb0b,False,Disinformation,0.0,t1_izacdjb,False,0,False,"<div class=""md""><p>Disinformation</p>
+</div>",False,False,True,False,/r/compsci/comments/ze4umd/we_need_search_capability_over_aigenerated_content/izacdjb/,public,False,1670433989.0,t3_ze4umd,r/compsci,0,6,2,True,ze4umd,,,,,,
+t5_2qhmr,False,text,0,False,j6i301n,0,False,False,False,1675088353.0,True,t3_10osvvj,24,t2_3az3z,False,Can someone ELIundergrad?,0.0,t1_j6i301n,False,0,False,"<div class=""md""><p>Can someone ELIundergrad?</p>
+</div>",False,False,True,False,/r/compsci/comments/10osvvj/normalization_for_multimodal_type_theory_we_prove/j6i301n/,public,False,1675088353.0,t3_10osvvj,r/compsci,0,0,24,True,10osvvj,,,,,,
+t5_2qhmr,False,text,0,False,j6id0p8,0,False,False,False,1675092645.0,True,t3_10osvvj,13,t2_3i2ku969,False,I'm guessing 95% of the people who upvoted this have absolutely no idea what any of this means. Just that collection of big words + prove = good.,0.0,t1_j6id0p8,False,0,False,"<div class=""md""><p>I&#39;m guessing 95% of the people who upvoted this have absolutely no idea what any of this means. Just that collection of big words + prove = good.</p>
+</div>",False,False,True,False,/r/compsci/comments/10osvvj/normalization_for_multimodal_type_theory_we_prove/j6id0p8/,public,False,1675092645.0,t3_10osvvj,r/compsci,0,0,13,True,10osvvj,,,,,,
+t5_2qhmr,False,text,0,False,j6gokat,0,False,False,False,1675053567.0,True,t3_10osvvj,8,t2_3tmsj,False,"Full abstract:
+
+> We prove normalization for MTT, a general multimodal dependent type theory capable of expressing modal type theories for guarded recursion, internalized parametricity, and various other prototypical modal situations. We prove that deciding type checking and conversion in MTT can be reduced to deciding the equality of modalities in the underlying modal situation, immediately yielding a type checking algorithm for all instantiations of MTT in the literature.
+>
+> This proof uses a generalization of synthetic Tait computability -- an abstract approach to gluing proofs -- to account for modalities. This extension is based on MTT itself, so that this proof also constitutes a significant case study of MTT.",0.0,t1_j6gokat,True,0,False,"<div class=""md""><p>Full abstract:</p>
+
+<blockquote>
+<p>We prove normalization for MTT, a general multimodal dependent type theory capable of expressing modal type theories for guarded recursion, internalized parametricity, and various other prototypical modal situations. We prove that deciding type checking and conversion in MTT can be reduced to deciding the equality of modalities in the underlying modal situation, immediately yielding a type checking algorithm for all instantiations of MTT in the literature.</p>
+
+<p>This proof uses a generalization of synthetic Tait computability -- an abstract approach to gluing proofs -- to account for modalities. This extension is based on MTT itself, so that this proof also constitutes a significant case study of MTT.</p>
+</blockquote>
+</div>",False,True,True,False,/r/compsci/comments/10osvvj/normalization_for_multimodal_type_theory_we_prove/j6gokat/,public,False,1675053567.0,t3_10osvvj,r/compsci,0,0,8,True,10osvvj,,,,,,
+t5_2qhmr,False,text,0,False,j6kd6tf,0,False,False,False,1675119915.0,True,t3_10osvvj,5,t2_32k7dyu,False,"It would take me months to make it through this paper, and I have a pretty heavy math and comp sci background. On the face of it, looks like they’ve proved that a certain type theory (MTT) is “complete” and are working on creating syntax for it. 
+
+
+IOW, they think they’ve found a better type system, and they’re creating a language for it. I’m probably WAY off base, but this is my best guess. Although it seems to me that they just re-invented explicit interface implementation so that an object acts differently depending upon what interface you’re using for it.",0.0,t1_j6kd6tf,False,0,False,"<div class=""md""><p>It would take me months to make it through this paper, and I have a pretty heavy math and comp sci background. On the face of it, looks like they’ve proved that a certain type theory (MTT) is “complete” and are working on creating syntax for it. </p>
+
+<p>IOW, they think they’ve found a better type system, and they’re creating a language for it. I’m probably WAY off base, but this is my best guess. Although it seems to me that they just re-invented explicit interface implementation so that an object acts differently depending upon what interface you’re using for it.</p>
+</div>",False,False,True,False,/r/compsci/comments/10osvvj/normalization_for_multimodal_type_theory_we_prove/j6kd6tf/,public,False,1675119915.0,t3_10osvvj,r/compsci,0,0,5,True,10osvvj,,,,,,
+t5_2qhmr,False,text,0,False,j6j2qgy,0,False,False,False,1675102469.0,True,t3_10osvvj,5,t2_991fkj7j,False,"I thought i was pretty smart until i read This, thanks",0.0,t1_j6j2qgy,False,0,False,"<div class=""md""><p>I thought i was pretty smart until i read This, thanks</p>
+</div>",False,False,True,False,/r/compsci/comments/10osvvj/normalization_for_multimodal_type_theory_we_prove/j6j2qgy/,public,False,1675102469.0,t3_10osvvj,r/compsci,0,0,5,True,10osvvj,,,,,,
+t5_2qhmr,False,text,0,False,j6qbtg6,0,False,True,False,1675221661.0,True,t3_10osvvj,0,t2_aonc19cm,False,"“Unity to be real must stand the severest strain without breaking.” – Mahatma Gandhi
+
+Edit: sorry if this looked like spam - I was commenting on the content of the paper.",1675261570.0,t1_j6qbtg6,False,0,False,"<div class=""md""><p>“Unity to be real must stand the severest strain without breaking.” – Mahatma Gandhi</p>
+
+<p>Edit: sorry if this looked like spam - I was commenting on the content of the paper.</p>
+</div>",False,False,True,False,/r/compsci/comments/10osvvj/normalization_for_multimodal_type_theory_we_prove/j6qbtg6/,public,False,1675221661.0,t3_10osvvj,r/compsci,0,0,0,True,10osvvj,,,,,,
+t5_2qhmr,False,text,0,False,j8tjxlr,0,False,True,False,1676582043.0,True,t1_j6i301n,1,t2_60iya2rz,False,"I'm not a true expert by any means, but I'll try give a shot at a layman's explanation, starting from basics.
+
+First, let's review type theory:
+
+First off, any result in type theory is extremely important for both mathematics and computer science. While y'all probably know of [set theory](https://en.wikipedia.org/wiki/Set_theory) from your discrete math classes, [type theory](https://en.wikipedia.org/wiki/Type_theory) currently competes with set theory to form the underpinnings of the foundation of mathematics (e.g. a certain kind of type theory called ""[Calculus of Constructions](https://en.wikipedia.org/wiki/Calculus_of_constructions)"" is the logical system that some modern proof assistant programs like Coq are based around).
+
+Type theory is also deeply connected to the [Church-Howard isomorphism](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence) (""every CS concept has a Math analogue, and vice versa""), especially because the ""functional-programming"" counterpart of the Turing machine -- Alonzo Church's [lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus) (read: basically, ""mathematical LISP"") -- is paired with type theory to form the theory behind basically ALL typed programming languages (the type systems of most, if not all, programming languages basically fall underneath this ""[lambda cube](https://en.wikipedia.org/wiki/Lambda_cube)"" classification model for type theories).
+
+\---
+
+Next, you need to cover modal logic:
+
+Now, both set theory, type theory, and etc. are systems to typically encode [classical logic](https://en.wikipedia.org/wiki/Classical_logic) (propositions, quantifiers, proofs, and truth values) or [constructive/intuitionistic logic](https://en.wikipedia.org/wiki/Intuitionistic_logic) (basically classical logic without proof by contradiction). However, [modal logic](https://en.wikipedia.org/wiki/Modal_logic) adds MORE (that is, modal) quantifiers like ""possibly P"" or ""necessarily P"" in order to talk about the conditional or relative truth of statements. In other words, it's like a ""logic generic over some other 'system of conditions'"" -- one application is in [temporal logic](https://en.wikipedia.org/wiki/Temporal_logic), where you can model concurrent programs and programs over time, and prove stuff about them -- here, 'system of conditions == time'.
+
+But what about multimodal logic?
+
+[Multimodal logic](https://en.wikipedia.org/wiki/Multimodal_logic) adds tuples of pairs of ""possibly/necessarily"" quantifiers, all of which can be considered ""independent"" from one another -- it's like a logic with ""generic parameters"" at a systematic level.
+
+One application of multimodal logic is to model mathematical ""belief/knowledge"" systems relative to each other. [Stanford has some good discussion on this from a philosophical point of view.](https://plato.stanford.edu/entries/phil-multimodallogic/#NecePoss) But basically, multimodal logic is basically a ""super logic"" that can be used to model different types of modal and non-modal logics.
+
+\---
+
+Okay, now let's put this all together:
+
+**Multimodal type theory** is type theory with different multiple modal quantifiers, or ""outside conditional systems intersected with it"". This is already relevant to our current functional programming languages -- [algebraic effect systems](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/algeff-tr-2016-v3.pdf) to model ""stateful effects"" like I/O in languages like Haskell is basically the same as [modal type theory](https://arxiv.org/abs/2103.02976).
+
+(You can think of ""modal type theory"" as the theory behind how to precisely model state/effects within functional programs -- we currently don't really do this *that well* in current modern programming languages -- you don't normally capture all the external effects your program does at a type level, you just sort of keep that in mind with your own mental context.)
+
+In type theory and proof theory, **decidability** (or the ability to computationally solve a problem *eventually*) is kind of a crap shoot -- you can't compute logical problems in some systems due to infinite loops or contradictions, etc. So it's important to verify that you *can* solve logical problems given a certain system.
+
+**Here, Daniel and co. basically have proved that multimodal type system expressions can always have a ""normal"" or ""final"" form, and it can always be computed.**
+
+This is a win for the future of functional languages, verifying the correctness of programs, and philosophy. In the future, you may be able to model different type systems (read: programming languages), programs/proofs in those languages, and how they interact with each other by changing different types of external state conditions. This means that we should be able to create a very powerful functional/modeling language and a program to solve problems with it, dealing with problems that change with respect to the actors or environments involved.",0.0,t1_j8tjxlr,False,0,False,"<div class=""md""><p>I&#39;m not a true expert by any means, but I&#39;ll try give a shot at a layman&#39;s explanation, starting from basics.</p>
+
+<p>First, let&#39;s review type theory:</p>
+
+<p>First off, any result in type theory is extremely important for both mathematics and computer science. While y&#39;all probably know of <a href=""https://en.wikipedia.org/wiki/Set_theory"">set theory</a> from your discrete math classes, <a href=""https://en.wikipedia.org/wiki/Type_theory"">type theory</a> currently competes with set theory to form the underpinnings of the foundation of mathematics (e.g. a certain kind of type theory called &quot;<a href=""https://en.wikipedia.org/wiki/Calculus_of_constructions"">Calculus of Constructions</a>&quot; is the logical system that some modern proof assistant programs like Coq are based around).</p>
+
+<p>Type theory is also deeply connected to the <a href=""https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence"">Church-Howard isomorphism</a> (&quot;every CS concept has a Math analogue, and vice versa&quot;), especially because the &quot;functional-programming&quot; counterpart of the Turing machine -- Alonzo Church&#39;s <a href=""https://en.wikipedia.org/wiki/Lambda_calculus"">lambda calculus</a> (read: basically, &quot;mathematical LISP&quot;) -- is paired with type theory to form the theory behind basically ALL typed programming languages (the type systems of most, if not all, programming languages basically fall underneath this &quot;<a href=""https://en.wikipedia.org/wiki/Lambda_cube"">lambda cube</a>&quot; classification model for type theories).</p>
+
+<p>---</p>
+
+<p>Next, you need to cover modal logic:</p>
+
+<p>Now, both set theory, type theory, and etc. are systems to typically encode <a href=""https://en.wikipedia.org/wiki/Classical_logic"">classical logic</a> (propositions, quantifiers, proofs, and truth values) or <a href=""https://en.wikipedia.org/wiki/Intuitionistic_logic"">constructive/intuitionistic logic</a> (basically classical logic without proof by contradiction). However, <a href=""https://en.wikipedia.org/wiki/Modal_logic"">modal logic</a> adds MORE (that is, modal) quantifiers like &quot;possibly P&quot; or &quot;necessarily P&quot; in order to talk about the conditional or relative truth of statements. In other words, it&#39;s like a &quot;logic generic over some other &#39;system of conditions&#39;&quot; -- one application is in <a href=""https://en.wikipedia.org/wiki/Temporal_logic"">temporal logic</a>, where you can model concurrent programs and programs over time, and prove stuff about them -- here, &#39;system of conditions == time&#39;.</p>
+
+<p>But what about multimodal logic?</p>
+
+<p><a href=""https://en.wikipedia.org/wiki/Multimodal_logic"">Multimodal logic</a> adds tuples of pairs of &quot;possibly/necessarily&quot; quantifiers, all of which can be considered &quot;independent&quot; from one another -- it&#39;s like a logic with &quot;generic parameters&quot; at a systematic level.</p>
+
+<p>One application of multimodal logic is to model mathematical &quot;belief/knowledge&quot; systems relative to each other. <a href=""https://plato.stanford.edu/entries/phil-multimodallogic/#NecePoss"">Stanford has some good discussion on this from a philosophical point of view.</a> But basically, multimodal logic is basically a &quot;super logic&quot; that can be used to model different types of modal and non-modal logics.</p>
+
+<p>---</p>
+
+<p>Okay, now let&#39;s put this all together:</p>
+
+<p><strong>Multimodal type theory</strong> is type theory with different multiple modal quantifiers, or &quot;outside conditional systems intersected with it&quot;. This is already relevant to our current functional programming languages -- <a href=""https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/algeff-tr-2016-v3.pdf"">algebraic effect systems</a> to model &quot;stateful effects&quot; like I/O in languages like Haskell is basically the same as <a href=""https://arxiv.org/abs/2103.02976"">modal type theory</a>.</p>
+
+<p>(You can think of &quot;modal type theory&quot; as the theory behind how to precisely model state/effects within functional programs -- we currently don&#39;t really do this <em>that well</em> in current modern programming languages -- you don&#39;t normally capture all the external effects your program does at a type level, you just sort of keep that in mind with your own mental context.)</p>
+
+<p>In type theory and proof theory, <strong>decidability</strong> (or the ability to computationally solve a problem <em>eventually</em>) is kind of a crap shoot -- you can&#39;t compute logical problems in some systems due to infinite loops or contradictions, etc. So it&#39;s important to verify that you <em>can</em> solve logical problems given a certain system.</p>
+
+<p><strong>Here, Daniel and co. basically have proved that multimodal type system expressions can always have a &quot;normal&quot; or &quot;final&quot; form, and it can always be computed.</strong></p>
+
+<p>This is a win for the future of functional languages, verifying the correctness of programs, and philosophy. In the future, you may be able to model different type systems (read: programming languages), programs/proofs in those languages, and how they interact with each other by changing different types of external state conditions. This means that we should be able to create a very powerful functional/modeling language and a program to solve problems with it, dealing with problems that change with respect to the actors or environments involved.</p>
+</div>",False,False,True,False,/r/compsci/comments/10osvvj/normalization_for_multimodal_type_theory_we_prove/j8tjxlr/,public,False,1676582043.0,t3_10osvvj,r/compsci,0,1,1,True,10osvvj,,,,,,
+t5_2qhmr,False,text,0,False,j6ikrou,0,False,False,False,1675095701.0,True,t1_j6id0p8,12,t2_e757sg,False,"On the enscription of thought-patterns in language. ""BluRaz has theorized of the mostly conclusive proof that the participants of a particular computer science community affirmatively interacting with a labeling sentence is in part due to the aforementioned sentence containing a collection of complex words as well as the word `proof`"" [abstract + link to PDF [available](https://youtu.be/aYsgsSo1aow)]",0.0,t1_j6ikrou,False,0,False,"<div class=""md""><p>On the enscription of thought-patterns in language. &quot;BluRaz has theorized of the mostly conclusive proof that the participants of a particular computer science community affirmatively interacting with a labeling sentence is in part due to the aforementioned sentence containing a collection of complex words as well as the word <code>proof</code>&quot; [abstract + link to PDF <a href=""https://youtu.be/aYsgsSo1aow"">available</a>]</p>
+</div>",False,False,True,False,/r/compsci/comments/10osvvj/normalization_for_multimodal_type_theory_we_prove/j6ikrou/,public,False,1675095701.0,t3_10osvvj,r/compsci,0,1,12,True,10osvvj,,,,,,
+t5_2qhmr,False,text,0,False,j6oc8oc,0,False,True,False,1675192844.0,True,t1_j6id0p8,1,t2_62nu4,False,should I change heuristics ?,0.0,t1_j6oc8oc,False,0,False,"<div class=""md""><p>should I change heuristics ?</p>
+</div>",False,False,True,False,/r/compsci/comments/10osvvj/normalization_for_multimodal_type_theory_we_prove/j6oc8oc/,public,False,1675192844.0,t3_10osvvj,r/compsci,0,1,1,True,10osvvj,,,,,,
+t5_2qhmr,False,text,0,False,j6hd1u5,0,False,False,False,1675071198.0,True,t1_j6gokat,4,t2_nsep1,False,u/DonaldPShimoda is probably the only guy in this sub that can understand this paper.,0.0,t1_j6hd1u5,False,0,False,"<div class=""md""><p><a href=""/u/DonaldPShimoda"">u/DonaldPShimoda</a> is probably the only guy in this sub that can understand this paper.</p>
+</div>",False,False,True,False,/r/compsci/comments/10osvvj/normalization_for_multimodal_type_theory_we_prove/j6hd1u5/,public,False,1675071198.0,t3_10osvvj,r/compsci,0,1,4,True,10osvvj,,,,,,
+t5_2qhmr,False,text,0,False,j6kuzbm,0,False,True,False,1675127496.0,True,t1_j6kd6tf,2,t2_pj954,False,"> It would take me months to make it through this paper, and I have a pretty heavy math and comp sci background. On the face of it, looks like they’ve proved that a certain type theory (MTT) is “complete” and are working on creating syntax for it.
+
+ELIU plz ?",0.0,t1_j6kuzbm,False,0,False,"<div class=""md""><blockquote>
+<p>It would take me months to make it through this paper, and I have a pretty heavy math and comp sci background. On the face of it, looks like they’ve proved that a certain type theory (MTT) is “complete” and are working on creating syntax for it.</p>
+</blockquote>
+
+<p>ELIU plz ?</p>
+</div>",False,False,True,False,/r/compsci/comments/10osvvj/normalization_for_multimodal_type_theory_we_prove/j6kuzbm/,public,False,1675127496.0,t3_10osvvj,r/compsci,0,1,2,True,10osvvj,,,,,,
+t5_2qhmr,False,text,0,False,j6iotb4,0,False,True,False,1675097262.0,True,t1_j6ikrou,2,t2_3i2ku969,False,Haha good one.,0.0,t1_j6iotb4,False,0,False,"<div class=""md""><p>Haha good one.</p>
+</div>",False,False,True,False,/r/compsci/comments/10osvvj/normalization_for_multimodal_type_theory_we_prove/j6iotb4/,public,False,1675097262.0,t3_10osvvj,r/compsci,0,2,2,True,10osvvj,,,,,,
+t5_2qhmr,False,text,0,False,j6jthip,0,False,True,False,1675112392.0,True,t1_j6ikrou,1,t2_47yde,False,nice!,0.0,t1_j6jthip,False,0,False,"<div class=""md""><p>nice!</p>
+</div>",False,False,True,False,/r/compsci/comments/10osvvj/normalization_for_multimodal_type_theory_we_prove/j6jthip/,public,False,1675112392.0,t3_10osvvj,r/compsci,0,2,1,True,10osvvj,,,,,,
+t5_2qhmr,False,text,0,False,j6hspww,0,False,True,False,1675083033.0,True,t1_j6hd1u5,-15,t2_102v1rq3,True,Copy paste it into ChatGPT. It can probably summarise and explain it to you.,0.0,t1_j6hspww,False,0,False,"<div class=""md""><p>Copy paste it into ChatGPT. It can probably summarise and explain it to you.</p>
+</div>",False,False,True,False,/r/compsci/comments/10osvvj/normalization_for_multimodal_type_theory_we_prove/j6hspww/,public,False,1675083033.0,t3_10osvvj,r/compsci,0,2,-15,True,10osvvj,,,,comment score below threshold,LOW_SCORE,
+t5_2qhmr,False,text,0,False,j6p2v28,0,False,True,False,1675202704.0,True,t1_j6kuzbm,1,t2_32k7dyu,False,"I think the part about explicit interface implementation is more important, but I’m pulling shit out of my ass here.",0.0,t1_j6p2v28,False,0,False,"<div class=""md""><p>I think the part about explicit interface implementation is more important, but I’m pulling shit out of my ass here.</p>
+</div>",False,False,True,False,/r/compsci/comments/10osvvj/normalization_for_multimodal_type_theory_we_prove/j6p2v28/,public,False,1675202704.0,t3_10osvvj,r/compsci,0,2,1,True,10osvvj,,,,,,
+t5_2qhmr,False,text,0,False,j6ido2n,0,False,False,False,1675092911.0,True,t1_j6hspww,7,t2_bhn40,False,It can’t.,0.0,t1_j6ido2n,False,0,False,"<div class=""md""><p>It can’t.</p>
+</div>",False,False,True,False,/r/compsci/comments/10osvvj/normalization_for_multimodal_type_theory_we_prove/j6ido2n/,public,False,1675092911.0,t3_10osvvj,r/compsci,0,3,7,True,10osvvj,,,,,,
+t5_2qhmr,False,text,0,False,j4xsje7,0,False,False,False,1674087894.0,True,t3_10fhtmd,77,t2_5o1uu,False,Finally,0.0,t1_j4xsje7,False,0,False,"<div class=""md""><p>Finally</p>
+</div>",False,False,True,False,/r/compsci/comments/10fhtmd/finally_a_fast_algorithm_for_shortest_paths_on/j4xsje7/,public,False,1674087894.0,t3_10fhtmd,r/compsci,0,0,77,True,10fhtmd,,,,,,
+t5_2qhmr,False,text,0,False,j4yadtd,0,False,False,False,1674095598.0,True,t3_10fhtmd,182,t2_3i2ku969,False,I failed a coding interview because I used bellman fords algorithm instead of inventing this one on the spot. Unlucky.,0.0,t1_j4yadtd,False,0,False,"<div class=""md""><p>I failed a coding interview because I used bellman fords algorithm instead of inventing this one on the spot. Unlucky.</p>
+</div>",False,False,True,False,/r/compsci/comments/10fhtmd/finally_a_fast_algorithm_for_shortest_paths_on/j4yadtd/,public,False,1674095598.0,t3_10fhtmd,r/compsci,0,0,182,True,10fhtmd,,,,,,
+t5_2qhmr,False,text,0,False,j4ysp07,0,False,False,False,1674104342.0,True,t3_10fhtmd,11,t2_653a5,False,"Sorry if I don't understand this fully (it is interesting though) ... you have a graph that it's broken into clusters that are connected between them using a DAG, between these two clusters ""require just a few deletions to eliminate “backward” edges"" to avoid turning into a graph.  But ""unlikely that any shortest path would pass through too many such backward segments"" so they added negative weights.
+
+Do those negative weights mean that a path between two clusters won't be taken or is less preferred when calculating the SPF ?",0.0,t1_j4ysp07,False,0,False,"<div class=""md""><p>Sorry if I don&#39;t understand this fully (it is interesting though) ... you have a graph that it&#39;s broken into clusters that are connected between them using a DAG, between these two clusters &quot;require just a few deletions to eliminate “backward” edges&quot; to avoid turning into a graph.  But &quot;unlikely that any shortest path would pass through too many such backward segments&quot; so they added negative weights.</p>
+
+<p>Do those negative weights mean that a path between two clusters won&#39;t be taken or is less preferred when calculating the SPF ?</p>
+</div>",False,True,True,False,/r/compsci/comments/10fhtmd/finally_a_fast_algorithm_for_shortest_paths_on/j4ysp07/,public,False,1674104342.0,t3_10fhtmd,r/compsci,0,0,11,True,10fhtmd,,,,,,
+t5_2qhmr,False,text,0,False,j51e4fi,0,False,False,False,1674154188.0,True,t3_10fhtmd,8,t2_th60s,False,Here's the actual paper: https://arxiv.org/abs/2203.03456,0.0,t1_j51e4fi,False,0,False,"<div class=""md""><p>Here&#39;s the actual paper: <a href=""https://arxiv.org/abs/2203.03456"">https://arxiv.org/abs/2203.03456</a></p>
+</div>",False,False,True,False,/r/compsci/comments/10fhtmd/finally_a_fast_algorithm_for_shortest_paths_on/j51e4fi/,public,False,1674154188.0,t3_10fhtmd,r/compsci,0,0,8,True,10fhtmd,,,,,,
+t5_2qhmr,False,text,0,False,j4zf41r,0,False,False,False,1674120060.0,True,t3_10fhtmd,9,t2_2i2aa6z,False,How much better us this compared to bellman ford?,0.0,t1_j4zf41r,False,0,False,"<div class=""md""><p>How much better us this compared to bellman ford?</p>
+</div>",False,False,True,False,/r/compsci/comments/10fhtmd/finally_a_fast_algorithm_for_shortest_paths_on/j4zf41r/,public,False,1674120060.0,t3_10fhtmd,r/compsci,0,0,9,True,10fhtmd,,,,,,
+t5_2qhmr,False,text,0,False,j503tzt,0,False,False,False,1674136414.0,True,t3_10fhtmd,3,t2_43ddl1xr,False,"This is such a shit article, but nice",0.0,t1_j503tzt,False,0,False,"<div class=""md""><p>This is such a shit article, but nice</p>
+</div>",False,False,True,False,/r/compsci/comments/10fhtmd/finally_a_fast_algorithm_for_shortest_paths_on/j503tzt/,public,False,1674136414.0,t3_10fhtmd,r/compsci,0,0,3,True,10fhtmd,,,,,,
+t5_2qhmr,False,,0,False,j4ys03j,0,False,False,False,1674103966.0,True,t3_10fhtmd,3,,False,[deleted],0.0,t1_j4ys03j,False,0,,"<div class=""md""><p>[deleted]</p>
+</div>",False,,True,False,/r/compsci/comments/10fhtmd/finally_a_fast_algorithm_for_shortest_paths_on/j4ys03j/,public,False,1674103966.0,t3_10fhtmd,r/compsci,0,0,3,True,10fhtmd,,,dark,,,
+t5_2qhmr,False,text,0,False,j4xtb2s,0,False,False,False,1674088222.0,True,t1_j4xsje7,52,t2_c89qe,False,The streets have been waiting for this 💯,0.0,t1_j4xtb2s,False,0,False,"<div class=""md""><p>The streets have been waiting for this 💯</p>
+</div>",False,False,True,False,/r/compsci/comments/10fhtmd/finally_a_fast_algorithm_for_shortest_paths_on/j4xtb2s/,public,False,1674088222.0,t3_10fhtmd,r/compsci,0,1,52,True,10fhtmd,,,,,,
+t5_2qhmr,False,text,0,False,j4xvnd3,0,False,True,False,1674089207.0,True,t1_j4xsje7,2,t2_3u5of,False,Phew!,0.0,t1_j4xvnd3,False,0,False,"<div class=""md""><p>Phew!</p>
+</div>",False,False,True,False,/r/compsci/comments/10fhtmd/finally_a_fast_algorithm_for_shortest_paths_on/j4xvnd3/,public,False,1674089207.0,t3_10fhtmd,r/compsci,0,1,2,True,10fhtmd,,,,,,
+t5_2qhmr,False,text,0,False,j4z9w12,0,False,False,False,1674115800.0,True,t1_j4yadtd,63,t2_tvfu0,False,"I mean, if you can't push forward the entire field in one job interview, then what is really your value to the company?",0.0,t1_j4z9w12,False,0,False,"<div class=""md""><p>I mean, if you can&#39;t push forward the entire field in one job interview, then what is really your value to the company?</p>
+</div>",False,False,True,False,/r/compsci/comments/10fhtmd/finally_a_fast_algorithm_for_shortest_paths_on/j4z9w12/,public,False,1674115800.0,t3_10fhtmd,r/compsci,0,1,63,True,10fhtmd,,,,,,
+t5_2qhmr,False,text,0,False,j50ll12,0,False,False,False,1674143750.0,True,t1_j4yadtd,9,t2_nvs0wvvy,False,I failed a coding interview because I used Brent's cycle finding algorithm instead of Floyd's. The interviewer was baffled.,0.0,t1_j50ll12,False,0,False,"<div class=""md""><p>I failed a coding interview because I used Brent&#39;s cycle finding algorithm instead of Floyd&#39;s. The interviewer was baffled.</p>
+</div>",False,False,True,False,/r/compsci/comments/10fhtmd/finally_a_fast_algorithm_for_shortest_paths_on/j50ll12/,public,False,1674143750.0,t3_10fhtmd,r/compsci,0,1,9,True,10fhtmd,,,,,,
+t5_2qhmr,False,text,0,False,j4z0vbi,0,False,False,False,1674109204.0,True,t1_j4ys03j,18,t2_1yc7mjnh,False,is this chatgpt?,0.0,t1_j4z0vbi,False,0,False,"<div class=""md""><p>is this chatgpt?</p>
+</div>",False,False,True,False,/r/compsci/comments/10fhtmd/finally_a_fast_algorithm_for_shortest_paths_on/j4z0vbi/,public,False,1674109204.0,t3_10fhtmd,r/compsci,0,1,18,True,10fhtmd,,,,,,
+t5_2qhmr,False,text,0,False,j4z2nhk,0,False,False,False,1674110386.0,True,t1_j4ys03j,6,t2_4t2at,False,Why are you just copying ChatGPT text as if you wrote it?,0.0,t1_j4z2nhk,False,0,False,"<div class=""md""><p>Why are you just copying ChatGPT text as if you wrote it?</p>
+</div>",False,False,True,False,/r/compsci/comments/10fhtmd/finally_a_fast_algorithm_for_shortest_paths_on/j4z2nhk/,public,False,1674110386.0,t3_10fhtmd,r/compsci,0,1,6,True,10fhtmd,,,,,,
+t5_2qhmr,False,text,0,False,j4xvb12,0,False,False,False,1674089062.0,True,t1_j4xtb2s,44,t2_13pmsrkp,False,Especially the negative-length ones,0.0,t1_j4xvb12,False,0,False,"<div class=""md""><p>Especially the negative-length ones</p>
+</div>",False,False,True,False,/r/compsci/comments/10fhtmd/finally_a_fast_algorithm_for_shortest_paths_on/j4xvb12/,public,False,1674089062.0,t3_10fhtmd,r/compsci,0,2,44,True,10fhtmd,,,,,,
+t5_2qhmr,False,text,0,False,j50clbg,0,False,False,False,1674140223.0,True,t1_j4z9w12,13,t2_4s7f8,False,"Especially if they’re willing to pay more than minimum wage!
+
+Edit: typo",1675992084.0,t1_j50clbg,False,0,False,"<div class=""md""><p>Especially if they’re willing to pay more than minimum wage!</p>
+
+<p>Edit: typo</p>
+</div>",False,False,True,False,/r/compsci/comments/10fhtmd/finally_a_fast_algorithm_for_shortest_paths_on/j50clbg/,public,False,1674140223.0,t3_10fhtmd,r/compsci,0,2,13,True,10fhtmd,,,,,,
+t5_2qhmr,False,text,0,False,j51m316,0,False,True,False,1674157104.0,True,t1_j50ll12,3,t2_dbt9wvbi,False,"Lmaooo, i feel as i should kinda know what you guys are talking about, any book recomendation for someone that probably saw this on classes but barely passed?",0.0,t1_j51m316,False,0,False,"<div class=""md""><p>Lmaooo, i feel as i should kinda know what you guys are talking about, any book recomendation for someone that probably saw this on classes but barely passed?</p>
+</div>",False,False,True,False,/r/compsci/comments/10fhtmd/finally_a_fast_algorithm_for_shortest_paths_on/j51m316/,public,False,1674157104.0,t3_10fhtmd,r/compsci,0,2,3,True,10fhtmd,,,,,,
+t5_2qhmr,False,text,0,False,j7suqg0,0,False,True,False,1675914715.0,True,t1_j4z2nhk,1,t2_flfiw,False,"Karma farming bots are getting a ChatGPT upgrade.
+
+Once they have enough karma, the account can be sold to advertisers to covertly *false word-of-mouth* advertise in the comment section. The karma and age of the account is to lend credibility to the account.",0.0,t1_j7suqg0,False,0,False,"<div class=""md""><p>Karma farming bots are getting a ChatGPT upgrade.</p>
+
+<p>Once they have enough karma, the account can be sold to advertisers to covertly <em>false word-of-mouth</em> advertise in the comment section. The karma and age of the account is to lend credibility to the account.</p>
+</div>",False,False,True,False,/r/compsci/comments/10fhtmd/finally_a_fast_algorithm_for_shortest_paths_on/j7suqg0/,public,False,1675914715.0,t3_10fhtmd,r/compsci,0,2,1,True,10fhtmd,,,,,,
+t5_2qhmr,False,text,0,False,j51wzmw,0,False,False,False,1674161058.0,True,t1_j51m316,4,t2_nvs0wvvy,False,"In my case I was using a slightly better (and simpler) algorithm (Brent's) than the one taught in most intro CS courses (Floyd's)
+
+You can read about them here:
+
+[https://en.wikipedia.org/wiki/Cycle_detection](https://en.wikipedia.org/wiki/Cycle_detection)",0.0,t1_j51wzmw,False,0,False,"<div class=""md""><p>In my case I was using a slightly better (and simpler) algorithm (Brent&#39;s) than the one taught in most intro CS courses (Floyd&#39;s)</p>
+
+<p>You can read about them here:</p>
+
+<p><a href=""https://en.wikipedia.org/wiki/Cycle_detection"">https://en.wikipedia.org/wiki/Cycle_detection</a></p>
+</div>",False,False,True,False,/r/compsci/comments/10fhtmd/finally_a_fast_algorithm_for_shortest_paths_on/j51wzmw/,public,False,1674161058.0,t3_10fhtmd,r/compsci,0,3,4,True,10fhtmd,,,,,,
+t5_2qhmr,False,text,0,False,j51y71l,0,False,True,False,1674161463.0,True,t1_j51m316,3,t2_blmuc,False,That big blue algorithms book by CLRS,0.0,t1_j51y71l,False,0,False,"<div class=""md""><p>That big blue algorithms book by CLRS</p>
+</div>",False,False,True,False,/r/compsci/comments/10fhtmd/finally_a_fast_algorithm_for_shortest_paths_on/j51y71l/,public,False,1674161463.0,t3_10fhtmd,r/compsci,0,3,3,True,10fhtmd,,,,,,
+t5_2qhmr,False,text,0,False,j82yhs1,0,False,True,False,1676095860.0,True,t3_10z3ciy,5,t2_c50fr,False,"The snake isn't always optimal. Consider a 3x3x3 cube. The snake takes 16 turns, but you can do it in 15 by spiraling in along the bottom layer, go all the way up the middle, spiral out on the top, then go down to the middle layer and go in a loop to get the rest of the points.
+
+https://imgur.com/a/rubkkN3",0.0,t1_j82yhs1,False,0,False,"<div class=""md""><p>The snake isn&#39;t always optimal. Consider a 3x3x3 cube. The snake takes 16 turns, but you can do it in 15 by spiraling in along the bottom layer, go all the way up the middle, spiral out on the top, then go down to the middle layer and go in a loop to get the rest of the points.</p>
+
+<p><a href=""https://imgur.com/a/rubkkN3"">https://imgur.com/a/rubkkN3</a></p>
+</div>",False,False,True,False,/r/compsci/comments/10z3ciy/how_do_i_traverse_every_point_in_a_3d_area/j82yhs1/,public,False,1676095860.0,t3_10z3ciy,r/compsci,0,0,5,True,10z3ciy,,,,,,
+t5_2qhmr,False,text,0,False,j83m1y2,0,False,False,False,1676115054.0,True,t3_10z3ciy,3,t2_1gn26r,False,"I believe in the literature what you are talking about falls into the category of a [Space Filling Curve](https://en.m.wikipedia.org/wiki/Space-filling_curve). I am not familiar with “which” one might have the property you are looking for of “least turns”, but there are several types listed here which should hopefully get you started in tracking down if that particular variant already has a known solution.",0.0,t1_j83m1y2,False,0,False,"<div class=""md""><p>I believe in the literature what you are talking about falls into the category of a <a href=""https://en.m.wikipedia.org/wiki/Space-filling_curve"">Space Filling Curve</a>. I am not familiar with “which” one might have the property you are looking for of “least turns”, but there are several types listed here which should hopefully get you started in tracking down if that particular variant already has a known solution.</p>
+</div>",False,False,True,False,/r/compsci/comments/10z3ciy/how_do_i_traverse_every_point_in_a_3d_area/j83m1y2/,public,False,1676115054.0,t3_10z3ciy,r/compsci,0,0,3,True,10z3ciy,,,,,,
+t5_2qhmr,False,richtext,0,False,j85k4u4,0,False,True,False,1676146265.0,True,t3_10z3ciy,1,t2_15p7xg,False,I’m not entirely sure what you’re asking but it sounds vaguely like the [snake-in-the-box](https://en.m.wikipedia.org/wiki/Snake-in-the-box) problem.,0.0,t1_j85k4u4,False,0,False,"<div class=""md""><p>I’m not entirely sure what you’re asking but it sounds vaguely like the <a href=""https://en.m.wikipedia.org/wiki/Snake-in-the-box"">snake-in-the-box</a> problem.</p>
+</div>",False,False,True,False,/r/compsci/comments/10z3ciy/how_do_i_traverse_every_point_in_a_3d_area/j85k4u4/,public,False,1676146265.0,t3_10z3ciy,r/compsci,0,0,1,True,10z3ciy,#373c3f,Algorithmic Evangelist,light,,,8e375654-6c8d-11e9-a087-0e74d31ec612
+t5_2qhmr,False,text,0,False,j824hnm,0,False,True,False,1676079513.0,True,t3_10z3ciy,-2,t2_aeta4,False,"I feel like this is a solved problem but I'm 10+ years out of school. 
+
+It sounds like ""Traveling Salesman"" but without the returning to origin stipulation.
+
+https://en.m.wikipedia.org/wiki/Travelling_salesman_problem",0.0,t1_j824hnm,False,0,False,"<div class=""md""><p>I feel like this is a solved problem but I&#39;m 10+ years out of school. </p>
+
+<p>It sounds like &quot;Traveling Salesman&quot; but without the returning to origin stipulation.</p>
+
+<p><a href=""https://en.m.wikipedia.org/wiki/Travelling_salesman_problem"">https://en.m.wikipedia.org/wiki/Travelling_salesman_problem</a></p>
+</div>",False,False,True,False,/r/compsci/comments/10z3ciy/how_do_i_traverse_every_point_in_a_3d_area/j824hnm/,public,False,1676079513.0,t3_10z3ciy,r/compsci,0,0,-2,True,10z3ciy,,,,,,
+t5_2qhmr,False,text,0,False,j8301vk,0,False,True,False,1676096987.0,True,t3_10z3ciy,-8,t2_10stck,True,ask chatgpt,0.0,t1_j8301vk,False,0,False,"<div class=""md""><p>ask chatgpt</p>
+</div>",False,False,True,False,/r/compsci/comments/10z3ciy/how_do_i_traverse_every_point_in_a_3d_area/j8301vk/,public,False,1676096987.0,t3_10z3ciy,r/compsci,0,0,-8,True,10z3ciy,,,,comment score below threshold,LOW_SCORE,
+t5_2qhmr,False,text,0,False,j85frc5,0,False,True,False,1676144456.0,True,t3_10z3ciy,0,t2_am0wz0jt,False,"Hilbert curve
+
+https://en.m.wikipedia.org/wiki/Hilbert_curve
+
+https://stackoverflow.com/questions/14519267/algorithm-for-generating-a-3d-hilbert-space-filling-curve-in-python",0.0,t1_j85frc5,False,0,False,"<div class=""md""><p>Hilbert curve</p>
+
+<p><a href=""https://en.m.wikipedia.org/wiki/Hilbert_curve"">https://en.m.wikipedia.org/wiki/Hilbert_curve</a></p>
+
+<p><a href=""https://stackoverflow.com/questions/14519267/algorithm-for-generating-a-3d-hilbert-space-filling-curve-in-python"">https://stackoverflow.com/questions/14519267/algorithm-for-generating-a-3d-hilbert-space-filling-curve-in-python</a></p>
+</div>",False,False,True,False,/r/compsci/comments/10z3ciy/how_do_i_traverse_every_point_in_a_3d_area/j85frc5/,public,False,1676144456.0,t3_10z3ciy,r/compsci,0,0,0,True,10z3ciy,,,,,,
+t5_2qhmr,False,text,0,False,j82z7g3,0,False,True,False,1676096372.0,True,t1_j82yhs1,2,t2_6zswruuk,False,"Nice catch, wouldn't have ever realized that",0.0,t1_j82z7g3,True,0,False,"<div class=""md""><p>Nice catch, wouldn&#39;t have ever realized that</p>
+</div>",False,False,True,False,/r/compsci/comments/10z3ciy/how_do_i_traverse_every_point_in_a_3d_area/j82z7g3/,public,False,1676096372.0,t3_10z3ciy,r/compsci,0,1,2,True,10z3ciy,,,,,,
+t5_2qhmr,False,text,0,False,j83m6zu,0,False,True,False,1676115164.0,True,t1_j83m1y2,1,t2_6zswruuk,False,"Yeah, this was the closest thing I had found before I posted here but I didn’t look too deeply into it.",0.0,t1_j83m6zu,True,0,False,"<div class=""md""><p>Yeah, this was the closest thing I had found before I posted here but I didn’t look too deeply into it.</p>
+</div>",False,False,True,False,/r/compsci/comments/10z3ciy/how_do_i_traverse_every_point_in_a_3d_area/j83m6zu/,public,False,1676115164.0,t3_10z3ciy,r/compsci,0,1,1,True,10z3ciy,,,,,,
+t5_2qhmr,False,text,0,False,j82914k,0,False,True,False,1676081676.0,True,t1_j824hnm,2,t2_6zswruuk,False,But doesn't the traveling salesman problem not have a solution? I feel like it's a little different because of how structured the data is compared to a typical application of the traveling salesman problem. This problem can definitely be solved in O(n) time complexity,0.0,t1_j82914k,True,0,False,"<div class=""md""><p>But doesn&#39;t the traveling salesman problem not have a solution? I feel like it&#39;s a little different because of how structured the data is compared to a typical application of the traveling salesman problem. This problem can definitely be solved in O(n) time complexity</p>
+</div>",False,False,True,False,/r/compsci/comments/10z3ciy/how_do_i_traverse_every_point_in_a_3d_area/j82914k/,public,False,1676081676.0,t3_10z3ciy,r/compsci,0,1,2,True,10z3ciy,,,,,,
+t5_2qhmr,False,text,0,False,j85o1sl,0,False,True,False,1676147920.0,True,t1_j85frc5,2,t2_6zswruuk,False,"Would I modify the curve to form a snake-like pattern? I looked at this earlier, and it definitely isn't the pattern I'm looking for.",0.0,t1_j85o1sl,True,0,False,"<div class=""md""><p>Would I modify the curve to form a snake-like pattern? I looked at this earlier, and it definitely isn&#39;t the pattern I&#39;m looking for.</p>
+</div>",False,False,True,False,/r/compsci/comments/10z3ciy/how_do_i_traverse_every_point_in_a_3d_area/j85o1sl/,public,False,1676147920.0,t3_10z3ciy,r/compsci,0,1,2,True,10z3ciy,,,,,,
+t5_2qhmr,False,text,0,False,j8alkl7,0,False,True,False,1676239784.0,True,t1_j82914k,2,t2_41ql7,False,"It has a solution, just that in the general case it's `O(n!)`, though there are many methods that can get exact solutions even for large graphs.
+
+This is doing something else.  Instead of worrying about the weight of an arc, it's worrying about direction changes.  It might also be `O(n!)`, but I don't know.",0.0,t1_j8alkl7,False,0,False,"<div class=""md""><p>It has a solution, just that in the general case it&#39;s <code>O(n!)</code>, though there are many methods that can get exact solutions even for large graphs.</p>
+
+<p>This is doing something else.  Instead of worrying about the weight of an arc, it&#39;s worrying about direction changes.  It might also be <code>O(n!)</code>, but I don&#39;t know.</p>
+</div>",False,False,True,False,/r/compsci/comments/10z3ciy/how_do_i_traverse_every_point_in_a_3d_area/j8alkl7/,public,False,1676239784.0,t3_10z3ciy,r/compsci,0,2,2,True,10z3ciy,,,,,,
+t5_2qhmr,False,text,0,False,j8amozx,0,False,True,False,1676240285.0,True,t1_j8alkl7,1,t2_6zswruuk,False,Is there a more traditional way to model it if I included different costs for the directions depending on whether or not it requires a turn?,0.0,t1_j8amozx,True,0,False,"<div class=""md""><p>Is there a more traditional way to model it if I included different costs for the directions depending on whether or not it requires a turn?</p>
+</div>",False,False,True,False,/r/compsci/comments/10z3ciy/how_do_i_traverse_every_point_in_a_3d_area/j8amozx/,public,False,1676240285.0,t3_10z3ciy,r/compsci,0,3,1,True,10z3ciy,,,,,,
+t5_2qhmr,False,text,0,False,j8aosgm,0,False,True,False,1676241212.0,True,t1_j8amozx,1,t2_41ql7,False,Maybe some kind of dynamic programming.  But I can't see a clear way to do it right now.,0.0,t1_j8aosgm,False,0,False,"<div class=""md""><p>Maybe some kind of dynamic programming.  But I can&#39;t see a clear way to do it right now.</p>
+</div>",False,False,True,False,/r/compsci/comments/10z3ciy/how_do_i_traverse_every_point_in_a_3d_area/j8aosgm/,public,False,1676241212.0,t3_10z3ciy,r/compsci,0,4,1,True,10z3ciy,,,,,,
+t5_2qhmr,False,text,0,False,j8aq2dl,0,False,True,False,1676241775.0,True,t1_j8aosgm,1,t2_6zswruuk,False,"First, I generate all of the points for the area. Then I sort by the longest two axes first and then look for when those axes change, create subsets of them, and then reverse every other subsets order. This works, but it doesn't feel like a good solution.",0.0,t1_j8aq2dl,True,0,False,"<div class=""md""><p>First, I generate all of the points for the area. Then I sort by the longest two axes first and then look for when those axes change, create subsets of them, and then reverse every other subsets order. This works, but it doesn&#39;t feel like a good solution.</p>
+</div>",False,False,True,False,/r/compsci/comments/10z3ciy/how_do_i_traverse_every_point_in_a_3d_area/j8aq2dl/,public,False,1676241775.0,t3_10z3ciy,r/compsci,0,5,1,True,10z3ciy,,,,,,

